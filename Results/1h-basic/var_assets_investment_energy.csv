@@ -1,0 +1,8 @@
+id,asset,milestone_year,investment_integer_storage_energy,capacity_storage_energy,investment_limit_storage_energy,solution
+1,NL_Battery,2030,false,10.0,,0.0
+2,BE_Battery,2030,false,10.0,,0.0
+3,DE_Battery,2030,false,10.0,,109.86051004965047
+4,FR_Battery,2030,false,10.0,,419.46769817035675
+5,LU_Battery,2030,false,10.0,,36.761175496545036
+6,CH_Battery,2030,false,10.0,,234.28038831670898
+7,UK_Battery,2030,false,10.0,,286.17824773178194
