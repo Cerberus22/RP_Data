@@ -179,7 +179,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 178,DE_Battery,2030,10,13,16,0.0
 179,DE_Battery,2030,10,17,20,0.0
 180,DE_Battery,2030,10,21,24,0.0
-181,FR_Battery,2030,1,1,4,0.0
+181,FR_Battery,2030,1,1,4,-7.0596
 182,FR_Battery,2030,1,5,8,0.0
 183,FR_Battery,2030,1,9,12,0.0
 184,FR_Battery,2030,1,13,16,0.0
@@ -233,7 +233,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 232,FR_Battery,2030,9,13,16,0.0
 233,FR_Battery,2030,9,17,20,0.0
 234,FR_Battery,2030,9,21,24,0.0
-235,FR_Battery,2030,10,1,4,0.0
+235,FR_Battery,2030,10,1,4,-1.5241657056663014
 236,FR_Battery,2030,10,5,8,0.0
 237,FR_Battery,2030,10,9,12,0.0
 238,FR_Battery,2030,10,13,16,0.0
@@ -354,7 +354,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 353,NL_Battery,2030,9,17,20,0.0
 354,NL_Battery,2030,9,21,24,0.0
 355,NL_Battery,2030,10,1,4,0.0
-356,NL_Battery,2030,10,5,8,-3.3119999999999985
+356,NL_Battery,2030,10,5,8,0.0
 357,NL_Battery,2030,10,9,12,0.0
 358,NL_Battery,2030,10,13,16,0.0
 359,NL_Battery,2030,10,17,20,0.0

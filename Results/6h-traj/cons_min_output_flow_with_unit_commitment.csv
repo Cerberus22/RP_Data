@@ -518,7 +518,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 517,UK_CCGT,2030,10,1,6,0.0
 518,UK_CCGT,2030,10,7,12,0.0
 519,UK_CCGT,2030,10,13,18,0.0
-520,UK_CCGT,2030,10,19,24,0.0
+520,UK_CCGT,2030,10,19,24,-0.0
 521,UK_OCGT,2030,1,1,6,0.0
 522,UK_OCGT,2030,1,7,12,0.0
 523,UK_OCGT,2030,1,13,18,0.0

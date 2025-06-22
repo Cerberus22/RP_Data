@@ -115,7 +115,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 114,BE_CCGT,2030,9,21,24,0.0
 115,BE_CCGT,2030,10,1,4,0.0
 116,BE_CCGT,2030,10,5,8,0.0
-117,BE_CCGT,2030,10,9,12,-3.3119999999999985
+117,BE_CCGT,2030,10,9,12,0.0
 118,BE_CCGT,2030,10,13,16,0.0
 119,BE_CCGT,2030,10,17,20,-3.3119999999999985
 120,BE_CCGT,2030,10,21,24,0.0
@@ -175,7 +175,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 174,BE_Coal,2030,9,21,24,0.0
 175,BE_Coal,2030,10,1,4,0.0
 176,BE_Coal,2030,10,5,8,-2.8152
-177,BE_Coal,2030,10,9,12,-6.127199999999998
+177,BE_Coal,2030,10,9,12,-2.8152
 178,BE_Coal,2030,10,13,16,-2.8152
 179,BE_Coal,2030,10,17,20,-6.127199999999998
 180,BE_Coal,2030,10,21,24,-2.8152
@@ -212,7 +212,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 211,BE_Nuclear,2030,6,1,4,-0.6696
 212,BE_Nuclear,2030,6,5,8,-0.6696
 213,BE_Nuclear,2030,6,9,12,-0.6696
-214,BE_Nuclear,2030,6,13,16,-0.6696
+214,BE_Nuclear,2030,6,13,16,0.0
 215,BE_Nuclear,2030,6,17,20,-0.6696
 216,BE_Nuclear,2030,6,21,24,-0.6696
 217,BE_Nuclear,2030,7,1,4,-1.3764000000000003
@@ -235,7 +235,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 234,BE_Nuclear,2030,9,21,24,-1.5996000000000001
 235,BE_Nuclear,2030,10,1,4,-1.7112000000000003
 236,BE_Nuclear,2030,10,5,8,-4.526400000000001
-237,BE_Nuclear,2030,10,9,12,-7.838399999999998
+237,BE_Nuclear,2030,10,9,12,-4.526400000000001
 238,BE_Nuclear,2030,10,13,16,-4.526400000000001
 239,BE_Nuclear,2030,10,17,20,-7.838399999999998
 240,BE_Nuclear,2030,10,21,24,-4.526400000000001
@@ -332,7 +332,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 331,BE_Solar,2030,6,1,4,-1.2744
 332,BE_Solar,2030,6,5,8,-1.2744
 333,BE_Solar,2030,6,9,12,-1.2744
-334,BE_Solar,2030,6,13,16,-1.2744
+334,BE_Solar,2030,6,13,16,-0.14400000000000002
 335,BE_Solar,2030,6,17,20,-1.2744
 336,BE_Solar,2030,6,21,24,-1.2744
 337,BE_Solar,2030,7,1,4,-2.6196
@@ -355,7 +355,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 354,BE_Solar,2030,9,21,24,-3.0444
 355,BE_Solar,2030,10,1,4,-3.2568
 356,BE_Solar,2030,10,5,8,-6.072
-357,BE_Solar,2030,10,9,12,-9.383999999999999
+357,BE_Solar,2030,10,9,12,-6.072
 358,BE_Solar,2030,10,13,16,-6.072
 359,BE_Solar,2030,10,17,20,-9.383999999999999
 360,BE_Solar,2030,10,21,24,-6.072
@@ -392,7 +392,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 391,BE_Wind_Offshore,2030,6,1,4,-1.1303999999999998
 392,BE_Wind_Offshore,2030,6,5,8,-1.1303999999999998
 393,BE_Wind_Offshore,2030,6,9,12,-1.1303999999999998
-394,BE_Wind_Offshore,2030,6,13,16,-1.1303999999999998
+394,BE_Wind_Offshore,2030,6,13,16,0.0
 395,BE_Wind_Offshore,2030,6,17,20,-1.1303999999999998
 396,BE_Wind_Offshore,2030,6,21,24,-1.1303999999999998
 397,BE_Wind_Offshore,2030,7,1,4,-2.3236000000000003
@@ -415,7 +415,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 414,BE_Wind_Offshore,2030,9,21,24,-2.7004
 415,BE_Wind_Offshore,2030,10,1,4,-2.8888000000000003
 416,BE_Wind_Offshore,2030,10,5,8,-5.704
-417,BE_Wind_Offshore,2030,10,9,12,-9.015999999999998
+417,BE_Wind_Offshore,2030,10,9,12,-5.704
 418,BE_Wind_Offshore,2030,10,13,16,-5.704
 419,BE_Wind_Offshore,2030,10,17,20,-9.015999999999998
 420,BE_Wind_Offshore,2030,10,21,24,-5.704
@@ -452,7 +452,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 451,BE_Wind_Onshore,2030,6,1,4,-1.1303999999999998
 452,BE_Wind_Onshore,2030,6,5,8,-1.1303999999999998
 453,BE_Wind_Onshore,2030,6,9,12,-1.1303999999999998
-454,BE_Wind_Onshore,2030,6,13,16,-1.1303999999999998
+454,BE_Wind_Onshore,2030,6,13,16,0.0
 455,BE_Wind_Onshore,2030,6,17,20,-1.1303999999999998
 456,BE_Wind_Onshore,2030,6,21,24,-1.1303999999999998
 457,BE_Wind_Onshore,2030,7,1,4,-2.3236000000000003
@@ -475,7 +475,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 474,BE_Wind_Onshore,2030,9,21,24,-2.7004
 475,BE_Wind_Onshore,2030,10,1,4,-2.8888000000000003
 476,BE_Wind_Onshore,2030,10,5,8,-5.704
-477,BE_Wind_Onshore,2030,10,9,12,-9.015999999999998
+477,BE_Wind_Onshore,2030,10,9,12,-5.704
 478,BE_Wind_Onshore,2030,10,13,16,-5.704
 479,BE_Wind_Onshore,2030,10,17,20,-9.015999999999998
 480,BE_Wind_Onshore,2030,10,21,24,-5.704
@@ -495,7 +495,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 494,CH_Battery,2030,3,5,8,0.0
 495,CH_Battery,2030,3,9,12,0.0
 496,CH_Battery,2030,3,13,16,0.0
-497,CH_Battery,2030,3,17,20,-2.087999999999999
+497,CH_Battery,2030,3,17,20,0.0
 498,CH_Battery,2030,3,21,24,0.0
 499,CH_Battery,2030,4,1,4,0.0
 500,CH_Battery,2030,4,5,8,0.0
@@ -537,7 +537,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 536,CH_Battery,2030,10,5,8,0.0
 537,CH_Battery,2030,10,9,12,0.0
 538,CH_Battery,2030,10,13,16,0.0
-539,CH_Battery,2030,10,17,20,0.0
+539,CH_Battery,2030,10,17,20,-6.127199999999998
 540,CH_Battery,2030,10,21,24,0.0
 541,CH_CCGT,2030,1,1,4,0.0
 542,CH_CCGT,2030,1,5,8,0.0
@@ -552,7 +552,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 551,CH_CCGT,2030,2,17,20,0.0
 552,CH_CCGT,2030,2,21,24,0.0
 553,CH_CCGT,2030,3,1,4,0.0
-554,CH_CCGT,2030,3,5,8,-28.803228528331513
+554,CH_CCGT,2030,3,5,8,0.0
 555,CH_CCGT,2030,3,9,12,0.0
 556,CH_CCGT,2030,3,13,16,0.0
 557,CH_CCGT,2030,3,17,20,-2.087999999999999
@@ -594,7 +594,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 593,CH_CCGT,2030,9,17,20,0.0
 594,CH_CCGT,2030,9,21,24,0.0
 595,CH_CCGT,2030,10,1,4,0.0
-596,CH_CCGT,2030,10,5,8,-3.3119999999999985
+596,CH_CCGT,2030,10,5,8,0.0
 597,CH_CCGT,2030,10,9,12,0.0
 598,CH_CCGT,2030,10,13,16,0.0
 599,CH_CCGT,2030,10,17,20,-3.3119999999999985
@@ -612,7 +612,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 611,CH_Coal,2030,2,17,20,0.0
 612,CH_Coal,2030,2,21,24,0.0
 613,CH_Coal,2030,3,1,4,0.0
-614,CH_Coal,2030,3,5,8,-30.57802852833151
+614,CH_Coal,2030,3,5,8,-1.7748000000000004
 615,CH_Coal,2030,3,9,12,0.0
 616,CH_Coal,2030,3,13,16,0.0
 617,CH_Coal,2030,3,17,20,-3.8627999999999996
@@ -654,7 +654,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 653,CH_Coal,2030,9,17,20,0.0
 654,CH_Coal,2030,9,21,24,0.0
 655,CH_Coal,2030,10,1,4,0.0
-656,CH_Coal,2030,10,5,8,-6.127199999999998
+656,CH_Coal,2030,10,5,8,-2.8152
 657,CH_Coal,2030,10,9,12,-2.8152
 658,CH_Coal,2030,10,13,16,0.0
 659,CH_Coal,2030,10,17,20,-6.127199999999998
@@ -672,7 +672,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 671,CH_Nuclear,2030,2,17,20,-1.2276000000000002
 672,CH_Nuclear,2030,2,21,24,-1.2276000000000002
 673,CH_Nuclear,2030,3,1,4,-1.0788
-674,CH_Nuclear,2030,3,5,8,-31.656828528331513
+674,CH_Nuclear,2030,3,5,8,-2.8536
 675,CH_Nuclear,2030,3,9,12,-1.0788
 676,CH_Nuclear,2030,3,13,16,-1.0788
 677,CH_Nuclear,2030,3,17,20,-4.941599999999999
@@ -714,7 +714,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 713,CH_Nuclear,2030,9,17,20,-1.5996000000000001
 714,CH_Nuclear,2030,9,21,24,-1.5996000000000001
 715,CH_Nuclear,2030,10,1,4,-1.7112000000000003
-716,CH_Nuclear,2030,10,5,8,-7.838399999999998
+716,CH_Nuclear,2030,10,5,8,-4.526400000000001
 717,CH_Nuclear,2030,10,9,12,-4.526400000000001
 718,CH_Nuclear,2030,10,13,16,-1.7112000000000003
 719,CH_Nuclear,2030,10,17,20,-7.838399999999998
@@ -792,7 +792,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 791,CH_Solar,2030,2,17,20,-2.3364000000000003
 792,CH_Solar,2030,2,21,24,-2.3364000000000003
 793,CH_Solar,2030,3,1,4,-2.0532
-794,CH_Solar,2030,3,5,8,-32.63122852833151
+794,CH_Solar,2030,3,5,8,-3.8280000000000003
 795,CH_Solar,2030,3,9,12,-2.0532
 796,CH_Solar,2030,3,13,16,-2.0532
 797,CH_Solar,2030,3,17,20,-5.9159999999999995
@@ -834,7 +834,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 833,CH_Solar,2030,9,17,20,-3.0444
 834,CH_Solar,2030,9,21,24,-3.0444
 835,CH_Solar,2030,10,1,4,-3.2568
-836,CH_Solar,2030,10,5,8,-9.383999999999999
+836,CH_Solar,2030,10,5,8,-6.072
 837,CH_Solar,2030,10,9,12,-6.072
 838,CH_Solar,2030,10,13,16,-3.2568
 839,CH_Solar,2030,10,17,20,-9.383999999999999
@@ -852,7 +852,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 851,CH_Wind_Offshore,2030,2,17,20,-2.0724
 852,CH_Wind_Offshore,2030,2,21,24,-2.0724
 853,CH_Wind_Offshore,2030,3,1,4,-1.8212
-854,CH_Wind_Offshore,2030,3,5,8,-32.39922852833151
+854,CH_Wind_Offshore,2030,3,5,8,-3.596
 855,CH_Wind_Offshore,2030,3,9,12,-1.8212
 856,CH_Wind_Offshore,2030,3,13,16,-1.8212
 857,CH_Wind_Offshore,2030,3,17,20,-5.683999999999999
@@ -894,7 +894,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 893,CH_Wind_Offshore,2030,9,17,20,-2.7004
 894,CH_Wind_Offshore,2030,9,21,24,-2.7004
 895,CH_Wind_Offshore,2030,10,1,4,-2.8888000000000003
-896,CH_Wind_Offshore,2030,10,5,8,-9.015999999999998
+896,CH_Wind_Offshore,2030,10,5,8,-5.704
 897,CH_Wind_Offshore,2030,10,9,12,-5.704
 898,CH_Wind_Offshore,2030,10,13,16,-2.8888000000000003
 899,CH_Wind_Offshore,2030,10,17,20,-9.015999999999998
@@ -912,7 +912,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 911,CH_Wind_Onshore,2030,2,17,20,-2.0724
 912,CH_Wind_Onshore,2030,2,21,24,-2.0724
 913,CH_Wind_Onshore,2030,3,1,4,-1.8212
-914,CH_Wind_Onshore,2030,3,5,8,-32.39922852833151
+914,CH_Wind_Onshore,2030,3,5,8,-3.596
 915,CH_Wind_Onshore,2030,3,9,12,-1.8212
 916,CH_Wind_Onshore,2030,3,13,16,-1.8212
 917,CH_Wind_Onshore,2030,3,17,20,-5.683999999999999
@@ -954,7 +954,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 953,CH_Wind_Onshore,2030,9,17,20,-2.7004
 954,CH_Wind_Onshore,2030,9,21,24,-2.7004
 955,CH_Wind_Onshore,2030,10,1,4,-2.8888000000000003
-956,CH_Wind_Onshore,2030,10,5,8,-9.015999999999998
+956,CH_Wind_Onshore,2030,10,5,8,-5.704
 957,CH_Wind_Onshore,2030,10,9,12,-5.704
 958,CH_Wind_Onshore,2030,10,13,16,-2.8888000000000003
 959,CH_Wind_Onshore,2030,10,17,20,-9.015999999999998
@@ -1074,8 +1074,8 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1073,DE_CCGT,2030,9,17,20,0.0
 1074,DE_CCGT,2030,9,21,24,0.0
 1075,DE_CCGT,2030,10,1,4,0.0
-1076,DE_CCGT,2030,10,5,8,-3.3119999999999985
-1077,DE_CCGT,2030,10,9,12,-3.3119999999999985
+1076,DE_CCGT,2030,10,5,8,0.0
+1077,DE_CCGT,2030,10,9,12,0.0
 1078,DE_CCGT,2030,10,13,16,0.0
 1079,DE_CCGT,2030,10,17,20,-3.3119999999999985
 1080,DE_CCGT,2030,10,21,24,0.0
@@ -1134,8 +1134,8 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1133,DE_Coal,2030,9,17,20,0.0
 1134,DE_Coal,2030,9,21,24,0.0
 1135,DE_Coal,2030,10,1,4,0.0
-1136,DE_Coal,2030,10,5,8,-6.127199999999998
-1137,DE_Coal,2030,10,9,12,-6.127199999999998
+1136,DE_Coal,2030,10,5,8,-2.8152
+1137,DE_Coal,2030,10,9,12,-2.8152
 1138,DE_Coal,2030,10,13,16,-2.8152
 1139,DE_Coal,2030,10,17,20,-6.127199999999998
 1140,DE_Coal,2030,10,21,24,-2.8152
@@ -1185,7 +1185,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1184,DE_Nuclear,2030,8,5,8,0.0
 1185,DE_Nuclear,2030,8,9,12,0.0
 1186,DE_Nuclear,2030,8,13,16,0.0
-1187,DE_Nuclear,2030,8,17,20,0.0
+1187,DE_Nuclear,2030,8,17,20,-1.1532
 1188,DE_Nuclear,2030,8,21,24,0.0
 1189,DE_Nuclear,2030,9,1,4,0.0
 1190,DE_Nuclear,2030,9,5,8,0.0
@@ -1194,8 +1194,8 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1193,DE_Nuclear,2030,9,17,20,-1.5996000000000001
 1194,DE_Nuclear,2030,9,21,24,-1.5996000000000001
 1195,DE_Nuclear,2030,10,1,4,-1.7112000000000003
-1196,DE_Nuclear,2030,10,5,8,-7.838399999999998
-1197,DE_Nuclear,2030,10,9,12,-7.838399999999998
+1196,DE_Nuclear,2030,10,5,8,-4.526400000000001
+1197,DE_Nuclear,2030,10,9,12,-4.526400000000001
 1198,DE_Nuclear,2030,10,13,16,-4.526400000000001
 1199,DE_Nuclear,2030,10,17,20,-7.838399999999998
 1200,DE_Nuclear,2030,10,21,24,-4.526400000000001
@@ -1305,7 +1305,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1304,DE_Solar,2030,8,5,8,-0.248
 1305,DE_Solar,2030,8,9,12,-0.248
 1306,DE_Solar,2030,8,13,16,-0.248
-1307,DE_Solar,2030,8,17,20,-0.248
+1307,DE_Solar,2030,8,17,20,-2.1948
 1308,DE_Solar,2030,8,21,24,-0.248
 1309,DE_Solar,2030,9,1,4,-0.34400000000000003
 1310,DE_Solar,2030,9,5,8,-0.34400000000000003
@@ -1314,8 +1314,8 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1313,DE_Solar,2030,9,17,20,-3.0444
 1314,DE_Solar,2030,9,21,24,-3.0444
 1315,DE_Solar,2030,10,1,4,-3.2568
-1316,DE_Solar,2030,10,5,8,-9.383999999999999
-1317,DE_Solar,2030,10,9,12,-9.383999999999999
+1316,DE_Solar,2030,10,5,8,-6.072
+1317,DE_Solar,2030,10,9,12,-6.072
 1318,DE_Solar,2030,10,13,16,-6.072
 1319,DE_Solar,2030,10,17,20,-9.383999999999999
 1320,DE_Solar,2030,10,21,24,-6.072
@@ -1365,7 +1365,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1364,DE_Wind_Offshore,2030,8,5,8,0.0
 1365,DE_Wind_Offshore,2030,8,9,12,0.0
 1366,DE_Wind_Offshore,2030,8,13,16,0.0
-1367,DE_Wind_Offshore,2030,8,17,20,0.0
+1367,DE_Wind_Offshore,2030,8,17,20,-1.9467999999999999
 1368,DE_Wind_Offshore,2030,8,21,24,0.0
 1369,DE_Wind_Offshore,2030,9,1,4,0.0
 1370,DE_Wind_Offshore,2030,9,5,8,0.0
@@ -1374,8 +1374,8 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1373,DE_Wind_Offshore,2030,9,17,20,-2.7004
 1374,DE_Wind_Offshore,2030,9,21,24,-2.7004
 1375,DE_Wind_Offshore,2030,10,1,4,-2.8888000000000003
-1376,DE_Wind_Offshore,2030,10,5,8,-9.015999999999998
-1377,DE_Wind_Offshore,2030,10,9,12,-9.015999999999998
+1376,DE_Wind_Offshore,2030,10,5,8,-5.704
+1377,DE_Wind_Offshore,2030,10,9,12,-5.704
 1378,DE_Wind_Offshore,2030,10,13,16,-5.704
 1379,DE_Wind_Offshore,2030,10,17,20,-9.015999999999998
 1380,DE_Wind_Offshore,2030,10,21,24,-5.704
@@ -1425,7 +1425,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1424,DE_Wind_Onshore,2030,8,5,8,0.0
 1425,DE_Wind_Onshore,2030,8,9,12,0.0
 1426,DE_Wind_Onshore,2030,8,13,16,0.0
-1427,DE_Wind_Onshore,2030,8,17,20,0.0
+1427,DE_Wind_Onshore,2030,8,17,20,-1.9467999999999999
 1428,DE_Wind_Onshore,2030,8,21,24,0.0
 1429,DE_Wind_Onshore,2030,9,1,4,0.0
 1430,DE_Wind_Onshore,2030,9,5,8,0.0
@@ -1434,8 +1434,8 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1433,DE_Wind_Onshore,2030,9,17,20,-2.7004
 1434,DE_Wind_Onshore,2030,9,21,24,-2.7004
 1435,DE_Wind_Onshore,2030,10,1,4,-2.8888000000000003
-1436,DE_Wind_Onshore,2030,10,5,8,-9.015999999999998
-1437,DE_Wind_Onshore,2030,10,9,12,-9.015999999999998
+1436,DE_Wind_Onshore,2030,10,5,8,-5.704
+1437,DE_Wind_Onshore,2030,10,9,12,-5.704
 1438,DE_Wind_Onshore,2030,10,13,16,-5.704
 1439,DE_Wind_Onshore,2030,10,17,20,-9.015999999999998
 1440,DE_Wind_Onshore,2030,10,21,24,-5.704
@@ -1454,7 +1454,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1453,FR_Battery,2030,3,1,4,0.0
 1454,FR_Battery,2030,3,5,8,0.0
 1455,FR_Battery,2030,3,9,12,0.0
-1456,FR_Battery,2030,3,13,16,0.0
+1456,FR_Battery,2030,3,13,16,-1.8212
 1457,FR_Battery,2030,3,17,20,0.0
 1458,FR_Battery,2030,3,21,24,0.0
 1459,FR_Battery,2030,4,1,4,0.0
@@ -1934,7 +1934,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 1933,LU_Battery,2030,3,1,4,0.0
 1934,LU_Battery,2030,3,5,8,0.0
 1935,LU_Battery,2030,3,9,12,0.0
-1936,LU_Battery,2030,3,13,16,0.0
+1936,LU_Battery,2030,3,13,16,-1.8212
 1937,LU_Battery,2030,3,17,20,0.0
 1938,LU_Battery,2030,3,21,24,0.0
 1939,LU_Battery,2030,4,1,4,0.0
@@ -2035,7 +2035,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2034,LU_CCGT,2030,9,21,24,0.0
 2035,LU_CCGT,2030,10,1,4,0.0
 2036,LU_CCGT,2030,10,5,8,0.0
-2037,LU_CCGT,2030,10,9,12,-3.3119999999999985
+2037,LU_CCGT,2030,10,9,12,0.0
 2038,LU_CCGT,2030,10,13,16,0.0
 2039,LU_CCGT,2030,10,17,20,-3.3119999999999985
 2040,LU_CCGT,2030,10,21,24,0.0
@@ -2095,7 +2095,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2094,LU_Coal,2030,9,21,24,0.0
 2095,LU_Coal,2030,10,1,4,0.0
 2096,LU_Coal,2030,10,5,8,-2.8152
-2097,LU_Coal,2030,10,9,12,-6.127199999999998
+2097,LU_Coal,2030,10,9,12,-2.8152
 2098,LU_Coal,2030,10,13,16,-2.8152
 2099,LU_Coal,2030,10,17,20,-6.127199999999998
 2100,LU_Coal,2030,10,21,24,-2.8152
@@ -2108,7 +2108,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2107,LU_Nuclear,2030,2,1,4,0.0
 2108,LU_Nuclear,2030,2,5,8,-1.2276000000000002
 2109,LU_Nuclear,2030,2,9,12,-1.2276000000000002
-2110,LU_Nuclear,2030,2,13,16,-1.2276000000000002
+2110,LU_Nuclear,2030,2,13,16,0.0
 2111,LU_Nuclear,2030,2,17,20,-1.2276000000000002
 2112,LU_Nuclear,2030,2,21,24,-1.2276000000000002
 2113,LU_Nuclear,2030,3,1,4,0.0
@@ -2155,7 +2155,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2154,LU_Nuclear,2030,9,21,24,-1.5996000000000001
 2155,LU_Nuclear,2030,10,1,4,-1.7112000000000003
 2156,LU_Nuclear,2030,10,5,8,-4.526400000000001
-2157,LU_Nuclear,2030,10,9,12,-7.838399999999998
+2157,LU_Nuclear,2030,10,9,12,-4.526400000000001
 2158,LU_Nuclear,2030,10,13,16,-4.526400000000001
 2159,LU_Nuclear,2030,10,17,20,-7.838399999999998
 2160,LU_Nuclear,2030,10,21,24,-4.526400000000001
@@ -2228,7 +2228,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2227,LU_Solar,2030,2,1,4,-0.264
 2228,LU_Solar,2030,2,5,8,-2.3364000000000003
 2229,LU_Solar,2030,2,9,12,-2.3364000000000003
-2230,LU_Solar,2030,2,13,16,-2.3364000000000003
+2230,LU_Solar,2030,2,13,16,-0.264
 2231,LU_Solar,2030,2,17,20,-2.3364000000000003
 2232,LU_Solar,2030,2,21,24,-2.3364000000000003
 2233,LU_Solar,2030,3,1,4,-0.232
@@ -2275,7 +2275,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2274,LU_Solar,2030,9,21,24,-3.0444
 2275,LU_Solar,2030,10,1,4,-3.2568
 2276,LU_Solar,2030,10,5,8,-6.072
-2277,LU_Solar,2030,10,9,12,-9.383999999999999
+2277,LU_Solar,2030,10,9,12,-6.072
 2278,LU_Solar,2030,10,13,16,-6.072
 2279,LU_Solar,2030,10,17,20,-9.383999999999999
 2280,LU_Solar,2030,10,21,24,-6.072
@@ -2288,7 +2288,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2287,LU_Wind_Offshore,2030,2,1,4,0.0
 2288,LU_Wind_Offshore,2030,2,5,8,-2.0724
 2289,LU_Wind_Offshore,2030,2,9,12,-2.0724
-2290,LU_Wind_Offshore,2030,2,13,16,-2.0724
+2290,LU_Wind_Offshore,2030,2,13,16,0.0
 2291,LU_Wind_Offshore,2030,2,17,20,-2.0724
 2292,LU_Wind_Offshore,2030,2,21,24,-2.0724
 2293,LU_Wind_Offshore,2030,3,1,4,0.0
@@ -2335,7 +2335,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2334,LU_Wind_Offshore,2030,9,21,24,-2.7004
 2335,LU_Wind_Offshore,2030,10,1,4,-2.8888000000000003
 2336,LU_Wind_Offshore,2030,10,5,8,-5.704
-2337,LU_Wind_Offshore,2030,10,9,12,-9.015999999999998
+2337,LU_Wind_Offshore,2030,10,9,12,-5.704
 2338,LU_Wind_Offshore,2030,10,13,16,-5.704
 2339,LU_Wind_Offshore,2030,10,17,20,-9.015999999999998
 2340,LU_Wind_Offshore,2030,10,21,24,-5.704
@@ -2348,7 +2348,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2347,LU_Wind_Onshore,2030,2,1,4,0.0
 2348,LU_Wind_Onshore,2030,2,5,8,-2.0724
 2349,LU_Wind_Onshore,2030,2,9,12,-2.0724
-2350,LU_Wind_Onshore,2030,2,13,16,-2.0724
+2350,LU_Wind_Onshore,2030,2,13,16,0.0
 2351,LU_Wind_Onshore,2030,2,17,20,-2.0724
 2352,LU_Wind_Onshore,2030,2,21,24,-2.0724
 2353,LU_Wind_Onshore,2030,3,1,4,0.0
@@ -2395,7 +2395,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2394,LU_Wind_Onshore,2030,9,21,24,-2.7004
 2395,LU_Wind_Onshore,2030,10,1,4,-2.8888000000000003
 2396,LU_Wind_Onshore,2030,10,5,8,-5.704
-2397,LU_Wind_Onshore,2030,10,9,12,-9.015999999999998
+2397,LU_Wind_Onshore,2030,10,9,12,-5.704
 2398,LU_Wind_Onshore,2030,10,13,16,-5.704
 2399,LU_Wind_Onshore,2030,10,17,20,-9.015999999999998
 2400,LU_Wind_Onshore,2030,10,21,24,-5.704
@@ -2455,9 +2455,9 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2454,NL_Battery,2030,9,21,24,0.0
 2455,NL_Battery,2030,10,1,4,0.0
 2456,NL_Battery,2030,10,5,8,0.0
-2457,NL_Battery,2030,10,9,12,-3.3119999999999985
+2457,NL_Battery,2030,10,9,12,0.0
 2458,NL_Battery,2030,10,13,16,0.0
-2459,NL_Battery,2030,10,17,20,0.0
+2459,NL_Battery,2030,10,17,20,-6.127199999999998
 2460,NL_Battery,2030,10,21,24,0.0
 2461,NL_CCGT,2030,1,1,4,0.0
 2462,NL_CCGT,2030,1,5,8,0.0
@@ -2515,7 +2515,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2514,NL_CCGT,2030,9,21,24,0.0
 2515,NL_CCGT,2030,10,1,4,0.0
 2516,NL_CCGT,2030,10,5,8,0.0
-2517,NL_CCGT,2030,10,9,12,-3.3119999999999985
+2517,NL_CCGT,2030,10,9,12,0.0
 2518,NL_CCGT,2030,10,13,16,0.0
 2519,NL_CCGT,2030,10,17,20,-3.3119999999999985
 2520,NL_CCGT,2030,10,21,24,0.0
@@ -2575,10 +2575,10 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2574,NL_Coal,2030,9,21,24,0.0
 2575,NL_Coal,2030,10,1,4,0.0
 2576,NL_Coal,2030,10,5,8,-2.8152
-2577,NL_Coal,2030,10,9,12,-6.127199999999998
+2577,NL_Coal,2030,10,9,12,-2.8152
 2578,NL_Coal,2030,10,13,16,-2.8152
 2579,NL_Coal,2030,10,17,20,-6.127199999999998
-2580,NL_Coal,2030,10,21,24,-2.8152
+2580,NL_Coal,2030,10,21,24,0.0
 2581,NL_Nuclear,2030,1,1,4,-1.9716000000000002
 2582,NL_Nuclear,2030,1,5,8,-5.2152
 2583,NL_Nuclear,2030,1,9,12,-5.2152
@@ -2635,10 +2635,10 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2634,NL_Nuclear,2030,9,21,24,-1.5996000000000001
 2635,NL_Nuclear,2030,10,1,4,-1.7112000000000003
 2636,NL_Nuclear,2030,10,5,8,-4.526400000000001
-2637,NL_Nuclear,2030,10,9,12,-7.838399999999998
+2637,NL_Nuclear,2030,10,9,12,-4.526400000000001
 2638,NL_Nuclear,2030,10,13,16,-4.526400000000001
 2639,NL_Nuclear,2030,10,17,20,-7.838399999999998
-2640,NL_Nuclear,2030,10,21,24,-4.526400000000001
+2640,NL_Nuclear,2030,10,21,24,-1.7112000000000003
 2641,NL_OCGT,2030,1,1,4,0.0
 2642,NL_OCGT,2030,1,5,8,0.0
 2643,NL_OCGT,2030,1,9,12,0.0
@@ -2755,10 +2755,10 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2754,NL_Solar,2030,9,21,24,-3.0444
 2755,NL_Solar,2030,10,1,4,-3.2568
 2756,NL_Solar,2030,10,5,8,-6.072
-2757,NL_Solar,2030,10,9,12,-9.383999999999999
+2757,NL_Solar,2030,10,9,12,-6.072
 2758,NL_Solar,2030,10,13,16,-6.072
 2759,NL_Solar,2030,10,17,20,-9.383999999999999
-2760,NL_Solar,2030,10,21,24,-6.072
+2760,NL_Solar,2030,10,21,24,-3.2568
 2761,NL_Wind_Offshore,2030,1,1,4,-3.3284000000000002
 2762,NL_Wind_Offshore,2030,1,5,8,-6.572
 2763,NL_Wind_Offshore,2030,1,9,12,-6.572
@@ -2815,10 +2815,10 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2814,NL_Wind_Offshore,2030,9,21,24,-2.7004
 2815,NL_Wind_Offshore,2030,10,1,4,-2.8888000000000003
 2816,NL_Wind_Offshore,2030,10,5,8,-5.704
-2817,NL_Wind_Offshore,2030,10,9,12,-9.015999999999998
+2817,NL_Wind_Offshore,2030,10,9,12,-5.704
 2818,NL_Wind_Offshore,2030,10,13,16,-5.704
 2819,NL_Wind_Offshore,2030,10,17,20,-9.015999999999998
-2820,NL_Wind_Offshore,2030,10,21,24,-5.704
+2820,NL_Wind_Offshore,2030,10,21,24,-2.8888000000000003
 2821,NL_Wind_Onshore,2030,1,1,4,-3.3284000000000002
 2822,NL_Wind_Onshore,2030,1,5,8,-6.572
 2823,NL_Wind_Onshore,2030,1,9,12,-6.572
@@ -2875,10 +2875,10 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2874,NL_Wind_Onshore,2030,9,21,24,-2.7004
 2875,NL_Wind_Onshore,2030,10,1,4,-2.8888000000000003
 2876,NL_Wind_Onshore,2030,10,5,8,-5.704
-2877,NL_Wind_Onshore,2030,10,9,12,-9.015999999999998
+2877,NL_Wind_Onshore,2030,10,9,12,-5.704
 2878,NL_Wind_Onshore,2030,10,13,16,-5.704
 2879,NL_Wind_Onshore,2030,10,17,20,-9.015999999999998
-2880,NL_Wind_Onshore,2030,10,21,24,-5.704
+2880,NL_Wind_Onshore,2030,10,21,24,-2.8888000000000003
 2881,UK_Battery,2030,1,1,4,0.0
 2882,UK_Battery,2030,1,5,8,0.0
 2883,UK_Battery,2030,1,9,12,0.0
@@ -2918,7 +2918,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2917,UK_Battery,2030,7,1,4,0.0
 2918,UK_Battery,2030,7,5,8,0.0
 2919,UK_Battery,2030,7,9,12,0.0
-2920,UK_Battery,2030,7,13,16,-13.396165705666302
+2920,UK_Battery,2030,7,13,16,0.0
 2921,UK_Battery,2030,7,17,20,0.0
 2922,UK_Battery,2030,7,21,24,0.0
 2923,UK_Battery,2030,8,1,4,0.0
@@ -2931,7 +2931,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2930,UK_Battery,2030,9,5,8,0.0
 2931,UK_Battery,2030,9,9,12,0.0
 2932,UK_Battery,2030,9,13,16,0.0
-2933,UK_Battery,2030,9,17,20,0.0
+2933,UK_Battery,2030,9,17,20,-2.7004
 2934,UK_Battery,2030,9,21,24,0.0
 2935,UK_Battery,2030,10,1,4,0.0
 2936,UK_Battery,2030,10,5,8,0.0
@@ -2978,7 +2978,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2977,UK_CCGT,2030,7,1,4,0.0
 2978,UK_CCGT,2030,7,5,8,0.0
 2979,UK_CCGT,2030,7,9,12,-2.663999999999999
-2980,UK_CCGT,2030,7,13,16,-35.570028528331505
+2980,UK_CCGT,2030,7,13,16,-2.663999999999999
 2981,UK_CCGT,2030,7,17,20,-2.663999999999999
 2982,UK_CCGT,2030,7,21,24,0.0
 2983,UK_CCGT,2030,8,1,4,0.0
@@ -2995,7 +2995,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 2994,UK_CCGT,2030,9,21,24,0.0
 2995,UK_CCGT,2030,10,1,4,0.0
 2996,UK_CCGT,2030,10,5,8,0.0
-2997,UK_CCGT,2030,10,9,12,-3.3119999999999985
+2997,UK_CCGT,2030,10,9,12,0.0
 2998,UK_CCGT,2030,10,13,16,0.0
 2999,UK_CCGT,2030,10,17,20,-3.3119999999999985
 3000,UK_CCGT,2030,10,21,24,0.0
@@ -3038,7 +3038,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3037,UK_Coal,2030,7,1,4,0.0
 3038,UK_Coal,2030,7,5,8,-2.2644
 3039,UK_Coal,2030,7,9,12,-4.928399999999999
-3040,UK_Coal,2030,7,13,16,-37.83442852833151
+3040,UK_Coal,2030,7,13,16,-4.928399999999999
 3041,UK_Coal,2030,7,17,20,-4.928399999999999
 3042,UK_Coal,2030,7,21,24,-2.2644
 3043,UK_Coal,2030,8,1,4,0.0
@@ -3055,7 +3055,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3054,UK_Coal,2030,9,21,24,0.0
 3055,UK_Coal,2030,10,1,4,0.0
 3056,UK_Coal,2030,10,5,8,-2.8152
-3057,UK_Coal,2030,10,9,12,-6.127199999999998
+3057,UK_Coal,2030,10,9,12,-2.8152
 3058,UK_Coal,2030,10,13,16,-2.8152
 3059,UK_Coal,2030,10,17,20,-6.127199999999998
 3060,UK_Coal,2030,10,21,24,0.0
@@ -3098,7 +3098,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3097,UK_Nuclear,2030,7,1,4,0.0
 3098,UK_Nuclear,2030,7,5,8,-3.6408000000000005
 3099,UK_Nuclear,2030,7,9,12,-6.304799999999999
-3100,UK_Nuclear,2030,7,13,16,-39.210828528331504
+3100,UK_Nuclear,2030,7,13,16,-6.304799999999999
 3101,UK_Nuclear,2030,7,17,20,-6.304799999999999
 3102,UK_Nuclear,2030,7,21,24,-3.6408000000000005
 3103,UK_Nuclear,2030,8,1,4,0.0
@@ -3115,7 +3115,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3114,UK_Nuclear,2030,9,21,24,0.0
 3115,UK_Nuclear,2030,10,1,4,0.0
 3116,UK_Nuclear,2030,10,5,8,-4.526400000000001
-3117,UK_Nuclear,2030,10,9,12,-7.838399999999998
+3117,UK_Nuclear,2030,10,9,12,-4.526400000000001
 3118,UK_Nuclear,2030,10,13,16,-4.526400000000001
 3119,UK_Nuclear,2030,10,17,20,-7.838399999999998
 3120,UK_Nuclear,2030,10,21,24,0.0
@@ -3218,7 +3218,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3217,UK_Solar,2030,7,1,4,-0.296
 3218,UK_Solar,2030,7,5,8,-4.884
 3219,UK_Solar,2030,7,9,12,-7.547999999999999
-3220,UK_Solar,2030,7,13,16,-40.454028528331506
+3220,UK_Solar,2030,7,13,16,-7.547999999999999
 3221,UK_Solar,2030,7,17,20,-7.547999999999999
 3222,UK_Solar,2030,7,21,24,-4.884
 3223,UK_Solar,2030,8,1,4,-0.248
@@ -3235,7 +3235,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3234,UK_Solar,2030,9,21,24,-0.34400000000000003
 3235,UK_Solar,2030,10,1,4,-0.368
 3236,UK_Solar,2030,10,5,8,-6.072
-3237,UK_Solar,2030,10,9,12,-9.383999999999999
+3237,UK_Solar,2030,10,9,12,-6.072
 3238,UK_Solar,2030,10,13,16,-6.072
 3239,UK_Solar,2030,10,17,20,-9.383999999999999
 3240,UK_Solar,2030,10,21,24,-0.368
@@ -3278,7 +3278,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3277,UK_Wind_Offshore,2030,7,1,4,0.0
 3278,UK_Wind_Offshore,2030,7,5,8,-4.588
 3279,UK_Wind_Offshore,2030,7,9,12,-7.251999999999999
-3280,UK_Wind_Offshore,2030,7,13,16,-40.158028528331506
+3280,UK_Wind_Offshore,2030,7,13,16,-7.251999999999999
 3281,UK_Wind_Offshore,2030,7,17,20,-7.251999999999999
 3282,UK_Wind_Offshore,2030,7,21,24,-4.588
 3283,UK_Wind_Offshore,2030,8,1,4,0.0
@@ -3295,7 +3295,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3294,UK_Wind_Offshore,2030,9,21,24,0.0
 3295,UK_Wind_Offshore,2030,10,1,4,0.0
 3296,UK_Wind_Offshore,2030,10,5,8,-5.704
-3297,UK_Wind_Offshore,2030,10,9,12,-9.015999999999998
+3297,UK_Wind_Offshore,2030,10,9,12,-5.704
 3298,UK_Wind_Offshore,2030,10,13,16,-5.704
 3299,UK_Wind_Offshore,2030,10,17,20,-9.015999999999998
 3300,UK_Wind_Offshore,2030,10,21,24,0.0
@@ -3338,7 +3338,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3337,UK_Wind_Onshore,2030,7,1,4,0.0
 3338,UK_Wind_Onshore,2030,7,5,8,-4.588
 3339,UK_Wind_Onshore,2030,7,9,12,-7.251999999999999
-3340,UK_Wind_Onshore,2030,7,13,16,-40.158028528331506
+3340,UK_Wind_Onshore,2030,7,13,16,-7.251999999999999
 3341,UK_Wind_Onshore,2030,7,17,20,-7.251999999999999
 3342,UK_Wind_Onshore,2030,7,21,24,-4.588
 3343,UK_Wind_Onshore,2030,8,1,4,0.0
@@ -3355,7 +3355,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_output_flows_l
 3354,UK_Wind_Onshore,2030,9,21,24,0.0
 3355,UK_Wind_Onshore,2030,10,1,4,0.0
 3356,UK_Wind_Onshore,2030,10,5,8,-5.704
-3357,UK_Wind_Onshore,2030,10,9,12,-9.015999999999998
+3357,UK_Wind_Onshore,2030,10,9,12,-5.704
 3358,UK_Wind_Onshore,2030,10,13,16,-5.704
 3359,UK_Wind_Onshore,2030,10,17,20,-9.015999999999998
 3360,UK_Wind_Onshore,2030,10,21,24,0.0

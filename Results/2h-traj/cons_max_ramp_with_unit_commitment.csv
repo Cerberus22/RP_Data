@@ -1507,7 +1507,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_ramp_up_with_u
 1506,FR_Coal,2030,9,4,6,0.0,0.0
 1507,FR_Coal,2030,9,7,9,0.0,0.0
 1508,FR_Coal,2030,9,10,12,0.0,0.0
-1509,FR_Coal,2030,9,13,15,0.0,0.0
+1509,FR_Coal,2030,9,13,15,0.0,1.9393
 1510,FR_Coal,2030,9,16,18,0.0,0.0
 1511,FR_Coal,2030,9,19,21,0.0,0.0
 1512,FR_Coal,2030,9,22,24,0.0,0.0

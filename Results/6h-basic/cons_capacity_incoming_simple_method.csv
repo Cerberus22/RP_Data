@@ -65,7 +65,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 64,CH_Battery,2030,6,19,24,0.0
 65,CH_Battery,2030,7,1,6,0.0
 66,CH_Battery,2030,7,7,12,0.0
-67,CH_Battery,2030,7,13,18,0.0
+67,CH_Battery,2030,7,13,18,-3.3966000000000003
 68,CH_Battery,2030,7,19,24,0.0
 69,CH_Battery,2030,8,1,6,0.0
 70,CH_Battery,2030,8,7,12,0.0
@@ -77,7 +77,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 76,CH_Battery,2030,9,19,24,0.0
 77,CH_Battery,2030,10,1,6,0.0
 78,CH_Battery,2030,10,7,12,0.0
-79,CH_Battery,2030,10,13,18,0.0
+79,CH_Battery,2030,10,13,18,-4.205365705666303
 80,CH_Battery,2030,10,19,24,0.0
 81,DE_Battery,2030,1,1,6,0.0
 82,DE_Battery,2030,1,7,12,0.0
@@ -143,7 +143,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 142,FR_Battery,2030,6,7,12,0.0
 143,FR_Battery,2030,6,13,18,0.0
 144,FR_Battery,2030,6,19,24,0.0
-145,FR_Battery,2030,7,1,6,0.0
+145,FR_Battery,2030,7,1,6,-13.396165705666302
 146,FR_Battery,2030,7,7,12,0.0
 147,FR_Battery,2030,7,13,18,0.0
 148,FR_Battery,2030,7,19,24,0.0
@@ -163,7 +163,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 162,LU_Battery,2030,1,7,12,0.0
 163,LU_Battery,2030,1,13,18,0.0
 164,LU_Battery,2030,1,19,24,0.0
-165,LU_Battery,2030,2,1,6,-3.1086
+165,LU_Battery,2030,2,1,6,0.0
 166,LU_Battery,2030,2,7,12,0.0
 167,LU_Battery,2030,2,13,18,0.0
 168,LU_Battery,2030,2,19,24,0.0
@@ -173,7 +173,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 172,LU_Battery,2030,3,19,24,0.0
 173,LU_Battery,2030,4,1,6,0.0
 174,LU_Battery,2030,4,7,12,0.0
-175,LU_Battery,2030,4,13,18,-1.038565705666285
+175,LU_Battery,2030,4,13,18,0.0
 176,LU_Battery,2030,4,19,24,0.0
 177,LU_Battery,2030,5,1,6,0.0
 178,LU_Battery,2030,5,7,12,0.0
@@ -183,7 +183,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 182,LU_Battery,2030,6,7,12,0.0
 183,LU_Battery,2030,6,13,18,0.0
 184,LU_Battery,2030,6,19,24,0.0
-185,LU_Battery,2030,7,1,6,-3.9959999999999987
+185,LU_Battery,2030,7,1,6,0.0
 186,LU_Battery,2030,7,7,12,0.0
 187,LU_Battery,2030,7,13,18,0.0
 188,LU_Battery,2030,7,19,24,0.0

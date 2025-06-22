@@ -32,7 +32,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 31,BE_Balance,2030,6,1,4,1.2744
 32,BE_Balance,2030,6,5,8,1.2744
 33,BE_Balance,2030,6,9,12,1.2744
-34,BE_Balance,2030,6,13,16,1.2744
+34,BE_Balance,2030,6,13,16,0.14400000000000002
 35,BE_Balance,2030,6,17,20,1.2744
 36,BE_Balance,2030,6,21,24,1.2744
 37,BE_Balance,2030,7,1,4,2.6196
@@ -55,7 +55,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 54,BE_Balance,2030,9,21,24,3.0444
 55,BE_Balance,2030,10,1,4,3.2568
 56,BE_Balance,2030,10,5,8,6.072
-57,BE_Balance,2030,10,9,12,9.383999999999999
+57,BE_Balance,2030,10,9,12,6.072
 58,BE_Balance,2030,10,13,16,6.072
 59,BE_Balance,2030,10,17,20,9.383999999999999
 60,BE_Balance,2030,10,21,24,6.072
@@ -72,7 +72,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 71,CH_Balance,2030,2,17,20,2.3364000000000003
 72,CH_Balance,2030,2,21,24,2.3364000000000003
 73,CH_Balance,2030,3,1,4,2.0532
-74,CH_Balance,2030,3,5,8,32.63122852833151
+74,CH_Balance,2030,3,5,8,3.8280000000000003
 75,CH_Balance,2030,3,9,12,2.0532
 76,CH_Balance,2030,3,13,16,2.0532
 77,CH_Balance,2030,3,17,20,5.9159999999999995
@@ -114,7 +114,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 113,CH_Balance,2030,9,17,20,3.0444
 114,CH_Balance,2030,9,21,24,3.0444
 115,CH_Balance,2030,10,1,4,3.2568
-116,CH_Balance,2030,10,5,8,9.383999999999999
+116,CH_Balance,2030,10,5,8,6.072
 117,CH_Balance,2030,10,9,12,6.072
 118,CH_Balance,2030,10,13,16,3.2568
 119,CH_Balance,2030,10,17,20,9.383999999999999
@@ -165,7 +165,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 164,DE_Balance,2030,8,5,8,0.248
 165,DE_Balance,2030,8,9,12,0.248
 166,DE_Balance,2030,8,13,16,0.248
-167,DE_Balance,2030,8,17,20,0.248
+167,DE_Balance,2030,8,17,20,2.1948
 168,DE_Balance,2030,8,21,24,0.248
 169,DE_Balance,2030,9,1,4,0.34400000000000003
 170,DE_Balance,2030,9,5,8,0.34400000000000003
@@ -174,8 +174,8 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 173,DE_Balance,2030,9,17,20,3.0444
 174,DE_Balance,2030,9,21,24,3.0444
 175,DE_Balance,2030,10,1,4,3.2568
-176,DE_Balance,2030,10,5,8,9.383999999999999
-177,DE_Balance,2030,10,9,12,9.383999999999999
+176,DE_Balance,2030,10,5,8,6.072
+177,DE_Balance,2030,10,9,12,6.072
 178,DE_Balance,2030,10,13,16,6.072
 179,DE_Balance,2030,10,17,20,9.383999999999999
 180,DE_Balance,2030,10,21,24,6.072
@@ -248,7 +248,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 247,LU_Balance,2030,2,1,4,0.264
 248,LU_Balance,2030,2,5,8,2.3364000000000003
 249,LU_Balance,2030,2,9,12,2.3364000000000003
-250,LU_Balance,2030,2,13,16,2.3364000000000003
+250,LU_Balance,2030,2,13,16,0.264
 251,LU_Balance,2030,2,17,20,2.3364000000000003
 252,LU_Balance,2030,2,21,24,2.3364000000000003
 253,LU_Balance,2030,3,1,4,0.232
@@ -295,7 +295,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 294,LU_Balance,2030,9,21,24,3.0444
 295,LU_Balance,2030,10,1,4,3.2568
 296,LU_Balance,2030,10,5,8,6.072
-297,LU_Balance,2030,10,9,12,9.383999999999999
+297,LU_Balance,2030,10,9,12,6.072
 298,LU_Balance,2030,10,13,16,6.072
 299,LU_Balance,2030,10,17,20,9.383999999999999
 300,LU_Balance,2030,10,21,24,6.072
@@ -355,10 +355,10 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 354,NL_Balance,2030,9,21,24,3.0444
 355,NL_Balance,2030,10,1,4,3.2568
 356,NL_Balance,2030,10,5,8,6.072
-357,NL_Balance,2030,10,9,12,9.383999999999999
+357,NL_Balance,2030,10,9,12,6.072
 358,NL_Balance,2030,10,13,16,6.072
 359,NL_Balance,2030,10,17,20,9.383999999999999
-360,NL_Balance,2030,10,21,24,6.072
+360,NL_Balance,2030,10,21,24,3.2568
 361,UK_Balance,2030,1,1,4,0.424
 362,UK_Balance,2030,1,5,8,0.424
 363,UK_Balance,2030,1,9,12,6.996
@@ -398,7 +398,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 397,UK_Balance,2030,7,1,4,0.296
 398,UK_Balance,2030,7,5,8,4.884
 399,UK_Balance,2030,7,9,12,7.547999999999999
-400,UK_Balance,2030,7,13,16,40.454028528331506
+400,UK_Balance,2030,7,13,16,7.547999999999999
 401,UK_Balance,2030,7,17,20,7.547999999999999
 402,UK_Balance,2030,7,21,24,4.884
 403,UK_Balance,2030,8,1,4,0.248
@@ -415,7 +415,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_hub
 414,UK_Balance,2030,9,21,24,0.34400000000000003
 415,UK_Balance,2030,10,1,4,0.368
 416,UK_Balance,2030,10,5,8,6.072
-417,UK_Balance,2030,10,9,12,9.383999999999999
+417,UK_Balance,2030,10,9,12,6.072
 418,UK_Balance,2030,10,13,16,6.072
 419,UK_Balance,2030,10,17,20,9.383999999999999
 420,UK_Balance,2030,10,21,24,0.368

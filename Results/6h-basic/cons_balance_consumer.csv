@@ -11,9 +11,9 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 10,BE_E_Demand,2030,3,7,12,0.34800000000000003
 11,BE_E_Demand,2030,3,13,18,0.34800000000000003
 12,BE_E_Demand,2030,3,19,24,0.34800000000000003
-13,BE_E_Demand,2030,4,1,6,0.276
+13,BE_E_Demand,2030,4,1,6,2.4426
 14,BE_E_Demand,2030,4,7,12,2.4426
-15,BE_E_Demand,2030,4,13,18,0.276
+15,BE_E_Demand,2030,4,13,18,2.4426
 16,BE_E_Demand,2030,4,19,24,2.4426
 17,BE_E_Demand,2030,5,1,6,0.624
 18,BE_E_Demand,2030,5,7,12,0.624
@@ -26,7 +26,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 25,BE_E_Demand,2030,7,1,6,7.3260000000000005
 26,BE_E_Demand,2030,7,7,12,11.322
 27,BE_E_Demand,2030,7,13,18,11.322
-28,BE_E_Demand,2030,7,19,24,67.6683599396641
+28,BE_E_Demand,2030,7,19,24,11.322
 29,BE_E_Demand,2030,8,1,6,0.372
 30,BE_E_Demand,2030,8,7,12,0.372
 31,BE_E_Demand,2030,8,13,18,0.372
@@ -52,7 +52,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 51,CH_E_Demand,2030,3,13,18,3.0798
 52,CH_E_Demand,2030,3,19,24,8.873999999999999
 53,CH_E_Demand,2030,4,1,6,2.4426
-54,CH_E_Demand,2030,4,7,12,2.4426
+54,CH_E_Demand,2030,4,7,12,65.5443599396641
 55,CH_E_Demand,2030,4,13,18,2.4426
 56,CH_E_Demand,2030,4,19,24,7.037999999999999
 57,CH_E_Demand,2030,5,1,6,5.5224
@@ -66,7 +66,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 65,CH_E_Demand,2030,7,1,6,7.3260000000000005
 66,CH_E_Demand,2030,7,7,12,7.3260000000000005
 67,CH_E_Demand,2030,7,13,18,3.9294000000000002
-68,CH_E_Demand,2030,7,19,24,67.6683599396641
+68,CH_E_Demand,2030,7,19,24,11.322
 69,CH_E_Demand,2030,8,1,6,3.2922000000000002
 70,CH_E_Demand,2030,8,7,12,3.2922000000000002
 71,CH_E_Demand,2030,8,13,18,0.372
@@ -77,7 +77,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 76,CH_E_Demand,2030,9,19,24,4.5666
 77,CH_E_Demand,2030,10,1,6,9.108
 78,CH_E_Demand,2030,10,7,12,9.108
-79,CH_E_Demand,2030,10,13,18,9.108
+79,CH_E_Demand,2030,10,13,18,4.8852
 80,CH_E_Demand,2030,10,19,24,9.108
 81,DE_E_Demand,2030,1,1,6,5.6286000000000005
 82,DE_E_Demand,2030,1,7,12,10.494
@@ -90,7 +90,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 89,DE_E_Demand,2030,3,1,6,0.34800000000000003
 90,DE_E_Demand,2030,3,7,12,0.34800000000000003
 91,DE_E_Demand,2030,3,13,18,3.0798
-92,DE_E_Demand,2030,3,19,24,3.0798
+92,DE_E_Demand,2030,3,19,24,0.34800000000000003
 93,DE_E_Demand,2030,4,1,6,2.4426
 94,DE_E_Demand,2030,4,7,12,2.4426
 95,DE_E_Demand,2030,4,13,18,2.4426
@@ -105,8 +105,8 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 104,DE_E_Demand,2030,6,19,24,1.9116
 105,DE_E_Demand,2030,7,1,6,7.3260000000000005
 106,DE_E_Demand,2030,7,7,12,7.3260000000000005
-107,DE_E_Demand,2030,7,13,18,3.9294000000000002
-108,DE_E_Demand,2030,7,19,24,67.6683599396641
+107,DE_E_Demand,2030,7,13,18,11.322
+108,DE_E_Demand,2030,7,19,24,11.322
 109,DE_E_Demand,2030,8,1,6,0.372
 110,DE_E_Demand,2030,8,7,12,0.372
 111,DE_E_Demand,2030,8,13,18,0.372
@@ -116,11 +116,11 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 115,DE_E_Demand,2030,9,13,18,0.516
 116,DE_E_Demand,2030,9,19,24,4.5666
 117,DE_E_Demand,2030,10,1,6,9.108
-118,DE_E_Demand,2030,10,7,12,14.075999999999999
+118,DE_E_Demand,2030,10,7,12,9.108
 119,DE_E_Demand,2030,10,13,18,14.075999999999999
 120,DE_E_Demand,2030,10,19,24,9.108
 121,FR_E_Demand,2030,1,1,6,5.6286000000000005
-122,FR_E_Demand,2030,1,7,12,16.218
+122,FR_E_Demand,2030,1,7,12,10.494
 123,FR_E_Demand,2030,1,13,18,5.6286000000000005
 124,FR_E_Demand,2030,1,19,24,10.494
 125,FR_E_Demand,2030,2,1,6,0.396
@@ -130,7 +130,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 129,FR_E_Demand,2030,3,1,6,0.34800000000000003
 130,FR_E_Demand,2030,3,7,12,0.34800000000000003
 131,FR_E_Demand,2030,3,13,18,3.0798
-132,FR_E_Demand,2030,3,19,24,3.0798
+132,FR_E_Demand,2030,3,19,24,0.34800000000000003
 133,FR_E_Demand,2030,4,1,6,0.276
 134,FR_E_Demand,2030,4,7,12,0.276
 135,FR_E_Demand,2030,4,13,18,0.276
@@ -144,9 +144,9 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 143,FR_E_Demand,2030,6,13,18,0.216
 144,FR_E_Demand,2030,6,19,24,0.216
 145,FR_E_Demand,2030,7,1,6,7.3260000000000005
-146,FR_E_Demand,2030,7,7,12,11.322
+146,FR_E_Demand,2030,7,7,12,69.16955993966411
 147,FR_E_Demand,2030,7,13,18,11.322
-148,FR_E_Demand,2030,7,19,24,67.6683599396641
+148,FR_E_Demand,2030,7,19,24,11.322
 149,FR_E_Demand,2030,8,1,6,0.372
 150,FR_E_Demand,2030,8,7,12,0.372
 151,FR_E_Demand,2030,8,13,18,0.372
@@ -157,7 +157,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 156,FR_E_Demand,2030,9,19,24,4.5666
 157,FR_E_Demand,2030,10,1,6,4.8852
 158,FR_E_Demand,2030,10,7,12,9.108
-159,FR_E_Demand,2030,10,13,18,9.108
+159,FR_E_Demand,2030,10,13,18,4.8852
 160,FR_E_Demand,2030,10,19,24,9.108
 161,LU_E_Demand,2030,1,1,6,5.6286000000000005
 162,LU_E_Demand,2030,1,7,12,10.494
@@ -170,10 +170,10 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 169,LU_E_Demand,2030,3,1,6,0.34800000000000003
 170,LU_E_Demand,2030,3,7,12,0.34800000000000003
 171,LU_E_Demand,2030,3,13,18,3.0798
-172,LU_E_Demand,2030,3,19,24,3.0798
-173,LU_E_Demand,2030,4,1,6,0.276
+172,LU_E_Demand,2030,3,19,24,0.34800000000000003
+173,LU_E_Demand,2030,4,1,6,2.4426
 174,LU_E_Demand,2030,4,7,12,2.4426
-175,LU_E_Demand,2030,4,13,18,0.276
+175,LU_E_Demand,2030,4,13,18,2.4426
 176,LU_E_Demand,2030,4,19,24,2.4426
 177,LU_E_Demand,2030,5,1,6,0.624
 178,LU_E_Demand,2030,5,7,12,0.624
@@ -185,8 +185,8 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 184,LU_E_Demand,2030,6,19,24,1.9116
 185,LU_E_Demand,2030,7,1,6,7.3260000000000005
 186,LU_E_Demand,2030,7,7,12,11.322
-187,LU_E_Demand,2030,7,13,18,3.9294000000000002
-188,LU_E_Demand,2030,7,19,24,67.6683599396641
+187,LU_E_Demand,2030,7,13,18,11.322
+188,LU_E_Demand,2030,7,19,24,11.322
 189,LU_E_Demand,2030,8,1,6,0.372
 190,LU_E_Demand,2030,8,7,12,0.372
 191,LU_E_Demand,2030,8,13,18,0.372
@@ -211,7 +211,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 210,NL_E_Demand,2030,3,7,12,0.34800000000000003
 211,NL_E_Demand,2030,3,13,18,0.34800000000000003
 212,NL_E_Demand,2030,3,19,24,0.34800000000000003
-213,NL_E_Demand,2030,4,1,6,0.276
+213,NL_E_Demand,2030,4,1,6,2.4426
 214,NL_E_Demand,2030,4,7,12,2.4426
 215,NL_E_Demand,2030,4,13,18,2.4426
 216,NL_E_Demand,2030,4,19,24,0.276
@@ -226,7 +226,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 225,NL_E_Demand,2030,7,1,6,7.3260000000000005
 226,NL_E_Demand,2030,7,7,12,11.322
 227,NL_E_Demand,2030,7,13,18,11.322
-228,NL_E_Demand,2030,7,19,24,7.3260000000000005
+228,NL_E_Demand,2030,7,19,24,11.322
 229,NL_E_Demand,2030,8,1,6,0.372
 230,NL_E_Demand,2030,8,7,12,0.372
 231,NL_E_Demand,2030,8,13,18,0.372
@@ -241,7 +241,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 240,NL_E_Demand,2030,10,19,24,9.108
 241,UK_E_Demand,2030,1,1,6,0.636
 242,UK_E_Demand,2030,1,7,12,10.494
-243,UK_E_Demand,2030,1,13,18,0.636
+243,UK_E_Demand,2030,1,13,18,5.6286000000000005
 244,UK_E_Demand,2030,1,19,24,0.636
 245,UK_E_Demand,2030,2,1,6,0.396
 246,UK_E_Demand,2030,2,7,12,3.5046
@@ -266,7 +266,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_balance_consumer
 265,UK_E_Demand,2030,7,1,6,0.444
 266,UK_E_Demand,2030,7,7,12,11.322
 267,UK_E_Demand,2030,7,13,18,11.322
-268,UK_E_Demand,2030,7,19,24,7.3260000000000005
+268,UK_E_Demand,2030,7,19,24,11.322
 269,UK_E_Demand,2030,8,1,6,0.372
 270,UK_E_Demand,2030,8,7,12,0.372
 271,UK_E_Demand,2030,8,13,18,0.372

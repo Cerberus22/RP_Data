@@ -4207,60 +4207,66 @@ max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,1,9_12_: 1 f
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,1,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,1,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,1,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,1,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,1,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,1,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,1,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,1,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,1,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,1,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,1,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,1,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,1,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,1,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,1,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,1,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,1,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,1,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,1,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,1,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,1,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,1,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,1,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,1,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,1,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,1,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,1,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,1,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,1,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,1,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,1,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,1,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,1,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,1,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,1,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,1,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,1,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,1,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,1,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,1,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,1,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,1,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,1,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,1,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,1,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,1,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,1,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,1,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,1,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,1,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,1,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,1,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,1,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,1,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,1,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,1,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,1,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,1,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,1,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,1,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,1,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,1,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,1,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,1,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,1,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,1,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,1,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,1,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,1,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,1,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,1,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,1,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,1,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,1,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,1,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,1,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,1,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,1,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,1_4_: 1 flow_(DE_Balance,FR_Balance),2030,1,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,5_8_: 1 flow_(DE_Balance,FR_Balance),2030,1,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,9_12_: 1 flow_(DE_Balance,FR_Balance),2030,1,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,1,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,1,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,1,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,1,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,1,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,1,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,1,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,1,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,1,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,1,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,1,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,1,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,1,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,1,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,1,9_12_ <= 1000
@@ -4273,54 +4279,48 @@ max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,1,9_12_: 1 f
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,1,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,1,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,1,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,1,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,1,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,1,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,1,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,1,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,1,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,1,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,1,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,1,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,2,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,2,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,2,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,2,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,2,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,2,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,2,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,2,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,2,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,2,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,2,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,2,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,2,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,2,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,2,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,2,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,2,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,2,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,2,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,2,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,2,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,2,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,2,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,2,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,2,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,2,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,2,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,2,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,2,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,2,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,2,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,2,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,2,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,2,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,2,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,2,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,2,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,2,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,2,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,2,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,2,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,2,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,2,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,2,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,2,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,2,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,2,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,2,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,2,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,2,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,2,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,2,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,2,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,2,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,2,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,2,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,2,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,2,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,2,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,2,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,2,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,2,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,2,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,2,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,2,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,2,9_12_ <= 1000
@@ -4387,6 +4387,12 @@ max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,3,9_12_: 1 f
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,3,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,3,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,3,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,3,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,3,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,3,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,3,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,3,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,3,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,3,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,3,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,3,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,3,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,3,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,3,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,3,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,3,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,3,9_12_ <= 1000
@@ -4399,12 +4405,6 @@ max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,3,9_12_: 1 f
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,3,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,3,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,3,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,3,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,3,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,3,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,3,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,3,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,3,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,3,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,3,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,3,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,3,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,3,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,3,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,3,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,3,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,3,9_12_ <= 1000
@@ -4441,30 +4441,30 @@ max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,4,9_12_: 1 f
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,4,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,4,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,4,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,4,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,4,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,4,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,4,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,4,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,4,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,4,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,4,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,4,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,4,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,4,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,4,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,4,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,4,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,4,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,4,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,4,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,4,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,4,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,4,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,4,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,4,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,4,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,4,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,4,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,4,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,4,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,4,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,4,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,4,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,4,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,4,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,4,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,4,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,4,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,4,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,4,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,4,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,4,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,4,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,4,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,4,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,4,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,4,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,4,9_12_ <= 1000
@@ -4477,18 +4477,18 @@ max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,4,9_12_: 1 f
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,4,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,4,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,4,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,4,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,4,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,4,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,4,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,4,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,4,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,13_16_: 1 flow_(FR_Balance,CH_Balance),2030,4,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,17_20_: 1 flow_(FR_Balance,CH_Balance),2030,4,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,21_24_: 1 flow_(FR_Balance,CH_Balance),2030,4,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,4,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,4,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,4,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,4,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,4,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,4,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,4,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,4,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,4,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,13_16_: 1 flow_(FR_Balance,CH_Balance),2030,4,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,17_20_: 1 flow_(FR_Balance,CH_Balance),2030,4,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,21_24_: 1 flow_(FR_Balance,CH_Balance),2030,4,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,4,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,4,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,4,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,4,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,4,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,4,9_12_ <= 1000
@@ -4513,54 +4513,54 @@ max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,4,9_12_: 1 f
 max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,4,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,4,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,4,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,4,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,4,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,4,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,5,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,5,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,5,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,5,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,5,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,5,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,5,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,5,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,5,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,5,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,5,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,5,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,5,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,5,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,5,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,5,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,5,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,5,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,5,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,5,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,5,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,5,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,5,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,5,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,5,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,5,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,5,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,5,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,5,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,5,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,5,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,5,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,5,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,5,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,5,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,5,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,5,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,5,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,5,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,5,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,5,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,5,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,5,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,5,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,5,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,5,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,5,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,5,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,5,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,5,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,5,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,5,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,5,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,5,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,5,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,5,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,5,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,5,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,5,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,5,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,5,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,5,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,5,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,5,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,5,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,5,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,5,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,5,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,5,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,5,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,5,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,5,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,5,1_4_: 1 flow_(DE_Balance,FR_Balance),2030,5,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,5,5_8_: 1 flow_(DE_Balance,FR_Balance),2030,5,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,5,9_12_: 1 flow_(DE_Balance,FR_Balance),2030,5,9_12_ <= 1000
@@ -4603,30 +4603,30 @@ max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,6,9_12_: 1 f
 max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,6,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,6,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,6,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,6,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,6,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,6,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,6,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,6,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,6,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,6,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,6,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,6,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,6,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,6,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,6,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,6,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,6,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,6,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,6,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,6,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,6,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,6,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,6,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,6,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,6,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,6,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,6,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,6,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,6,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,6,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,6,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,6,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,6,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,6,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,6,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,6,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,6,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,6,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,6,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,6,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,6,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,6,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,6,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,6,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,6,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,6,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,6,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,6,9_12_ <= 1000
@@ -4639,6 +4639,12 @@ max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,6,9_12_: 1 f
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,6,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,6,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,6,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,6,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,6,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,6,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,6,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,6,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,6,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,6,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,6,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,6,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,6,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,6,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,6,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,6,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,6,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,6,9_12_ <= 1000
@@ -4651,12 +4657,6 @@ max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,6,9_12_: 1 f
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,6,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,6,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,6,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,6,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,6,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,6,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,6,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,6,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,6,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,6,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,6,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,6,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,6,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,6,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,6,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,6,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,6,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,6,9_12_ <= 1000
@@ -4675,18 +4675,18 @@ max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,7,9_12_: 1 f
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,7,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,7,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,7,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,7,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,7,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,7,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,7,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,7,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,7,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,7,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,7,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,7,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,7,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,7,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,7,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,7,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,7,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,7,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,7,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,7,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,7,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,7,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,7,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,7,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,7,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,7,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,7,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,7,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,7,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,7,9_12_ <= 1000
@@ -4699,24 +4699,30 @@ max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,7,9_12_: 1 f
 max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,7,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,7,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,7,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,7,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,7,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,7,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,7,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,7,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,7,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,7,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,7,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,7,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,7,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,7,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,7,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,7,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,7,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,7,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,7,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,7,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,7,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,7,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,7,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,7,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,1_4_: 1 flow_(DE_Balance,FR_Balance),2030,7,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,5_8_: 1 flow_(DE_Balance,FR_Balance),2030,7,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,9_12_: 1 flow_(DE_Balance,FR_Balance),2030,7,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,7,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,7,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,7,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,7,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,7,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,7,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,7,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,7,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,7,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,7,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,7,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,7,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,7,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,7,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,7,9_12_ <= 1000
@@ -4729,12 +4735,6 @@ max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,7,9_12_: 1 f
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,7,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,7,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,7,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,7,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,7,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,7,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,7,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,7,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,7,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,7,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,7,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,7,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,7,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,7,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,7,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,7,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,7,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,7,9_12_ <= 1000
@@ -4759,30 +4759,30 @@ max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,8,9_12_: 1 f
 max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,8,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,8,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,8,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,8,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,8,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,8,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,8,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,8,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,8,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,8,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,8,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,8,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,8,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,8,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,8,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,8,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,8,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,8,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,8,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,8,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,8,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,8,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,8,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,8,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,8,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,8,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,8,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,8,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,8,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,8,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,8,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,8,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,8,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,8,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,8,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,8,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,8,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,8,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,8,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,8,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,8,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,8,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,8,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,8,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,8,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,8,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,8,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,8,9_12_ <= 1000
@@ -4795,6 +4795,12 @@ max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,8,9_12_: 1 f
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,8,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,8,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,8,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,8,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,8,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,8,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,8,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,8,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,8,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,8,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,8,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,8,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,8,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,8,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,8,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,8,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,8,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,8,9_12_ <= 1000
@@ -4807,12 +4813,6 @@ max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,8,9_12_: 1 f
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,8,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,8,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,8,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,8,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,8,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,8,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,8,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,8,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,8,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,8,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,8,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,8,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,8,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,8,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,8,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,8,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,8,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,8,9_12_ <= 1000
@@ -4831,48 +4831,48 @@ max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,9,9_12_: 1 f
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,9,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,9,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,9,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,9,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,9,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,9,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,9,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,9,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,9,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,9,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,9,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,9,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,9,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,9,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,9,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,9,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,9,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,9,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,9,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,9,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,9,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,9,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,9,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,9,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,9,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,9,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,9,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,9,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,9,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,9,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,9,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,9,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,9,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,9,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,9,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,9,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,9,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,9,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,9,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,9,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,9,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,9,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,9,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,9,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,9,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,9,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,9,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,9,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,9,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,9,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,9,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,9,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,9,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,9,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,9,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,9,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,9,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,9,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,9,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,9,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,9,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,9,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,9,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,9,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,9,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,9,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,9,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,9,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,9,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,9,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,9,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,9,9_12_ <= 1000
@@ -4909,36 +4909,36 @@ max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,10,9_12_: 1 
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,10,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,10,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,10,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,10,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,10,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,10,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,10,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,10,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,10,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,10,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,10,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,10,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,10,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,10,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,10,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,10,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,10,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,10,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,10,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,10,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,10,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,10,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,10,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,10,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,10,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,10,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,10,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,10,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,10,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,10,21_24_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,10,1_4_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,10,5_8_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,10,9_12_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,10,13_16_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,10,17_20_ <= 1000
-max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,10,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,10,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,10,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,10,9_12_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,10,13_16_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,10,17_20_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,10,21_24_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,10,1_4_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,10,5_8_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,10,9_12_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,10,13_16_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,10,17_20_ <= 1000
+max_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,10,21_24_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,10,1_4_: 1 flow_(DE_Balance,FR_Balance),2030,10,1_4_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,10,5_8_: 1 flow_(DE_Balance,FR_Balance),2030,10,5_8_ <= 1000
 max_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,10,9_12_: 1 flow_(DE_Balance,FR_Balance),2030,10,9_12_ <= 1000
@@ -9741,846 +9741,6 @@ start_up_upper_bound_UK_Nuclear,2030,10,9_12_: -1 units_on_FR_Coal,2030,10,9_12_
 start_up_upper_bound_UK_Nuclear,2030,10,13_16_: -1 units_on_FR_Coal,2030,10,13_16_ + 1 start_up_UK_Nuclear,2030,10,13_16_ <= 0
 start_up_upper_bound_UK_Nuclear,2030,10,17_20_: -1 units_on_FR_Coal,2030,10,17_20_ + 1 start_up_UK_Nuclear,2030,10,17_20_ <= 0
 start_up_upper_bound_UK_Nuclear,2030,10,21_24_: -1 units_on_FR_Coal,2030,10,21_24_ + 1 start_up_UK_Nuclear,2030,10,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,1,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,1,1_4_ + 1 shut_down_BE_Coal,2030,1,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,1,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,1,5_8_ + 1 shut_down_BE_Coal,2030,1,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,1,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,1,9_12_ + 1 shut_down_BE_Coal,2030,1,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,1,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,1,13_16_ + 1 shut_down_BE_Coal,2030,1,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,1,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,1,17_20_ + 1 shut_down_BE_Coal,2030,1,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,1,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,1,21_24_ + 1 shut_down_BE_Coal,2030,1,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,2,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,2,1_4_ + 1 shut_down_BE_Coal,2030,2,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,2,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,2,5_8_ + 1 shut_down_BE_Coal,2030,2,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,2,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,2,9_12_ + 1 shut_down_BE_Coal,2030,2,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,2,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,2,13_16_ + 1 shut_down_BE_Coal,2030,2,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,2,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,2,17_20_ + 1 shut_down_BE_Coal,2030,2,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,2,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,2,21_24_ + 1 shut_down_BE_Coal,2030,2,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,3,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,3,1_4_ + 1 shut_down_BE_Coal,2030,3,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,3,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,3,5_8_ + 1 shut_down_BE_Coal,2030,3,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,3,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,3,9_12_ + 1 shut_down_BE_Coal,2030,3,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,3,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,3,13_16_ + 1 shut_down_BE_Coal,2030,3,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,3,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,3,17_20_ + 1 shut_down_BE_Coal,2030,3,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,3,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,3,21_24_ + 1 shut_down_BE_Coal,2030,3,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,4,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,4,1_4_ + 1 shut_down_BE_Coal,2030,4,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,4,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,4,5_8_ + 1 shut_down_BE_Coal,2030,4,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,4,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,4,9_12_ + 1 shut_down_BE_Coal,2030,4,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,4,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,4,13_16_ + 1 shut_down_BE_Coal,2030,4,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,4,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,4,17_20_ + 1 shut_down_BE_Coal,2030,4,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,4,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,4,21_24_ + 1 shut_down_BE_Coal,2030,4,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,5,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,5,1_4_ + 1 shut_down_BE_Coal,2030,5,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,5,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,5,5_8_ + 1 shut_down_BE_Coal,2030,5,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,5,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,5,9_12_ + 1 shut_down_BE_Coal,2030,5,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,5,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,5,13_16_ + 1 shut_down_BE_Coal,2030,5,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,5,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,5,17_20_ + 1 shut_down_BE_Coal,2030,5,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,5,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,5,21_24_ + 1 shut_down_BE_Coal,2030,5,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,6,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,6,1_4_ + 1 shut_down_BE_Coal,2030,6,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,6,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,6,5_8_ + 1 shut_down_BE_Coal,2030,6,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,6,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,6,9_12_ + 1 shut_down_BE_Coal,2030,6,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,6,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,6,13_16_ + 1 shut_down_BE_Coal,2030,6,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,6,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,6,17_20_ + 1 shut_down_BE_Coal,2030,6,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,6,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,6,21_24_ + 1 shut_down_BE_Coal,2030,6,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,7,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,7,1_4_ + 1 shut_down_BE_Coal,2030,7,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,7,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,7,5_8_ + 1 shut_down_BE_Coal,2030,7,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,7,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,7,9_12_ + 1 shut_down_BE_Coal,2030,7,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,7,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,7,13_16_ + 1 shut_down_BE_Coal,2030,7,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,7,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,7,17_20_ + 1 shut_down_BE_Coal,2030,7,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,7,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,7,21_24_ + 1 shut_down_BE_Coal,2030,7,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,8,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,8,1_4_ + 1 shut_down_BE_Coal,2030,8,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,8,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,8,5_8_ + 1 shut_down_BE_Coal,2030,8,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,8,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,8,9_12_ + 1 shut_down_BE_Coal,2030,8,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,8,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,8,13_16_ + 1 shut_down_BE_Coal,2030,8,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,8,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,8,17_20_ + 1 shut_down_BE_Coal,2030,8,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,8,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,8,21_24_ + 1 shut_down_BE_Coal,2030,8,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,9,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,9,1_4_ + 1 shut_down_BE_Coal,2030,9,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,9,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,9,5_8_ + 1 shut_down_BE_Coal,2030,9,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,9,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,9,9_12_ + 1 shut_down_BE_Coal,2030,9,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,9,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,9,13_16_ + 1 shut_down_BE_Coal,2030,9,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,9,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,9,17_20_ + 1 shut_down_BE_Coal,2030,9,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,9,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,9,21_24_ + 1 shut_down_BE_Coal,2030,9,21_24_ <= 0
-shut_down_upper_bound_BE_Coal,2030,10,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,10,1_4_ + 1 shut_down_BE_Coal,2030,10,1_4_ <= 0
-shut_down_upper_bound_BE_Coal,2030,10,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,10,5_8_ + 1 shut_down_BE_Coal,2030,10,5_8_ <= 0
-shut_down_upper_bound_BE_Coal,2030,10,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,10,9_12_ + 1 shut_down_BE_Coal,2030,10,9_12_ <= 0
-shut_down_upper_bound_BE_Coal,2030,10,13_16_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,10,13_16_ + 1 shut_down_BE_Coal,2030,10,13_16_ <= 0
-shut_down_upper_bound_BE_Coal,2030,10,17_20_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,10,17_20_ + 1 shut_down_BE_Coal,2030,10,17_20_ <= 0
-shut_down_upper_bound_BE_Coal,2030,10,21_24_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,10,21_24_ + 1 shut_down_BE_Coal,2030,10,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,1,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,1,1_4_ + 1 shut_down_BE_Nuclear,2030,1,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,1,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,1,5_8_ + 1 shut_down_BE_Nuclear,2030,1,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,1,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,1,9_12_ + 1 shut_down_BE_Nuclear,2030,1,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,1,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,1,13_16_ + 1 shut_down_BE_Nuclear,2030,1,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,1,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,1,17_20_ + 1 shut_down_BE_Nuclear,2030,1,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,1,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,1,21_24_ + 1 shut_down_BE_Nuclear,2030,1,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,2,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,2,1_4_ + 1 shut_down_BE_Nuclear,2030,2,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,2,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,2,5_8_ + 1 shut_down_BE_Nuclear,2030,2,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,2,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,2,9_12_ + 1 shut_down_BE_Nuclear,2030,2,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,2,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,2,13_16_ + 1 shut_down_BE_Nuclear,2030,2,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,2,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,2,17_20_ + 1 shut_down_BE_Nuclear,2030,2,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,2,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,2,21_24_ + 1 shut_down_BE_Nuclear,2030,2,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,3,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,3,1_4_ + 1 shut_down_BE_Nuclear,2030,3,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,3,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,3,5_8_ + 1 shut_down_BE_Nuclear,2030,3,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,3,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,3,9_12_ + 1 shut_down_BE_Nuclear,2030,3,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,3,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,3,13_16_ + 1 shut_down_BE_Nuclear,2030,3,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,3,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,3,17_20_ + 1 shut_down_BE_Nuclear,2030,3,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,3,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,3,21_24_ + 1 shut_down_BE_Nuclear,2030,3,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,4,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,4,1_4_ + 1 shut_down_BE_Nuclear,2030,4,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,4,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,4,5_8_ + 1 shut_down_BE_Nuclear,2030,4,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,4,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,4,9_12_ + 1 shut_down_BE_Nuclear,2030,4,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,4,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,4,13_16_ + 1 shut_down_BE_Nuclear,2030,4,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,4,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,4,17_20_ + 1 shut_down_BE_Nuclear,2030,4,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,4,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,4,21_24_ + 1 shut_down_BE_Nuclear,2030,4,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,5,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,5,1_4_ + 1 shut_down_BE_Nuclear,2030,5,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,5,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,5,5_8_ + 1 shut_down_BE_Nuclear,2030,5,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,5,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,5,9_12_ + 1 shut_down_BE_Nuclear,2030,5,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,5,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,5,13_16_ + 1 shut_down_BE_Nuclear,2030,5,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,5,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,5,17_20_ + 1 shut_down_BE_Nuclear,2030,5,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,5,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,5,21_24_ + 1 shut_down_BE_Nuclear,2030,5,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,6,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,6,1_4_ + 1 shut_down_BE_Nuclear,2030,6,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,6,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,6,5_8_ + 1 shut_down_BE_Nuclear,2030,6,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,6,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,6,9_12_ + 1 shut_down_BE_Nuclear,2030,6,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,6,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,6,13_16_ + 1 shut_down_BE_Nuclear,2030,6,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,6,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,6,17_20_ + 1 shut_down_BE_Nuclear,2030,6,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,6,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,6,21_24_ + 1 shut_down_BE_Nuclear,2030,6,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,7,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,7,1_4_ + 1 shut_down_BE_Nuclear,2030,7,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,7,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,7,5_8_ + 1 shut_down_BE_Nuclear,2030,7,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,7,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,7,9_12_ + 1 shut_down_BE_Nuclear,2030,7,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,7,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,7,13_16_ + 1 shut_down_BE_Nuclear,2030,7,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,7,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,7,17_20_ + 1 shut_down_BE_Nuclear,2030,7,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,7,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,7,21_24_ + 1 shut_down_BE_Nuclear,2030,7,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,8,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,8,1_4_ + 1 shut_down_BE_Nuclear,2030,8,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,8,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,8,5_8_ + 1 shut_down_BE_Nuclear,2030,8,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,8,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,8,9_12_ + 1 shut_down_BE_Nuclear,2030,8,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,8,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,8,13_16_ + 1 shut_down_BE_Nuclear,2030,8,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,8,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,8,17_20_ + 1 shut_down_BE_Nuclear,2030,8,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,8,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,8,21_24_ + 1 shut_down_BE_Nuclear,2030,8,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,9,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,9,1_4_ + 1 shut_down_BE_Nuclear,2030,9,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,9,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,9,5_8_ + 1 shut_down_BE_Nuclear,2030,9,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,9,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,9,9_12_ + 1 shut_down_BE_Nuclear,2030,9,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,9,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,9,13_16_ + 1 shut_down_BE_Nuclear,2030,9,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,9,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,9,17_20_ + 1 shut_down_BE_Nuclear,2030,9,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,9,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,9,21_24_ + 1 shut_down_BE_Nuclear,2030,9,21_24_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,10,1_4_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,10,1_4_ + 1 shut_down_BE_Nuclear,2030,10,1_4_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,10,5_8_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,10,5_8_ + 1 shut_down_BE_Nuclear,2030,10,5_8_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,10,9_12_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,10,9_12_ + 1 shut_down_BE_Nuclear,2030,10,9_12_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,10,13_16_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,10,13_16_ + 1 shut_down_BE_Nuclear,2030,10,13_16_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,10,17_20_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,10,17_20_ + 1 shut_down_BE_Nuclear,2030,10,17_20_ <= 0
-shut_down_upper_bound_BE_Nuclear,2030,10,21_24_: -1 assets_investment_2030,BE_Nuclear_ + 1 units_on_BE_Coal,2030,10,21_24_ + 1 shut_down_BE_Nuclear,2030,10,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,1,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,1,1_4_ + 1 shut_down_CH_Coal,2030,1,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,1,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,1,5_8_ + 1 shut_down_CH_Coal,2030,1,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,1,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,1,9_12_ + 1 shut_down_CH_Coal,2030,1,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,1,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,1,13_16_ + 1 shut_down_CH_Coal,2030,1,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,1,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,1,17_20_ + 1 shut_down_CH_Coal,2030,1,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,1,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,1,21_24_ + 1 shut_down_CH_Coal,2030,1,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,2,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,2,1_4_ + 1 shut_down_CH_Coal,2030,2,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,2,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,2,5_8_ + 1 shut_down_CH_Coal,2030,2,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,2,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,2,9_12_ + 1 shut_down_CH_Coal,2030,2,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,2,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,2,13_16_ + 1 shut_down_CH_Coal,2030,2,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,2,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,2,17_20_ + 1 shut_down_CH_Coal,2030,2,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,2,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,2,21_24_ + 1 shut_down_CH_Coal,2030,2,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,3,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,3,1_4_ + 1 shut_down_CH_Coal,2030,3,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,3,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,3,5_8_ + 1 shut_down_CH_Coal,2030,3,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,3,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,3,9_12_ + 1 shut_down_CH_Coal,2030,3,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,3,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,3,13_16_ + 1 shut_down_CH_Coal,2030,3,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,3,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,3,17_20_ + 1 shut_down_CH_Coal,2030,3,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,3,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,3,21_24_ + 1 shut_down_CH_Coal,2030,3,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,4,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,4,1_4_ + 1 shut_down_CH_Coal,2030,4,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,4,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,4,5_8_ + 1 shut_down_CH_Coal,2030,4,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,4,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,4,9_12_ + 1 shut_down_CH_Coal,2030,4,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,4,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,4,13_16_ + 1 shut_down_CH_Coal,2030,4,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,4,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,4,17_20_ + 1 shut_down_CH_Coal,2030,4,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,4,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,4,21_24_ + 1 shut_down_CH_Coal,2030,4,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,5,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,5,1_4_ + 1 shut_down_CH_Coal,2030,5,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,5,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,5,5_8_ + 1 shut_down_CH_Coal,2030,5,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,5,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,5,9_12_ + 1 shut_down_CH_Coal,2030,5,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,5,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,5,13_16_ + 1 shut_down_CH_Coal,2030,5,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,5,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,5,17_20_ + 1 shut_down_CH_Coal,2030,5,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,5,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,5,21_24_ + 1 shut_down_CH_Coal,2030,5,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,6,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,6,1_4_ + 1 shut_down_CH_Coal,2030,6,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,6,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,6,5_8_ + 1 shut_down_CH_Coal,2030,6,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,6,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,6,9_12_ + 1 shut_down_CH_Coal,2030,6,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,6,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,6,13_16_ + 1 shut_down_CH_Coal,2030,6,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,6,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,6,17_20_ + 1 shut_down_CH_Coal,2030,6,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,6,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,6,21_24_ + 1 shut_down_CH_Coal,2030,6,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,7,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,7,1_4_ + 1 shut_down_CH_Coal,2030,7,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,7,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,7,5_8_ + 1 shut_down_CH_Coal,2030,7,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,7,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,7,9_12_ + 1 shut_down_CH_Coal,2030,7,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,7,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,7,13_16_ + 1 shut_down_CH_Coal,2030,7,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,7,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,7,17_20_ + 1 shut_down_CH_Coal,2030,7,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,7,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,7,21_24_ + 1 shut_down_CH_Coal,2030,7,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,8,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,8,1_4_ + 1 shut_down_CH_Coal,2030,8,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,8,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,8,5_8_ + 1 shut_down_CH_Coal,2030,8,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,8,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,8,9_12_ + 1 shut_down_CH_Coal,2030,8,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,8,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,8,13_16_ + 1 shut_down_CH_Coal,2030,8,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,8,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,8,17_20_ + 1 shut_down_CH_Coal,2030,8,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,8,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,8,21_24_ + 1 shut_down_CH_Coal,2030,8,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,9,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,9,1_4_ + 1 shut_down_CH_Coal,2030,9,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,9,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,9,5_8_ + 1 shut_down_CH_Coal,2030,9,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,9,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,9,9_12_ + 1 shut_down_CH_Coal,2030,9,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,9,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,9,13_16_ + 1 shut_down_CH_Coal,2030,9,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,9,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,9,17_20_ + 1 shut_down_CH_Coal,2030,9,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,9,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,9,21_24_ + 1 shut_down_CH_Coal,2030,9,21_24_ <= 0
-shut_down_upper_bound_CH_Coal,2030,10,1_4_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,10,1_4_ + 1 shut_down_CH_Coal,2030,10,1_4_ <= 0
-shut_down_upper_bound_CH_Coal,2030,10,5_8_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,10,5_8_ + 1 shut_down_CH_Coal,2030,10,5_8_ <= 0
-shut_down_upper_bound_CH_Coal,2030,10,9_12_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,10,9_12_ + 1 shut_down_CH_Coal,2030,10,9_12_ <= 0
-shut_down_upper_bound_CH_Coal,2030,10,13_16_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,10,13_16_ + 1 shut_down_CH_Coal,2030,10,13_16_ <= 0
-shut_down_upper_bound_CH_Coal,2030,10,17_20_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,10,17_20_ + 1 shut_down_CH_Coal,2030,10,17_20_ <= 0
-shut_down_upper_bound_CH_Coal,2030,10,21_24_: -1 assets_investment_2030,CH_Coal_ + 1 units_on_BE_Nuclear,2030,10,21_24_ + 1 shut_down_CH_Coal,2030,10,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,1,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,1,1_4_ + 1 shut_down_CH_Nuclear,2030,1,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,1,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,1,5_8_ + 1 shut_down_CH_Nuclear,2030,1,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,1,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,1,9_12_ + 1 shut_down_CH_Nuclear,2030,1,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,1,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,1,13_16_ + 1 shut_down_CH_Nuclear,2030,1,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,1,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,1,17_20_ + 1 shut_down_CH_Nuclear,2030,1,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,1,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,1,21_24_ + 1 shut_down_CH_Nuclear,2030,1,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,2,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,2,1_4_ + 1 shut_down_CH_Nuclear,2030,2,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,2,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,2,5_8_ + 1 shut_down_CH_Nuclear,2030,2,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,2,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,2,9_12_ + 1 shut_down_CH_Nuclear,2030,2,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,2,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,2,13_16_ + 1 shut_down_CH_Nuclear,2030,2,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,2,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,2,17_20_ + 1 shut_down_CH_Nuclear,2030,2,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,2,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,2,21_24_ + 1 shut_down_CH_Nuclear,2030,2,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,3,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,3,1_4_ + 1 shut_down_CH_Nuclear,2030,3,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,3,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,3,5_8_ + 1 shut_down_CH_Nuclear,2030,3,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,3,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,3,9_12_ + 1 shut_down_CH_Nuclear,2030,3,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,3,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,3,13_16_ + 1 shut_down_CH_Nuclear,2030,3,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,3,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,3,17_20_ + 1 shut_down_CH_Nuclear,2030,3,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,3,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,3,21_24_ + 1 shut_down_CH_Nuclear,2030,3,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,4,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,4,1_4_ + 1 shut_down_CH_Nuclear,2030,4,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,4,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,4,5_8_ + 1 shut_down_CH_Nuclear,2030,4,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,4,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,4,9_12_ + 1 shut_down_CH_Nuclear,2030,4,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,4,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,4,13_16_ + 1 shut_down_CH_Nuclear,2030,4,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,4,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,4,17_20_ + 1 shut_down_CH_Nuclear,2030,4,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,4,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,4,21_24_ + 1 shut_down_CH_Nuclear,2030,4,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,5,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,5,1_4_ + 1 shut_down_CH_Nuclear,2030,5,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,5,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,5,5_8_ + 1 shut_down_CH_Nuclear,2030,5,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,5,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,5,9_12_ + 1 shut_down_CH_Nuclear,2030,5,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,5,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,5,13_16_ + 1 shut_down_CH_Nuclear,2030,5,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,5,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,5,17_20_ + 1 shut_down_CH_Nuclear,2030,5,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,5,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,5,21_24_ + 1 shut_down_CH_Nuclear,2030,5,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,6,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,6,1_4_ + 1 shut_down_CH_Nuclear,2030,6,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,6,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,6,5_8_ + 1 shut_down_CH_Nuclear,2030,6,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,6,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,6,9_12_ + 1 shut_down_CH_Nuclear,2030,6,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,6,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,6,13_16_ + 1 shut_down_CH_Nuclear,2030,6,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,6,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,6,17_20_ + 1 shut_down_CH_Nuclear,2030,6,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,6,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,6,21_24_ + 1 shut_down_CH_Nuclear,2030,6,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,7,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,7,1_4_ + 1 shut_down_CH_Nuclear,2030,7,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,7,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,7,5_8_ + 1 shut_down_CH_Nuclear,2030,7,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,7,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,7,9_12_ + 1 shut_down_CH_Nuclear,2030,7,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,7,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,7,13_16_ + 1 shut_down_CH_Nuclear,2030,7,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,7,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,7,17_20_ + 1 shut_down_CH_Nuclear,2030,7,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,7,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,7,21_24_ + 1 shut_down_CH_Nuclear,2030,7,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,8,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,8,1_4_ + 1 shut_down_CH_Nuclear,2030,8,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,8,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,8,5_8_ + 1 shut_down_CH_Nuclear,2030,8,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,8,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,8,9_12_ + 1 shut_down_CH_Nuclear,2030,8,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,8,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,8,13_16_ + 1 shut_down_CH_Nuclear,2030,8,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,8,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,8,17_20_ + 1 shut_down_CH_Nuclear,2030,8,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,8,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,8,21_24_ + 1 shut_down_CH_Nuclear,2030,8,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,9,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,9,1_4_ + 1 shut_down_CH_Nuclear,2030,9,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,9,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,9,5_8_ + 1 shut_down_CH_Nuclear,2030,9,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,9,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,9,9_12_ + 1 shut_down_CH_Nuclear,2030,9,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,9,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,9,13_16_ + 1 shut_down_CH_Nuclear,2030,9,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,9,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,9,17_20_ + 1 shut_down_CH_Nuclear,2030,9,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,9,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,9,21_24_ + 1 shut_down_CH_Nuclear,2030,9,21_24_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,10,1_4_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,10,1_4_ + 1 shut_down_CH_Nuclear,2030,10,1_4_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,10,5_8_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,10,5_8_ + 1 shut_down_CH_Nuclear,2030,10,5_8_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,10,9_12_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,10,9_12_ + 1 shut_down_CH_Nuclear,2030,10,9_12_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,10,13_16_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,10,13_16_ + 1 shut_down_CH_Nuclear,2030,10,13_16_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,10,17_20_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,10,17_20_ + 1 shut_down_CH_Nuclear,2030,10,17_20_ <= 0
-shut_down_upper_bound_CH_Nuclear,2030,10,21_24_: -1 assets_investment_2030,CH_Nuclear_ + 1 units_on_BE_OCGT,2030,10,21_24_ + 1 shut_down_CH_Nuclear,2030,10,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,1,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,1,1_4_ + 1 shut_down_DE_Coal,2030,1,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,1,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,1,5_8_ + 1 shut_down_DE_Coal,2030,1,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,1,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,1,9_12_ + 1 shut_down_DE_Coal,2030,1,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,1,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,1,13_16_ + 1 shut_down_DE_Coal,2030,1,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,1,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,1,17_20_ + 1 shut_down_DE_Coal,2030,1,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,1,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,1,21_24_ + 1 shut_down_DE_Coal,2030,1,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,2,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,2,1_4_ + 1 shut_down_DE_Coal,2030,2,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,2,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,2,5_8_ + 1 shut_down_DE_Coal,2030,2,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,2,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,2,9_12_ + 1 shut_down_DE_Coal,2030,2,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,2,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,2,13_16_ + 1 shut_down_DE_Coal,2030,2,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,2,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,2,17_20_ + 1 shut_down_DE_Coal,2030,2,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,2,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,2,21_24_ + 1 shut_down_DE_Coal,2030,2,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,3,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,3,1_4_ + 1 shut_down_DE_Coal,2030,3,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,3,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,3,5_8_ + 1 shut_down_DE_Coal,2030,3,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,3,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,3,9_12_ + 1 shut_down_DE_Coal,2030,3,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,3,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,3,13_16_ + 1 shut_down_DE_Coal,2030,3,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,3,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,3,17_20_ + 1 shut_down_DE_Coal,2030,3,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,3,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,3,21_24_ + 1 shut_down_DE_Coal,2030,3,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,4,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,4,1_4_ + 1 shut_down_DE_Coal,2030,4,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,4,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,4,5_8_ + 1 shut_down_DE_Coal,2030,4,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,4,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,4,9_12_ + 1 shut_down_DE_Coal,2030,4,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,4,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,4,13_16_ + 1 shut_down_DE_Coal,2030,4,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,4,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,4,17_20_ + 1 shut_down_DE_Coal,2030,4,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,4,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,4,21_24_ + 1 shut_down_DE_Coal,2030,4,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,5,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,5,1_4_ + 1 shut_down_DE_Coal,2030,5,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,5,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,5,5_8_ + 1 shut_down_DE_Coal,2030,5,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,5,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,5,9_12_ + 1 shut_down_DE_Coal,2030,5,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,5,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,5,13_16_ + 1 shut_down_DE_Coal,2030,5,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,5,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,5,17_20_ + 1 shut_down_DE_Coal,2030,5,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,5,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,5,21_24_ + 1 shut_down_DE_Coal,2030,5,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,6,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,6,1_4_ + 1 shut_down_DE_Coal,2030,6,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,6,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,6,5_8_ + 1 shut_down_DE_Coal,2030,6,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,6,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,6,9_12_ + 1 shut_down_DE_Coal,2030,6,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,6,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,6,13_16_ + 1 shut_down_DE_Coal,2030,6,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,6,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,6,17_20_ + 1 shut_down_DE_Coal,2030,6,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,6,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,6,21_24_ + 1 shut_down_DE_Coal,2030,6,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,7,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,7,1_4_ + 1 shut_down_DE_Coal,2030,7,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,7,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,7,5_8_ + 1 shut_down_DE_Coal,2030,7,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,7,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,7,9_12_ + 1 shut_down_DE_Coal,2030,7,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,7,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,7,13_16_ + 1 shut_down_DE_Coal,2030,7,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,7,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,7,17_20_ + 1 shut_down_DE_Coal,2030,7,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,7,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,7,21_24_ + 1 shut_down_DE_Coal,2030,7,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,8,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,8,1_4_ + 1 shut_down_DE_Coal,2030,8,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,8,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,8,5_8_ + 1 shut_down_DE_Coal,2030,8,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,8,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,8,9_12_ + 1 shut_down_DE_Coal,2030,8,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,8,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,8,13_16_ + 1 shut_down_DE_Coal,2030,8,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,8,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,8,17_20_ + 1 shut_down_DE_Coal,2030,8,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,8,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,8,21_24_ + 1 shut_down_DE_Coal,2030,8,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,9,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,9,1_4_ + 1 shut_down_DE_Coal,2030,9,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,9,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,9,5_8_ + 1 shut_down_DE_Coal,2030,9,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,9,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,9,9_12_ + 1 shut_down_DE_Coal,2030,9,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,9,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,9,13_16_ + 1 shut_down_DE_Coal,2030,9,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,9,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,9,17_20_ + 1 shut_down_DE_Coal,2030,9,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,9,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,9,21_24_ + 1 shut_down_DE_Coal,2030,9,21_24_ <= 0
-shut_down_upper_bound_DE_Coal,2030,10,1_4_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,10,1_4_ + 1 shut_down_DE_Coal,2030,10,1_4_ <= 0
-shut_down_upper_bound_DE_Coal,2030,10,5_8_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,10,5_8_ + 1 shut_down_DE_Coal,2030,10,5_8_ <= 0
-shut_down_upper_bound_DE_Coal,2030,10,9_12_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,10,9_12_ + 1 shut_down_DE_Coal,2030,10,9_12_ <= 0
-shut_down_upper_bound_DE_Coal,2030,10,13_16_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,10,13_16_ + 1 shut_down_DE_Coal,2030,10,13_16_ <= 0
-shut_down_upper_bound_DE_Coal,2030,10,17_20_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,10,17_20_ + 1 shut_down_DE_Coal,2030,10,17_20_ <= 0
-shut_down_upper_bound_DE_Coal,2030,10,21_24_: -1 assets_investment_2030,DE_Coal_ + 1 units_on_CH_CCGT,2030,10,21_24_ + 1 shut_down_DE_Coal,2030,10,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,1,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,1,1_4_ + 1 shut_down_DE_Nuclear,2030,1,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,1,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,1,5_8_ + 1 shut_down_DE_Nuclear,2030,1,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,1,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,1,9_12_ + 1 shut_down_DE_Nuclear,2030,1,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,1,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,1,13_16_ + 1 shut_down_DE_Nuclear,2030,1,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,1,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,1,17_20_ + 1 shut_down_DE_Nuclear,2030,1,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,1,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,1,21_24_ + 1 shut_down_DE_Nuclear,2030,1,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,2,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,2,1_4_ + 1 shut_down_DE_Nuclear,2030,2,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,2,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,2,5_8_ + 1 shut_down_DE_Nuclear,2030,2,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,2,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,2,9_12_ + 1 shut_down_DE_Nuclear,2030,2,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,2,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,2,13_16_ + 1 shut_down_DE_Nuclear,2030,2,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,2,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,2,17_20_ + 1 shut_down_DE_Nuclear,2030,2,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,2,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,2,21_24_ + 1 shut_down_DE_Nuclear,2030,2,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,3,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,3,1_4_ + 1 shut_down_DE_Nuclear,2030,3,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,3,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,3,5_8_ + 1 shut_down_DE_Nuclear,2030,3,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,3,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,3,9_12_ + 1 shut_down_DE_Nuclear,2030,3,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,3,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,3,13_16_ + 1 shut_down_DE_Nuclear,2030,3,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,3,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,3,17_20_ + 1 shut_down_DE_Nuclear,2030,3,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,3,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,3,21_24_ + 1 shut_down_DE_Nuclear,2030,3,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,4,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,4,1_4_ + 1 shut_down_DE_Nuclear,2030,4,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,4,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,4,5_8_ + 1 shut_down_DE_Nuclear,2030,4,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,4,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,4,9_12_ + 1 shut_down_DE_Nuclear,2030,4,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,4,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,4,13_16_ + 1 shut_down_DE_Nuclear,2030,4,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,4,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,4,17_20_ + 1 shut_down_DE_Nuclear,2030,4,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,4,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,4,21_24_ + 1 shut_down_DE_Nuclear,2030,4,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,5,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,5,1_4_ + 1 shut_down_DE_Nuclear,2030,5,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,5,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,5,5_8_ + 1 shut_down_DE_Nuclear,2030,5,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,5,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,5,9_12_ + 1 shut_down_DE_Nuclear,2030,5,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,5,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,5,13_16_ + 1 shut_down_DE_Nuclear,2030,5,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,5,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,5,17_20_ + 1 shut_down_DE_Nuclear,2030,5,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,5,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,5,21_24_ + 1 shut_down_DE_Nuclear,2030,5,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,6,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,6,1_4_ + 1 shut_down_DE_Nuclear,2030,6,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,6,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,6,5_8_ + 1 shut_down_DE_Nuclear,2030,6,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,6,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,6,9_12_ + 1 shut_down_DE_Nuclear,2030,6,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,6,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,6,13_16_ + 1 shut_down_DE_Nuclear,2030,6,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,6,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,6,17_20_ + 1 shut_down_DE_Nuclear,2030,6,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,6,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,6,21_24_ + 1 shut_down_DE_Nuclear,2030,6,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,7,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,7,1_4_ + 1 shut_down_DE_Nuclear,2030,7,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,7,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,7,5_8_ + 1 shut_down_DE_Nuclear,2030,7,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,7,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,7,9_12_ + 1 shut_down_DE_Nuclear,2030,7,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,7,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,7,13_16_ + 1 shut_down_DE_Nuclear,2030,7,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,7,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,7,17_20_ + 1 shut_down_DE_Nuclear,2030,7,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,7,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,7,21_24_ + 1 shut_down_DE_Nuclear,2030,7,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,8,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,8,1_4_ + 1 shut_down_DE_Nuclear,2030,8,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,8,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,8,5_8_ + 1 shut_down_DE_Nuclear,2030,8,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,8,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,8,9_12_ + 1 shut_down_DE_Nuclear,2030,8,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,8,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,8,13_16_ + 1 shut_down_DE_Nuclear,2030,8,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,8,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,8,17_20_ + 1 shut_down_DE_Nuclear,2030,8,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,8,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,8,21_24_ + 1 shut_down_DE_Nuclear,2030,8,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,9,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,9,1_4_ + 1 shut_down_DE_Nuclear,2030,9,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,9,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,9,5_8_ + 1 shut_down_DE_Nuclear,2030,9,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,9,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,9,9_12_ + 1 shut_down_DE_Nuclear,2030,9,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,9,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,9,13_16_ + 1 shut_down_DE_Nuclear,2030,9,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,9,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,9,17_20_ + 1 shut_down_DE_Nuclear,2030,9,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,9,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,9,21_24_ + 1 shut_down_DE_Nuclear,2030,9,21_24_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,10,1_4_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,10,1_4_ + 1 shut_down_DE_Nuclear,2030,10,1_4_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,10,5_8_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,10,5_8_ + 1 shut_down_DE_Nuclear,2030,10,5_8_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,10,9_12_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,10,9_12_ + 1 shut_down_DE_Nuclear,2030,10,9_12_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,10,13_16_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,10,13_16_ + 1 shut_down_DE_Nuclear,2030,10,13_16_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,10,17_20_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,10,17_20_ + 1 shut_down_DE_Nuclear,2030,10,17_20_ <= 0
-shut_down_upper_bound_DE_Nuclear,2030,10,21_24_: -1 assets_investment_2030,DE_Nuclear_ + 1 units_on_CH_Coal,2030,10,21_24_ + 1 shut_down_DE_Nuclear,2030,10,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,1,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,1,1_4_ + 1 shut_down_FR_Coal,2030,1,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,1,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,1,5_8_ + 1 shut_down_FR_Coal,2030,1,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,1,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,1,9_12_ + 1 shut_down_FR_Coal,2030,1,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,1,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,1,13_16_ + 1 shut_down_FR_Coal,2030,1,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,1,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,1,17_20_ + 1 shut_down_FR_Coal,2030,1,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,1,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,1,21_24_ + 1 shut_down_FR_Coal,2030,1,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,2,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,2,1_4_ + 1 shut_down_FR_Coal,2030,2,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,2,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,2,5_8_ + 1 shut_down_FR_Coal,2030,2,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,2,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,2,9_12_ + 1 shut_down_FR_Coal,2030,2,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,2,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,2,13_16_ + 1 shut_down_FR_Coal,2030,2,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,2,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,2,17_20_ + 1 shut_down_FR_Coal,2030,2,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,2,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,2,21_24_ + 1 shut_down_FR_Coal,2030,2,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,3,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,3,1_4_ + 1 shut_down_FR_Coal,2030,3,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,3,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,3,5_8_ + 1 shut_down_FR_Coal,2030,3,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,3,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,3,9_12_ + 1 shut_down_FR_Coal,2030,3,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,3,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,3,13_16_ + 1 shut_down_FR_Coal,2030,3,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,3,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,3,17_20_ + 1 shut_down_FR_Coal,2030,3,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,3,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,3,21_24_ + 1 shut_down_FR_Coal,2030,3,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,4,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,4,1_4_ + 1 shut_down_FR_Coal,2030,4,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,4,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,4,5_8_ + 1 shut_down_FR_Coal,2030,4,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,4,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,4,9_12_ + 1 shut_down_FR_Coal,2030,4,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,4,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,4,13_16_ + 1 shut_down_FR_Coal,2030,4,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,4,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,4,17_20_ + 1 shut_down_FR_Coal,2030,4,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,4,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,4,21_24_ + 1 shut_down_FR_Coal,2030,4,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,5,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,5,1_4_ + 1 shut_down_FR_Coal,2030,5,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,5,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,5,5_8_ + 1 shut_down_FR_Coal,2030,5,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,5,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,5,9_12_ + 1 shut_down_FR_Coal,2030,5,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,5,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,5,13_16_ + 1 shut_down_FR_Coal,2030,5,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,5,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,5,17_20_ + 1 shut_down_FR_Coal,2030,5,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,5,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,5,21_24_ + 1 shut_down_FR_Coal,2030,5,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,6,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,6,1_4_ + 1 shut_down_FR_Coal,2030,6,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,6,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,6,5_8_ + 1 shut_down_FR_Coal,2030,6,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,6,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,6,9_12_ + 1 shut_down_FR_Coal,2030,6,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,6,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,6,13_16_ + 1 shut_down_FR_Coal,2030,6,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,6,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,6,17_20_ + 1 shut_down_FR_Coal,2030,6,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,6,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,6,21_24_ + 1 shut_down_FR_Coal,2030,6,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,7,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,7,1_4_ + 1 shut_down_FR_Coal,2030,7,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,7,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,7,5_8_ + 1 shut_down_FR_Coal,2030,7,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,7,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,7,9_12_ + 1 shut_down_FR_Coal,2030,7,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,7,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,7,13_16_ + 1 shut_down_FR_Coal,2030,7,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,7,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,7,17_20_ + 1 shut_down_FR_Coal,2030,7,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,7,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,7,21_24_ + 1 shut_down_FR_Coal,2030,7,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,8,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,8,1_4_ + 1 shut_down_FR_Coal,2030,8,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,8,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,8,5_8_ + 1 shut_down_FR_Coal,2030,8,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,8,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,8,9_12_ + 1 shut_down_FR_Coal,2030,8,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,8,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,8,13_16_ + 1 shut_down_FR_Coal,2030,8,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,8,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,8,17_20_ + 1 shut_down_FR_Coal,2030,8,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,8,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,8,21_24_ + 1 shut_down_FR_Coal,2030,8,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,9,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,9,1_4_ + 1 shut_down_FR_Coal,2030,9,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,9,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,9,5_8_ + 1 shut_down_FR_Coal,2030,9,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,9,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,9,9_12_ + 1 shut_down_FR_Coal,2030,9,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,9,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,9,13_16_ + 1 shut_down_FR_Coal,2030,9,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,9,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,9,17_20_ + 1 shut_down_FR_Coal,2030,9,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,9,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,9,21_24_ + 1 shut_down_FR_Coal,2030,9,21_24_ <= 0
-shut_down_upper_bound_FR_Coal,2030,10,1_4_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,10,1_4_ + 1 shut_down_FR_Coal,2030,10,1_4_ <= 0
-shut_down_upper_bound_FR_Coal,2030,10,5_8_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,10,5_8_ + 1 shut_down_FR_Coal,2030,10,5_8_ <= 0
-shut_down_upper_bound_FR_Coal,2030,10,9_12_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,10,9_12_ + 1 shut_down_FR_Coal,2030,10,9_12_ <= 0
-shut_down_upper_bound_FR_Coal,2030,10,13_16_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,10,13_16_ + 1 shut_down_FR_Coal,2030,10,13_16_ <= 0
-shut_down_upper_bound_FR_Coal,2030,10,17_20_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,10,17_20_ + 1 shut_down_FR_Coal,2030,10,17_20_ <= 0
-shut_down_upper_bound_FR_Coal,2030,10,21_24_: -1 assets_investment_2030,FR_Coal_ + 1 units_on_CH_Nuclear,2030,10,21_24_ + 1 shut_down_FR_Coal,2030,10,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,1,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,1,1_4_ + 1 shut_down_FR_Nuclear,2030,1,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,1,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,1,5_8_ + 1 shut_down_FR_Nuclear,2030,1,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,1,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,1,9_12_ + 1 shut_down_FR_Nuclear,2030,1,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,1,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,1,13_16_ + 1 shut_down_FR_Nuclear,2030,1,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,1,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,1,17_20_ + 1 shut_down_FR_Nuclear,2030,1,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,1,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,1,21_24_ + 1 shut_down_FR_Nuclear,2030,1,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,2,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,2,1_4_ + 1 shut_down_FR_Nuclear,2030,2,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,2,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,2,5_8_ + 1 shut_down_FR_Nuclear,2030,2,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,2,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,2,9_12_ + 1 shut_down_FR_Nuclear,2030,2,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,2,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,2,13_16_ + 1 shut_down_FR_Nuclear,2030,2,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,2,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,2,17_20_ + 1 shut_down_FR_Nuclear,2030,2,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,2,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,2,21_24_ + 1 shut_down_FR_Nuclear,2030,2,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,3,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,3,1_4_ + 1 shut_down_FR_Nuclear,2030,3,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,3,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,3,5_8_ + 1 shut_down_FR_Nuclear,2030,3,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,3,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,3,9_12_ + 1 shut_down_FR_Nuclear,2030,3,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,3,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,3,13_16_ + 1 shut_down_FR_Nuclear,2030,3,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,3,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,3,17_20_ + 1 shut_down_FR_Nuclear,2030,3,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,3,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,3,21_24_ + 1 shut_down_FR_Nuclear,2030,3,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,4,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,4,1_4_ + 1 shut_down_FR_Nuclear,2030,4,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,4,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,4,5_8_ + 1 shut_down_FR_Nuclear,2030,4,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,4,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,4,9_12_ + 1 shut_down_FR_Nuclear,2030,4,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,4,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,4,13_16_ + 1 shut_down_FR_Nuclear,2030,4,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,4,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,4,17_20_ + 1 shut_down_FR_Nuclear,2030,4,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,4,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,4,21_24_ + 1 shut_down_FR_Nuclear,2030,4,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,5,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,5,1_4_ + 1 shut_down_FR_Nuclear,2030,5,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,5,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,5,5_8_ + 1 shut_down_FR_Nuclear,2030,5,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,5,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,5,9_12_ + 1 shut_down_FR_Nuclear,2030,5,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,5,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,5,13_16_ + 1 shut_down_FR_Nuclear,2030,5,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,5,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,5,17_20_ + 1 shut_down_FR_Nuclear,2030,5,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,5,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,5,21_24_ + 1 shut_down_FR_Nuclear,2030,5,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,6,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,6,1_4_ + 1 shut_down_FR_Nuclear,2030,6,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,6,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,6,5_8_ + 1 shut_down_FR_Nuclear,2030,6,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,6,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,6,9_12_ + 1 shut_down_FR_Nuclear,2030,6,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,6,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,6,13_16_ + 1 shut_down_FR_Nuclear,2030,6,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,6,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,6,17_20_ + 1 shut_down_FR_Nuclear,2030,6,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,6,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,6,21_24_ + 1 shut_down_FR_Nuclear,2030,6,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,7,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,7,1_4_ + 1 shut_down_FR_Nuclear,2030,7,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,7,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,7,5_8_ + 1 shut_down_FR_Nuclear,2030,7,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,7,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,7,9_12_ + 1 shut_down_FR_Nuclear,2030,7,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,7,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,7,13_16_ + 1 shut_down_FR_Nuclear,2030,7,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,7,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,7,17_20_ + 1 shut_down_FR_Nuclear,2030,7,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,7,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,7,21_24_ + 1 shut_down_FR_Nuclear,2030,7,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,8,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,8,1_4_ + 1 shut_down_FR_Nuclear,2030,8,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,8,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,8,5_8_ + 1 shut_down_FR_Nuclear,2030,8,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,8,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,8,9_12_ + 1 shut_down_FR_Nuclear,2030,8,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,8,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,8,13_16_ + 1 shut_down_FR_Nuclear,2030,8,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,8,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,8,17_20_ + 1 shut_down_FR_Nuclear,2030,8,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,8,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,8,21_24_ + 1 shut_down_FR_Nuclear,2030,8,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,9,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,9,1_4_ + 1 shut_down_FR_Nuclear,2030,9,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,9,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,9,5_8_ + 1 shut_down_FR_Nuclear,2030,9,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,9,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,9,9_12_ + 1 shut_down_FR_Nuclear,2030,9,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,9,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,9,13_16_ + 1 shut_down_FR_Nuclear,2030,9,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,9,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,9,17_20_ + 1 shut_down_FR_Nuclear,2030,9,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,9,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,9,21_24_ + 1 shut_down_FR_Nuclear,2030,9,21_24_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,10,1_4_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,10,1_4_ + 1 shut_down_FR_Nuclear,2030,10,1_4_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,10,5_8_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,10,5_8_ + 1 shut_down_FR_Nuclear,2030,10,5_8_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,10,9_12_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,10,9_12_ + 1 shut_down_FR_Nuclear,2030,10,9_12_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,10,13_16_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,10,13_16_ + 1 shut_down_FR_Nuclear,2030,10,13_16_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,10,17_20_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,10,17_20_ + 1 shut_down_FR_Nuclear,2030,10,17_20_ <= 0
-shut_down_upper_bound_FR_Nuclear,2030,10,21_24_: -1 assets_investment_2030,FR_Nuclear_ + 1 units_on_CH_OCGT,2030,10,21_24_ + 1 shut_down_FR_Nuclear,2030,10,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,1,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,1,1_4_ + 1 shut_down_LU_Coal,2030,1,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,1,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,1,5_8_ + 1 shut_down_LU_Coal,2030,1,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,1,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,1,9_12_ + 1 shut_down_LU_Coal,2030,1,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,1,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,1,13_16_ + 1 shut_down_LU_Coal,2030,1,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,1,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,1,17_20_ + 1 shut_down_LU_Coal,2030,1,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,1,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,1,21_24_ + 1 shut_down_LU_Coal,2030,1,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,2,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,2,1_4_ + 1 shut_down_LU_Coal,2030,2,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,2,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,2,5_8_ + 1 shut_down_LU_Coal,2030,2,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,2,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,2,9_12_ + 1 shut_down_LU_Coal,2030,2,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,2,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,2,13_16_ + 1 shut_down_LU_Coal,2030,2,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,2,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,2,17_20_ + 1 shut_down_LU_Coal,2030,2,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,2,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,2,21_24_ + 1 shut_down_LU_Coal,2030,2,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,3,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,3,1_4_ + 1 shut_down_LU_Coal,2030,3,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,3,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,3,5_8_ + 1 shut_down_LU_Coal,2030,3,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,3,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,3,9_12_ + 1 shut_down_LU_Coal,2030,3,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,3,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,3,13_16_ + 1 shut_down_LU_Coal,2030,3,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,3,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,3,17_20_ + 1 shut_down_LU_Coal,2030,3,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,3,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,3,21_24_ + 1 shut_down_LU_Coal,2030,3,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,4,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,4,1_4_ + 1 shut_down_LU_Coal,2030,4,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,4,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,4,5_8_ + 1 shut_down_LU_Coal,2030,4,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,4,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,4,9_12_ + 1 shut_down_LU_Coal,2030,4,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,4,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,4,13_16_ + 1 shut_down_LU_Coal,2030,4,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,4,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,4,17_20_ + 1 shut_down_LU_Coal,2030,4,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,4,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,4,21_24_ + 1 shut_down_LU_Coal,2030,4,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,5,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,5,1_4_ + 1 shut_down_LU_Coal,2030,5,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,5,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,5,5_8_ + 1 shut_down_LU_Coal,2030,5,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,5,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,5,9_12_ + 1 shut_down_LU_Coal,2030,5,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,5,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,5,13_16_ + 1 shut_down_LU_Coal,2030,5,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,5,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,5,17_20_ + 1 shut_down_LU_Coal,2030,5,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,5,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,5,21_24_ + 1 shut_down_LU_Coal,2030,5,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,6,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,6,1_4_ + 1 shut_down_LU_Coal,2030,6,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,6,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,6,5_8_ + 1 shut_down_LU_Coal,2030,6,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,6,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,6,9_12_ + 1 shut_down_LU_Coal,2030,6,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,6,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,6,13_16_ + 1 shut_down_LU_Coal,2030,6,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,6,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,6,17_20_ + 1 shut_down_LU_Coal,2030,6,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,6,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,6,21_24_ + 1 shut_down_LU_Coal,2030,6,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,7,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,7,1_4_ + 1 shut_down_LU_Coal,2030,7,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,7,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,7,5_8_ + 1 shut_down_LU_Coal,2030,7,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,7,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,7,9_12_ + 1 shut_down_LU_Coal,2030,7,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,7,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,7,13_16_ + 1 shut_down_LU_Coal,2030,7,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,7,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,7,17_20_ + 1 shut_down_LU_Coal,2030,7,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,7,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,7,21_24_ + 1 shut_down_LU_Coal,2030,7,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,8,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,8,1_4_ + 1 shut_down_LU_Coal,2030,8,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,8,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,8,5_8_ + 1 shut_down_LU_Coal,2030,8,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,8,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,8,9_12_ + 1 shut_down_LU_Coal,2030,8,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,8,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,8,13_16_ + 1 shut_down_LU_Coal,2030,8,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,8,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,8,17_20_ + 1 shut_down_LU_Coal,2030,8,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,8,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,8,21_24_ + 1 shut_down_LU_Coal,2030,8,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,9,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,9,1_4_ + 1 shut_down_LU_Coal,2030,9,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,9,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,9,5_8_ + 1 shut_down_LU_Coal,2030,9,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,9,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,9,9_12_ + 1 shut_down_LU_Coal,2030,9,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,9,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,9,13_16_ + 1 shut_down_LU_Coal,2030,9,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,9,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,9,17_20_ + 1 shut_down_LU_Coal,2030,9,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,9,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,9,21_24_ + 1 shut_down_LU_Coal,2030,9,21_24_ <= 0
-shut_down_upper_bound_LU_Coal,2030,10,1_4_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,10,1_4_ + 1 shut_down_LU_Coal,2030,10,1_4_ <= 0
-shut_down_upper_bound_LU_Coal,2030,10,5_8_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,10,5_8_ + 1 shut_down_LU_Coal,2030,10,5_8_ <= 0
-shut_down_upper_bound_LU_Coal,2030,10,9_12_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,10,9_12_ + 1 shut_down_LU_Coal,2030,10,9_12_ <= 0
-shut_down_upper_bound_LU_Coal,2030,10,13_16_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,10,13_16_ + 1 shut_down_LU_Coal,2030,10,13_16_ <= 0
-shut_down_upper_bound_LU_Coal,2030,10,17_20_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,10,17_20_ + 1 shut_down_LU_Coal,2030,10,17_20_ <= 0
-shut_down_upper_bound_LU_Coal,2030,10,21_24_: -1 assets_investment_2030,LU_Coal_ + 1 units_on_DE_CCGT,2030,10,21_24_ + 1 shut_down_LU_Coal,2030,10,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,1,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,1,1_4_ + 1 shut_down_LU_Nuclear,2030,1,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,1,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,1,5_8_ + 1 shut_down_LU_Nuclear,2030,1,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,1,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,1,9_12_ + 1 shut_down_LU_Nuclear,2030,1,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,1,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,1,13_16_ + 1 shut_down_LU_Nuclear,2030,1,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,1,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,1,17_20_ + 1 shut_down_LU_Nuclear,2030,1,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,1,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,1,21_24_ + 1 shut_down_LU_Nuclear,2030,1,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,2,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,2,1_4_ + 1 shut_down_LU_Nuclear,2030,2,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,2,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,2,5_8_ + 1 shut_down_LU_Nuclear,2030,2,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,2,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,2,9_12_ + 1 shut_down_LU_Nuclear,2030,2,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,2,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,2,13_16_ + 1 shut_down_LU_Nuclear,2030,2,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,2,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,2,17_20_ + 1 shut_down_LU_Nuclear,2030,2,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,2,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,2,21_24_ + 1 shut_down_LU_Nuclear,2030,2,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,3,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,3,1_4_ + 1 shut_down_LU_Nuclear,2030,3,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,3,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,3,5_8_ + 1 shut_down_LU_Nuclear,2030,3,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,3,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,3,9_12_ + 1 shut_down_LU_Nuclear,2030,3,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,3,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,3,13_16_ + 1 shut_down_LU_Nuclear,2030,3,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,3,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,3,17_20_ + 1 shut_down_LU_Nuclear,2030,3,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,3,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,3,21_24_ + 1 shut_down_LU_Nuclear,2030,3,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,4,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,4,1_4_ + 1 shut_down_LU_Nuclear,2030,4,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,4,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,4,5_8_ + 1 shut_down_LU_Nuclear,2030,4,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,4,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,4,9_12_ + 1 shut_down_LU_Nuclear,2030,4,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,4,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,4,13_16_ + 1 shut_down_LU_Nuclear,2030,4,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,4,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,4,17_20_ + 1 shut_down_LU_Nuclear,2030,4,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,4,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,4,21_24_ + 1 shut_down_LU_Nuclear,2030,4,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,5,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,5,1_4_ + 1 shut_down_LU_Nuclear,2030,5,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,5,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,5,5_8_ + 1 shut_down_LU_Nuclear,2030,5,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,5,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,5,9_12_ + 1 shut_down_LU_Nuclear,2030,5,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,5,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,5,13_16_ + 1 shut_down_LU_Nuclear,2030,5,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,5,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,5,17_20_ + 1 shut_down_LU_Nuclear,2030,5,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,5,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,5,21_24_ + 1 shut_down_LU_Nuclear,2030,5,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,6,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,6,1_4_ + 1 shut_down_LU_Nuclear,2030,6,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,6,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,6,5_8_ + 1 shut_down_LU_Nuclear,2030,6,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,6,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,6,9_12_ + 1 shut_down_LU_Nuclear,2030,6,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,6,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,6,13_16_ + 1 shut_down_LU_Nuclear,2030,6,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,6,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,6,17_20_ + 1 shut_down_LU_Nuclear,2030,6,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,6,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,6,21_24_ + 1 shut_down_LU_Nuclear,2030,6,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,7,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,7,1_4_ + 1 shut_down_LU_Nuclear,2030,7,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,7,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,7,5_8_ + 1 shut_down_LU_Nuclear,2030,7,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,7,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,7,9_12_ + 1 shut_down_LU_Nuclear,2030,7,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,7,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,7,13_16_ + 1 shut_down_LU_Nuclear,2030,7,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,7,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,7,17_20_ + 1 shut_down_LU_Nuclear,2030,7,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,7,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,7,21_24_ + 1 shut_down_LU_Nuclear,2030,7,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,8,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,8,1_4_ + 1 shut_down_LU_Nuclear,2030,8,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,8,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,8,5_8_ + 1 shut_down_LU_Nuclear,2030,8,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,8,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,8,9_12_ + 1 shut_down_LU_Nuclear,2030,8,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,8,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,8,13_16_ + 1 shut_down_LU_Nuclear,2030,8,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,8,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,8,17_20_ + 1 shut_down_LU_Nuclear,2030,8,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,8,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,8,21_24_ + 1 shut_down_LU_Nuclear,2030,8,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,9,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,9,1_4_ + 1 shut_down_LU_Nuclear,2030,9,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,9,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,9,5_8_ + 1 shut_down_LU_Nuclear,2030,9,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,9,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,9,9_12_ + 1 shut_down_LU_Nuclear,2030,9,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,9,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,9,13_16_ + 1 shut_down_LU_Nuclear,2030,9,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,9,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,9,17_20_ + 1 shut_down_LU_Nuclear,2030,9,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,9,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,9,21_24_ + 1 shut_down_LU_Nuclear,2030,9,21_24_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,10,1_4_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,10,1_4_ + 1 shut_down_LU_Nuclear,2030,10,1_4_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,10,5_8_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,10,5_8_ + 1 shut_down_LU_Nuclear,2030,10,5_8_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,10,9_12_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,10,9_12_ + 1 shut_down_LU_Nuclear,2030,10,9_12_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,10,13_16_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,10,13_16_ + 1 shut_down_LU_Nuclear,2030,10,13_16_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,10,17_20_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,10,17_20_ + 1 shut_down_LU_Nuclear,2030,10,17_20_ <= 0
-shut_down_upper_bound_LU_Nuclear,2030,10,21_24_: -1 assets_investment_2030,LU_Nuclear_ + 1 units_on_DE_Coal,2030,10,21_24_ + 1 shut_down_LU_Nuclear,2030,10,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,1,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,1,1_4_ + 1 shut_down_NL_Coal,2030,1,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,1,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,1,5_8_ + 1 shut_down_NL_Coal,2030,1,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,1,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,1,9_12_ + 1 shut_down_NL_Coal,2030,1,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,1,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,1,13_16_ + 1 shut_down_NL_Coal,2030,1,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,1,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,1,17_20_ + 1 shut_down_NL_Coal,2030,1,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,1,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,1,21_24_ + 1 shut_down_NL_Coal,2030,1,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,2,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,2,1_4_ + 1 shut_down_NL_Coal,2030,2,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,2,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,2,5_8_ + 1 shut_down_NL_Coal,2030,2,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,2,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,2,9_12_ + 1 shut_down_NL_Coal,2030,2,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,2,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,2,13_16_ + 1 shut_down_NL_Coal,2030,2,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,2,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,2,17_20_ + 1 shut_down_NL_Coal,2030,2,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,2,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,2,21_24_ + 1 shut_down_NL_Coal,2030,2,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,3,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,3,1_4_ + 1 shut_down_NL_Coal,2030,3,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,3,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,3,5_8_ + 1 shut_down_NL_Coal,2030,3,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,3,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,3,9_12_ + 1 shut_down_NL_Coal,2030,3,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,3,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,3,13_16_ + 1 shut_down_NL_Coal,2030,3,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,3,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,3,17_20_ + 1 shut_down_NL_Coal,2030,3,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,3,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,3,21_24_ + 1 shut_down_NL_Coal,2030,3,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,4,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,4,1_4_ + 1 shut_down_NL_Coal,2030,4,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,4,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,4,5_8_ + 1 shut_down_NL_Coal,2030,4,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,4,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,4,9_12_ + 1 shut_down_NL_Coal,2030,4,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,4,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,4,13_16_ + 1 shut_down_NL_Coal,2030,4,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,4,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,4,17_20_ + 1 shut_down_NL_Coal,2030,4,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,4,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,4,21_24_ + 1 shut_down_NL_Coal,2030,4,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,5,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,5,1_4_ + 1 shut_down_NL_Coal,2030,5,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,5,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,5,5_8_ + 1 shut_down_NL_Coal,2030,5,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,5,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,5,9_12_ + 1 shut_down_NL_Coal,2030,5,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,5,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,5,13_16_ + 1 shut_down_NL_Coal,2030,5,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,5,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,5,17_20_ + 1 shut_down_NL_Coal,2030,5,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,5,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,5,21_24_ + 1 shut_down_NL_Coal,2030,5,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,6,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,6,1_4_ + 1 shut_down_NL_Coal,2030,6,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,6,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,6,5_8_ + 1 shut_down_NL_Coal,2030,6,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,6,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,6,9_12_ + 1 shut_down_NL_Coal,2030,6,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,6,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,6,13_16_ + 1 shut_down_NL_Coal,2030,6,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,6,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,6,17_20_ + 1 shut_down_NL_Coal,2030,6,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,6,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,6,21_24_ + 1 shut_down_NL_Coal,2030,6,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,7,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,7,1_4_ + 1 shut_down_NL_Coal,2030,7,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,7,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,7,5_8_ + 1 shut_down_NL_Coal,2030,7,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,7,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,7,9_12_ + 1 shut_down_NL_Coal,2030,7,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,7,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,7,13_16_ + 1 shut_down_NL_Coal,2030,7,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,7,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,7,17_20_ + 1 shut_down_NL_Coal,2030,7,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,7,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,7,21_24_ + 1 shut_down_NL_Coal,2030,7,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,8,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,8,1_4_ + 1 shut_down_NL_Coal,2030,8,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,8,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,8,5_8_ + 1 shut_down_NL_Coal,2030,8,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,8,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,8,9_12_ + 1 shut_down_NL_Coal,2030,8,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,8,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,8,13_16_ + 1 shut_down_NL_Coal,2030,8,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,8,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,8,17_20_ + 1 shut_down_NL_Coal,2030,8,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,8,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,8,21_24_ + 1 shut_down_NL_Coal,2030,8,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,9,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,9,1_4_ + 1 shut_down_NL_Coal,2030,9,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,9,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,9,5_8_ + 1 shut_down_NL_Coal,2030,9,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,9,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,9,9_12_ + 1 shut_down_NL_Coal,2030,9,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,9,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,9,13_16_ + 1 shut_down_NL_Coal,2030,9,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,9,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,9,17_20_ + 1 shut_down_NL_Coal,2030,9,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,9,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,9,21_24_ + 1 shut_down_NL_Coal,2030,9,21_24_ <= 0
-shut_down_upper_bound_NL_Coal,2030,10,1_4_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,10,1_4_ + 1 shut_down_NL_Coal,2030,10,1_4_ <= 0
-shut_down_upper_bound_NL_Coal,2030,10,5_8_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,10,5_8_ + 1 shut_down_NL_Coal,2030,10,5_8_ <= 0
-shut_down_upper_bound_NL_Coal,2030,10,9_12_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,10,9_12_ + 1 shut_down_NL_Coal,2030,10,9_12_ <= 0
-shut_down_upper_bound_NL_Coal,2030,10,13_16_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,10,13_16_ + 1 shut_down_NL_Coal,2030,10,13_16_ <= 0
-shut_down_upper_bound_NL_Coal,2030,10,17_20_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,10,17_20_ + 1 shut_down_NL_Coal,2030,10,17_20_ <= 0
-shut_down_upper_bound_NL_Coal,2030,10,21_24_: -1 assets_investment_2030,NL_Coal_ + 1 units_on_DE_Nuclear,2030,10,21_24_ + 1 shut_down_NL_Coal,2030,10,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,1,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,1,1_4_ + 1 shut_down_NL_Nuclear,2030,1,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,1,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,1,5_8_ + 1 shut_down_NL_Nuclear,2030,1,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,1,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,1,9_12_ + 1 shut_down_NL_Nuclear,2030,1,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,1,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,1,13_16_ + 1 shut_down_NL_Nuclear,2030,1,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,1,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,1,17_20_ + 1 shut_down_NL_Nuclear,2030,1,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,1,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,1,21_24_ + 1 shut_down_NL_Nuclear,2030,1,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,2,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,2,1_4_ + 1 shut_down_NL_Nuclear,2030,2,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,2,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,2,5_8_ + 1 shut_down_NL_Nuclear,2030,2,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,2,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,2,9_12_ + 1 shut_down_NL_Nuclear,2030,2,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,2,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,2,13_16_ + 1 shut_down_NL_Nuclear,2030,2,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,2,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,2,17_20_ + 1 shut_down_NL_Nuclear,2030,2,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,2,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,2,21_24_ + 1 shut_down_NL_Nuclear,2030,2,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,3,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,3,1_4_ + 1 shut_down_NL_Nuclear,2030,3,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,3,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,3,5_8_ + 1 shut_down_NL_Nuclear,2030,3,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,3,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,3,9_12_ + 1 shut_down_NL_Nuclear,2030,3,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,3,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,3,13_16_ + 1 shut_down_NL_Nuclear,2030,3,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,3,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,3,17_20_ + 1 shut_down_NL_Nuclear,2030,3,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,3,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,3,21_24_ + 1 shut_down_NL_Nuclear,2030,3,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,4,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,4,1_4_ + 1 shut_down_NL_Nuclear,2030,4,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,4,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,4,5_8_ + 1 shut_down_NL_Nuclear,2030,4,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,4,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,4,9_12_ + 1 shut_down_NL_Nuclear,2030,4,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,4,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,4,13_16_ + 1 shut_down_NL_Nuclear,2030,4,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,4,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,4,17_20_ + 1 shut_down_NL_Nuclear,2030,4,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,4,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,4,21_24_ + 1 shut_down_NL_Nuclear,2030,4,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,5,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,5,1_4_ + 1 shut_down_NL_Nuclear,2030,5,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,5,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,5,5_8_ + 1 shut_down_NL_Nuclear,2030,5,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,5,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,5,9_12_ + 1 shut_down_NL_Nuclear,2030,5,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,5,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,5,13_16_ + 1 shut_down_NL_Nuclear,2030,5,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,5,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,5,17_20_ + 1 shut_down_NL_Nuclear,2030,5,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,5,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,5,21_24_ + 1 shut_down_NL_Nuclear,2030,5,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,6,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,6,1_4_ + 1 shut_down_NL_Nuclear,2030,6,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,6,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,6,5_8_ + 1 shut_down_NL_Nuclear,2030,6,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,6,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,6,9_12_ + 1 shut_down_NL_Nuclear,2030,6,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,6,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,6,13_16_ + 1 shut_down_NL_Nuclear,2030,6,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,6,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,6,17_20_ + 1 shut_down_NL_Nuclear,2030,6,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,6,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,6,21_24_ + 1 shut_down_NL_Nuclear,2030,6,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,7,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,7,1_4_ + 1 shut_down_NL_Nuclear,2030,7,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,7,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,7,5_8_ + 1 shut_down_NL_Nuclear,2030,7,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,7,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,7,9_12_ + 1 shut_down_NL_Nuclear,2030,7,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,7,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,7,13_16_ + 1 shut_down_NL_Nuclear,2030,7,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,7,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,7,17_20_ + 1 shut_down_NL_Nuclear,2030,7,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,7,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,7,21_24_ + 1 shut_down_NL_Nuclear,2030,7,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,8,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,8,1_4_ + 1 shut_down_NL_Nuclear,2030,8,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,8,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,8,5_8_ + 1 shut_down_NL_Nuclear,2030,8,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,8,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,8,9_12_ + 1 shut_down_NL_Nuclear,2030,8,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,8,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,8,13_16_ + 1 shut_down_NL_Nuclear,2030,8,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,8,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,8,17_20_ + 1 shut_down_NL_Nuclear,2030,8,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,8,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,8,21_24_ + 1 shut_down_NL_Nuclear,2030,8,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,9,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,9,1_4_ + 1 shut_down_NL_Nuclear,2030,9,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,9,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,9,5_8_ + 1 shut_down_NL_Nuclear,2030,9,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,9,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,9,9_12_ + 1 shut_down_NL_Nuclear,2030,9,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,9,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,9,13_16_ + 1 shut_down_NL_Nuclear,2030,9,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,9,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,9,17_20_ + 1 shut_down_NL_Nuclear,2030,9,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,9,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,9,21_24_ + 1 shut_down_NL_Nuclear,2030,9,21_24_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,10,1_4_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,10,1_4_ + 1 shut_down_NL_Nuclear,2030,10,1_4_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,10,5_8_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,10,5_8_ + 1 shut_down_NL_Nuclear,2030,10,5_8_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,10,9_12_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,10,9_12_ + 1 shut_down_NL_Nuclear,2030,10,9_12_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,10,13_16_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,10,13_16_ + 1 shut_down_NL_Nuclear,2030,10,13_16_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,10,17_20_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,10,17_20_ + 1 shut_down_NL_Nuclear,2030,10,17_20_ <= 0
-shut_down_upper_bound_NL_Nuclear,2030,10,21_24_: -1 assets_investment_2030,NL_Nuclear_ + 1 units_on_DE_OCGT,2030,10,21_24_ + 1 shut_down_NL_Nuclear,2030,10,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,1,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,1,1_4_ + 1 shut_down_UK_Coal,2030,1,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,1,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,1,5_8_ + 1 shut_down_UK_Coal,2030,1,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,1,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,1,9_12_ + 1 shut_down_UK_Coal,2030,1,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,1,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,1,13_16_ + 1 shut_down_UK_Coal,2030,1,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,1,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,1,17_20_ + 1 shut_down_UK_Coal,2030,1,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,1,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,1,21_24_ + 1 shut_down_UK_Coal,2030,1,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,2,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,2,1_4_ + 1 shut_down_UK_Coal,2030,2,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,2,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,2,5_8_ + 1 shut_down_UK_Coal,2030,2,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,2,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,2,9_12_ + 1 shut_down_UK_Coal,2030,2,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,2,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,2,13_16_ + 1 shut_down_UK_Coal,2030,2,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,2,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,2,17_20_ + 1 shut_down_UK_Coal,2030,2,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,2,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,2,21_24_ + 1 shut_down_UK_Coal,2030,2,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,3,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,3,1_4_ + 1 shut_down_UK_Coal,2030,3,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,3,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,3,5_8_ + 1 shut_down_UK_Coal,2030,3,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,3,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,3,9_12_ + 1 shut_down_UK_Coal,2030,3,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,3,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,3,13_16_ + 1 shut_down_UK_Coal,2030,3,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,3,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,3,17_20_ + 1 shut_down_UK_Coal,2030,3,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,3,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,3,21_24_ + 1 shut_down_UK_Coal,2030,3,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,4,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,4,1_4_ + 1 shut_down_UK_Coal,2030,4,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,4,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,4,5_8_ + 1 shut_down_UK_Coal,2030,4,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,4,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,4,9_12_ + 1 shut_down_UK_Coal,2030,4,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,4,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,4,13_16_ + 1 shut_down_UK_Coal,2030,4,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,4,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,4,17_20_ + 1 shut_down_UK_Coal,2030,4,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,4,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,4,21_24_ + 1 shut_down_UK_Coal,2030,4,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,5,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,5,1_4_ + 1 shut_down_UK_Coal,2030,5,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,5,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,5,5_8_ + 1 shut_down_UK_Coal,2030,5,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,5,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,5,9_12_ + 1 shut_down_UK_Coal,2030,5,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,5,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,5,13_16_ + 1 shut_down_UK_Coal,2030,5,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,5,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,5,17_20_ + 1 shut_down_UK_Coal,2030,5,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,5,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,5,21_24_ + 1 shut_down_UK_Coal,2030,5,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,6,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,6,1_4_ + 1 shut_down_UK_Coal,2030,6,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,6,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,6,5_8_ + 1 shut_down_UK_Coal,2030,6,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,6,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,6,9_12_ + 1 shut_down_UK_Coal,2030,6,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,6,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,6,13_16_ + 1 shut_down_UK_Coal,2030,6,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,6,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,6,17_20_ + 1 shut_down_UK_Coal,2030,6,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,6,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,6,21_24_ + 1 shut_down_UK_Coal,2030,6,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,7,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,7,1_4_ + 1 shut_down_UK_Coal,2030,7,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,7,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,7,5_8_ + 1 shut_down_UK_Coal,2030,7,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,7,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,7,9_12_ + 1 shut_down_UK_Coal,2030,7,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,7,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,7,13_16_ + 1 shut_down_UK_Coal,2030,7,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,7,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,7,17_20_ + 1 shut_down_UK_Coal,2030,7,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,7,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,7,21_24_ + 1 shut_down_UK_Coal,2030,7,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,8,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,8,1_4_ + 1 shut_down_UK_Coal,2030,8,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,8,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,8,5_8_ + 1 shut_down_UK_Coal,2030,8,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,8,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,8,9_12_ + 1 shut_down_UK_Coal,2030,8,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,8,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,8,13_16_ + 1 shut_down_UK_Coal,2030,8,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,8,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,8,17_20_ + 1 shut_down_UK_Coal,2030,8,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,8,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,8,21_24_ + 1 shut_down_UK_Coal,2030,8,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,9,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,9,1_4_ + 1 shut_down_UK_Coal,2030,9,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,9,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,9,5_8_ + 1 shut_down_UK_Coal,2030,9,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,9,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,9,9_12_ + 1 shut_down_UK_Coal,2030,9,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,9,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,9,13_16_ + 1 shut_down_UK_Coal,2030,9,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,9,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,9,17_20_ + 1 shut_down_UK_Coal,2030,9,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,9,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,9,21_24_ + 1 shut_down_UK_Coal,2030,9,21_24_ <= 0
-shut_down_upper_bound_UK_Coal,2030,10,1_4_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,10,1_4_ + 1 shut_down_UK_Coal,2030,10,1_4_ <= 0
-shut_down_upper_bound_UK_Coal,2030,10,5_8_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,10,5_8_ + 1 shut_down_UK_Coal,2030,10,5_8_ <= 0
-shut_down_upper_bound_UK_Coal,2030,10,9_12_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,10,9_12_ + 1 shut_down_UK_Coal,2030,10,9_12_ <= 0
-shut_down_upper_bound_UK_Coal,2030,10,13_16_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,10,13_16_ + 1 shut_down_UK_Coal,2030,10,13_16_ <= 0
-shut_down_upper_bound_UK_Coal,2030,10,17_20_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,10,17_20_ + 1 shut_down_UK_Coal,2030,10,17_20_ <= 0
-shut_down_upper_bound_UK_Coal,2030,10,21_24_: -1 assets_investment_2030,UK_Coal_ + 1 units_on_FR_CCGT,2030,10,21_24_ + 1 shut_down_UK_Coal,2030,10,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,1,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,1,1_4_ + 1 shut_down_UK_Nuclear,2030,1,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,1,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,1,5_8_ + 1 shut_down_UK_Nuclear,2030,1,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,1,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,1,9_12_ + 1 shut_down_UK_Nuclear,2030,1,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,1,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,1,13_16_ + 1 shut_down_UK_Nuclear,2030,1,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,1,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,1,17_20_ + 1 shut_down_UK_Nuclear,2030,1,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,1,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,1,21_24_ + 1 shut_down_UK_Nuclear,2030,1,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,2,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,2,1_4_ + 1 shut_down_UK_Nuclear,2030,2,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,2,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,2,5_8_ + 1 shut_down_UK_Nuclear,2030,2,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,2,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,2,9_12_ + 1 shut_down_UK_Nuclear,2030,2,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,2,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,2,13_16_ + 1 shut_down_UK_Nuclear,2030,2,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,2,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,2,17_20_ + 1 shut_down_UK_Nuclear,2030,2,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,2,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,2,21_24_ + 1 shut_down_UK_Nuclear,2030,2,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,3,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,3,1_4_ + 1 shut_down_UK_Nuclear,2030,3,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,3,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,3,5_8_ + 1 shut_down_UK_Nuclear,2030,3,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,3,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,3,9_12_ + 1 shut_down_UK_Nuclear,2030,3,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,3,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,3,13_16_ + 1 shut_down_UK_Nuclear,2030,3,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,3,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,3,17_20_ + 1 shut_down_UK_Nuclear,2030,3,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,3,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,3,21_24_ + 1 shut_down_UK_Nuclear,2030,3,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,4,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,4,1_4_ + 1 shut_down_UK_Nuclear,2030,4,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,4,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,4,5_8_ + 1 shut_down_UK_Nuclear,2030,4,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,4,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,4,9_12_ + 1 shut_down_UK_Nuclear,2030,4,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,4,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,4,13_16_ + 1 shut_down_UK_Nuclear,2030,4,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,4,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,4,17_20_ + 1 shut_down_UK_Nuclear,2030,4,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,4,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,4,21_24_ + 1 shut_down_UK_Nuclear,2030,4,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,5,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,5,1_4_ + 1 shut_down_UK_Nuclear,2030,5,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,5,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,5,5_8_ + 1 shut_down_UK_Nuclear,2030,5,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,5,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,5,9_12_ + 1 shut_down_UK_Nuclear,2030,5,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,5,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,5,13_16_ + 1 shut_down_UK_Nuclear,2030,5,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,5,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,5,17_20_ + 1 shut_down_UK_Nuclear,2030,5,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,5,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,5,21_24_ + 1 shut_down_UK_Nuclear,2030,5,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,6,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,6,1_4_ + 1 shut_down_UK_Nuclear,2030,6,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,6,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,6,5_8_ + 1 shut_down_UK_Nuclear,2030,6,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,6,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,6,9_12_ + 1 shut_down_UK_Nuclear,2030,6,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,6,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,6,13_16_ + 1 shut_down_UK_Nuclear,2030,6,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,6,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,6,17_20_ + 1 shut_down_UK_Nuclear,2030,6,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,6,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,6,21_24_ + 1 shut_down_UK_Nuclear,2030,6,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,7,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,7,1_4_ + 1 shut_down_UK_Nuclear,2030,7,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,7,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,7,5_8_ + 1 shut_down_UK_Nuclear,2030,7,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,7,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,7,9_12_ + 1 shut_down_UK_Nuclear,2030,7,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,7,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,7,13_16_ + 1 shut_down_UK_Nuclear,2030,7,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,7,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,7,17_20_ + 1 shut_down_UK_Nuclear,2030,7,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,7,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,7,21_24_ + 1 shut_down_UK_Nuclear,2030,7,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,8,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,8,1_4_ + 1 shut_down_UK_Nuclear,2030,8,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,8,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,8,5_8_ + 1 shut_down_UK_Nuclear,2030,8,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,8,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,8,9_12_ + 1 shut_down_UK_Nuclear,2030,8,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,8,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,8,13_16_ + 1 shut_down_UK_Nuclear,2030,8,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,8,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,8,17_20_ + 1 shut_down_UK_Nuclear,2030,8,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,8,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,8,21_24_ + 1 shut_down_UK_Nuclear,2030,8,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,9,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,9,1_4_ + 1 shut_down_UK_Nuclear,2030,9,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,9,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,9,5_8_ + 1 shut_down_UK_Nuclear,2030,9,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,9,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,9,9_12_ + 1 shut_down_UK_Nuclear,2030,9,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,9,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,9,13_16_ + 1 shut_down_UK_Nuclear,2030,9,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,9,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,9,17_20_ + 1 shut_down_UK_Nuclear,2030,9,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,9,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,9,21_24_ + 1 shut_down_UK_Nuclear,2030,9,21_24_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,10,1_4_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,10,1_4_ + 1 shut_down_UK_Nuclear,2030,10,1_4_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,10,5_8_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,10,5_8_ + 1 shut_down_UK_Nuclear,2030,10,5_8_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,10,9_12_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,10,9_12_ + 1 shut_down_UK_Nuclear,2030,10,9_12_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,10,13_16_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,10,13_16_ + 1 shut_down_UK_Nuclear,2030,10,13_16_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,10,17_20_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,10,17_20_ + 1 shut_down_UK_Nuclear,2030,10,17_20_ <= 0
-shut_down_upper_bound_UK_Nuclear,2030,10,21_24_: -1 assets_investment_2030,UK_Nuclear_ + 1 units_on_FR_Coal,2030,10,21_24_ + 1 shut_down_UK_Nuclear,2030,10,21_24_ <= 0
 minimum_down_time_simple_investment_BE_Coal,2030,1,1_4_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,1,1_4_ + 1 shut_down_BE_Coal,2030,1,1_4_ <= 0
 minimum_down_time_simple_investment_BE_Coal,2030,1,5_8_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,1,5_8_ + 1 shut_down_BE_Coal,2030,1,1_4_ + 1 shut_down_BE_Coal,2030,1,5_8_ <= 0
 minimum_down_time_simple_investment_BE_Coal,2030,1,9_12_: -1 assets_investment_2030,BE_Coal_ + 1 units_on_BE_CCGT,2030,1,9_12_ + 1 shut_down_BE_Coal,2030,1,5_8_ + 1 shut_down_BE_Coal,2030,1,9_12_ <= 0
@@ -12687,60 +11847,66 @@ min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,1,9_12_: 1 f
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,1,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,1,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,1,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,1,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,1,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,1,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,1,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,1,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,1,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,1,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,1,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,1,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,1,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,1,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,1,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,1,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,1,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,1,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,1,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,1,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,1,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,1,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,1,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,1,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,1,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,1,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,1,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,1,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,1,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,1,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,1,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,1,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,1,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,1,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,1,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,1,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,1,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,1,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,1,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,1,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,1,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,1,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,1,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,1,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,1,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,1,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,1,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,1,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,1,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,1,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,1,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,1,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,1,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,1,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,1,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,1,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,1,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,1,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,1,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,1,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,1,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,1,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,1,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,1,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,1,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,1,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,1,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,1,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,1,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,1,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,1,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,1,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,1,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,1,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,1,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,1,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,1,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,1,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,1,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,1,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,1,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,1,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,1,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,1,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,1,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,1,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,1_4_: 1 flow_(DE_Balance,FR_Balance),2030,1,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,5_8_: 1 flow_(DE_Balance,FR_Balance),2030,1,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,9_12_: 1 flow_(DE_Balance,FR_Balance),2030,1,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,1,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,1,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,1,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,1,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,1,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,1,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,1,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,1,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,1,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,1,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,1,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,1,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,1,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,1,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,1,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,1,9_12_ >= -1000
@@ -12753,54 +11919,48 @@ min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,1,9_12_: 1 f
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,1,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,1,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,1,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,1,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,1,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,1,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,1,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,1,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,1,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,1,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,1,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,1,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,1,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,2,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,2,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,2,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,2,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,2,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,2,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,2,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,2,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,2,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,2,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,2,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,2,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,2,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,2,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,2,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,2,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,2,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,2,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,2,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,2,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,2,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,2,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,2,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,2,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,2,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,2,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,2,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,2,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,2,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,2,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,2,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,2,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,2,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,2,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,2,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,2,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,2,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,2,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,2,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,2,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,2,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,2,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,2,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,2,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,2,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,2,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,2,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,2,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,2,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,2,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,2,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,2,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,2,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,2,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,2,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,2,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,2,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,2,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,2,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,2,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,2,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,2,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,2,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,2,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,2,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,2,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,2,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,2,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,2,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,2,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,2,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,2,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,2,9_12_ >= -1000
@@ -12867,6 +12027,12 @@ min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,3,9_12_: 1 f
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,3,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,3,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,3,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,3,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,3,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,3,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,3,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,3,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,3,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,3,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,3,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,3,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,3,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,3,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,3,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,3,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,3,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,3,9_12_ >= -1000
@@ -12879,12 +12045,6 @@ min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,3,9_12_: 1 f
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,3,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,3,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,3,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,3,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,3,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,3,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,3,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,3,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,3,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,3,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,3,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,3,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,3,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,3,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,3,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,3,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,3,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,3,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,3,9_12_ >= -1000
@@ -12921,30 +12081,30 @@ min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,4,9_12_: 1 f
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,4,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,4,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,4,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,4,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,4,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,4,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,4,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,4,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,4,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,4,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,4,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,4,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,4,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,4,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,4,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,4,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,4,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,4,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,4,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,4,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,4,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,4,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,4,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,4,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,4,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,4,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,4,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,4,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,4,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,4,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,4,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,4,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,4,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,4,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,4,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,4,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,4,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,4,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,4,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,4,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,4,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,4,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,4,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,4,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,4,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,4,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,4,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,4,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,4,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,4,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,4,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,4,9_12_ >= -1000
@@ -12957,18 +12117,18 @@ min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,4,9_12_: 1 f
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,4,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,4,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,4,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,4,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,4,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,4,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,4,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,4,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,4,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,13_16_: 1 flow_(FR_Balance,CH_Balance),2030,4,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,17_20_: 1 flow_(FR_Balance,CH_Balance),2030,4,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,21_24_: 1 flow_(FR_Balance,CH_Balance),2030,4,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,4,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,4,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,4,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,4,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,4,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,4,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,4,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,4,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,4,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,4,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,13_16_: 1 flow_(FR_Balance,CH_Balance),2030,4,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,17_20_: 1 flow_(FR_Balance,CH_Balance),2030,4,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,4,21_24_: 1 flow_(FR_Balance,CH_Balance),2030,4,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,4,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,4,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,4,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,4,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,4,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,4,9_12_ >= -1000
@@ -12993,54 +12153,54 @@ min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,4,9_12_: 1 f
 min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,4,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,4,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,4,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,4,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,4,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,4,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,5,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,5,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,5,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,5,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,5,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,5,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,5,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,5,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,5,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,5,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,5,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,5,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,5,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,5,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,5,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,5,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,5,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,5,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,5,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,5,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,5,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,5,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,5,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,5,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,5,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,5,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,5,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,5,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,5,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,5,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,5,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,5,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,5,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,5,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,5,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,5,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,5,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,5,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,5,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,5,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,5,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,5,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,5,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,5,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,5,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,5,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,5,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,5,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,5,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,5,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,5,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,5,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,5,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,5,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,5,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,5,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,5,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,5,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,5,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,5,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,5,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,5,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,5,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,5,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,5,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,5,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,5,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,5,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,5,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,5,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,5,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,5,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,5,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,5,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,5,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,5,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,5,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,5,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,5,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,5,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,5,1_4_: 1 flow_(DE_Balance,FR_Balance),2030,5,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,5,5_8_: 1 flow_(DE_Balance,FR_Balance),2030,5,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,5,9_12_: 1 flow_(DE_Balance,FR_Balance),2030,5,9_12_ >= -1000
@@ -13083,30 +12243,30 @@ min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,6,9_12_: 1 f
 min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,6,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,6,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,6,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,6,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,6,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,6,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,6,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,6,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,6,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,6,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,6,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,6,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,6,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,6,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,6,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,6,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,6,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,6,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,6,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,6,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,6,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,6,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,6,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,6,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,6,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,6,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,6,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,6,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,6,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,6,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,6,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,6,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,6,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,6,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,6,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,6,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,6,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,6,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,6,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,6,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,6,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,6,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,6,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,6,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,6,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,6,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,6,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,6,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,6,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,6,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,6,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,6,9_12_ >= -1000
@@ -13119,6 +12279,12 @@ min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,6,9_12_: 1 f
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,6,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,6,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,6,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,6,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,6,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,6,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,6,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,6,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,6,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,6,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,6,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,6,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,6,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,6,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,6,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,6,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,6,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,6,9_12_ >= -1000
@@ -13131,12 +12297,6 @@ min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,6,9_12_: 1 f
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,6,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,6,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,6,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,6,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,6,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,6,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,6,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,6,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,6,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,6,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,6,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,6,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,6,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,6,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,6,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,6,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,6,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,6,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,6,9_12_ >= -1000
@@ -13155,18 +12315,18 @@ min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,7,9_12_: 1 f
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,7,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,7,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,7,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,7,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,7,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,7,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,7,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,7,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,7,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,7,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,7,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,7,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,7,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,7,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,7,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,7,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,7,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,7,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,7,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,7,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,7,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,7,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,7,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,7,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,7,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,7,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,7,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,7,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,7,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,7,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,7,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,7,9_12_ >= -1000
@@ -13179,24 +12339,30 @@ min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,7,9_12_: 1 f
 min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,7,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,7,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,7,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,7,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,7,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,7,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,7,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,7,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,7,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,7,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,7,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,7,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,7,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,7,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,7,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,7,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,7,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,7,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,7,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,7,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,7,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,7,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,7,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,7,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,7,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,7,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,1_4_: 1 flow_(DE_Balance,FR_Balance),2030,7,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,5_8_: 1 flow_(DE_Balance,FR_Balance),2030,7,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,9_12_: 1 flow_(DE_Balance,FR_Balance),2030,7,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,7,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,7,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,7,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,7,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,7,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,7,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,7,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,7,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,7,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,7,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,7,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,7,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,7,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,7,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,7,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,7,9_12_ >= -1000
@@ -13209,12 +12375,6 @@ min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,7,9_12_: 1 f
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,7,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,7,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,7,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,7,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,7,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,7,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,7,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,7,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,7,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,7,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,7,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,7,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,7,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,7,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,7,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,7,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,7,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,7,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,7,9_12_ >= -1000
@@ -13239,30 +12399,30 @@ min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,8,9_12_: 1 f
 min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,8,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,8,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,8,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,8,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,8,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,8,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,8,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,8,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,8,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,8,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,8,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,8,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,1_4_: 1 flow_(BE_Balance,LU_Balance),2030,8,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,5_8_: 1 flow_(BE_Balance,LU_Balance),2030,8,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,9_12_: 1 flow_(BE_Balance,LU_Balance),2030,8,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,13_16_: 1 flow_(BE_Balance,LU_Balance),2030,8,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,17_20_: 1 flow_(BE_Balance,LU_Balance),2030,8,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,LU_Balance),2030,8,21_24_: 1 flow_(BE_Balance,LU_Balance),2030,8,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,8,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,8,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,8,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,8,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,8,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,8,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,8,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,8,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,8,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,8,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,8,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,8,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,8,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,8,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,8,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,8,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,8,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,8,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,8,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,8,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,8,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,8,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,8,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,8,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,8,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,8,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,8,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,8,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,8,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,8,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,8,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,8,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,8,9_12_ >= -1000
@@ -13275,6 +12435,12 @@ min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,8,9_12_: 1 f
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,8,13_16_: 1 flow_(DE_Balance,FR_Balance),2030,8,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,8,17_20_: 1 flow_(DE_Balance,FR_Balance),2030,8,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,8,21_24_: 1 flow_(DE_Balance,FR_Balance),2030,8,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,8,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,8,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,8,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,8,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,8,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,8,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,8,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,8,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,8,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,8,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,8,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,8,9_12_ >= -1000
@@ -13287,12 +12453,6 @@ min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,8,9_12_: 1 f
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,8,13_16_: 1 flow_(FR_Balance,LU_Balance),2030,8,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,8,17_20_: 1 flow_(FR_Balance,LU_Balance),2030,8,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,LU_Balance),2030,8,21_24_: 1 flow_(FR_Balance,LU_Balance),2030,8,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,1_4_: 1 flow_(FR_Balance,UK_Balance),2030,8,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,5_8_: 1 flow_(FR_Balance,UK_Balance),2030,8,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,9_12_: 1 flow_(FR_Balance,UK_Balance),2030,8,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,13_16_: 1 flow_(FR_Balance,UK_Balance),2030,8,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,17_20_: 1 flow_(FR_Balance,UK_Balance),2030,8,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(FR_Balance,UK_Balance),2030,8,21_24_: 1 flow_(FR_Balance,UK_Balance),2030,8,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,8,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,8,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,8,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,8,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,8,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,8,9_12_ >= -1000
@@ -13311,48 +12471,48 @@ min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,9,9_12_: 1 f
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,9,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,9,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,9,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,9,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,9,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,9,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,9,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,9,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,9,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,9,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,9,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,9,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,9,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,9,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,9,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,9,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,9,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,9,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,9,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,9,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,9,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,9,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,9,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,9,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,9,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,9,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,1_4_: 1 flow_(BE_Balance,DE_Balance),2030,9,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,5_8_: 1 flow_(BE_Balance,DE_Balance),2030,9,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,9_12_: 1 flow_(BE_Balance,DE_Balance),2030,9,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,13_16_: 1 flow_(BE_Balance,DE_Balance),2030,9,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,17_20_: 1 flow_(BE_Balance,DE_Balance),2030,9,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,DE_Balance),2030,9,21_24_: 1 flow_(BE_Balance,DE_Balance),2030,9,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,9,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,9,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,9,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,9,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,9,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,9,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,9,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,9,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,9,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,9,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,9,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,9,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,9,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,9,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,9,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,9,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,9,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,9,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,9,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,1_4_: 1 flow_(BE_Balance,FR_Balance),2030,9,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,5_8_: 1 flow_(BE_Balance,FR_Balance),2030,9,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,9_12_: 1 flow_(BE_Balance,FR_Balance),2030,9,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,13_16_: 1 flow_(BE_Balance,FR_Balance),2030,9,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,17_20_: 1 flow_(BE_Balance,FR_Balance),2030,9,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(BE_Balance,FR_Balance),2030,9,21_24_: 1 flow_(BE_Balance,FR_Balance),2030,9,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,9,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,9,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,9,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,9,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,9,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,9,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,9,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,9,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,9,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,9,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,9,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,9,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,9,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,9,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,9,1_4_: 1 flow_(FR_Balance,CH_Balance),2030,9,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,9,5_8_: 1 flow_(FR_Balance,CH_Balance),2030,9,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(FR_Balance,CH_Balance),2030,9,9_12_: 1 flow_(FR_Balance,CH_Balance),2030,9,9_12_ >= -1000
@@ -13389,36 +12549,36 @@ min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,10,9_12_: 1 
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,10,13_16_: 1 flow_(NL_Balance,DE_Balance),2030,10,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,10,17_20_: 1 flow_(NL_Balance,DE_Balance),2030,10,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,DE_Balance),2030,10,21_24_: 1 flow_(NL_Balance,DE_Balance),2030,10,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,10,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,10,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,10,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,10,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,10,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,10,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,1_4_: 1 flow_(NL_Balance,UK_Balance),2030,10,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,5_8_: 1 flow_(NL_Balance,UK_Balance),2030,10,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,9_12_: 1 flow_(NL_Balance,UK_Balance),2030,10,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,13_16_: 1 flow_(NL_Balance,UK_Balance),2030,10,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,17_20_: 1 flow_(NL_Balance,UK_Balance),2030,10,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(NL_Balance,UK_Balance),2030,10,21_24_: 1 flow_(NL_Balance,UK_Balance),2030,10,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,1_4_: 1 flow_(NL_Balance,BE_Balance),2030,10,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,5_8_: 1 flow_(NL_Balance,BE_Balance),2030,10,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,9_12_: 1 flow_(NL_Balance,BE_Balance),2030,10,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,13_16_: 1 flow_(NL_Balance,BE_Balance),2030,10,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,17_20_: 1 flow_(NL_Balance,BE_Balance),2030,10,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(NL_Balance,BE_Balance),2030,10,21_24_: 1 flow_(NL_Balance,BE_Balance),2030,10,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,1_4_: 1 flow_(BE_Balance,UK_Balance),2030,10,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,5_8_: 1 flow_(BE_Balance,UK_Balance),2030,10,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,9_12_: 1 flow_(BE_Balance,UK_Balance),2030,10,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,13_16_: 1 flow_(BE_Balance,UK_Balance),2030,10,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,17_20_: 1 flow_(BE_Balance,UK_Balance),2030,10,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(BE_Balance,UK_Balance),2030,10,21_24_: 1 flow_(BE_Balance,UK_Balance),2030,10,21_24_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,10,1_4_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,10,5_8_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,10,9_12_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,10,13_16_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,10,17_20_ >= -1000
-min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,10,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,1_4_: 1 flow_(DE_Balance,LU_Balance),2030,10,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,5_8_: 1 flow_(DE_Balance,LU_Balance),2030,10,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,9_12_: 1 flow_(DE_Balance,LU_Balance),2030,10,9_12_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,13_16_: 1 flow_(DE_Balance,LU_Balance),2030,10,13_16_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,17_20_: 1 flow_(DE_Balance,LU_Balance),2030,10,17_20_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,LU_Balance),2030,10,21_24_: 1 flow_(DE_Balance,LU_Balance),2030,10,21_24_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,1_4_: 1 flow_(DE_Balance,CH_Balance),2030,10,1_4_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,5_8_: 1 flow_(DE_Balance,CH_Balance),2030,10,5_8_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,9_12_: 1 flow_(DE_Balance,CH_Balance),2030,10,9_12_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,13_16_: 1 flow_(DE_Balance,CH_Balance),2030,10,13_16_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,17_20_: 1 flow_(DE_Balance,CH_Balance),2030,10,17_20_ >= -1000
+min_transport_flow_limit_simple_method_(DE_Balance,CH_Balance),2030,10,21_24_: 1 flow_(DE_Balance,CH_Balance),2030,10,21_24_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,10,1_4_: 1 flow_(DE_Balance,FR_Balance),2030,10,1_4_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,10,5_8_: 1 flow_(DE_Balance,FR_Balance),2030,10,5_8_ >= -1000
 min_transport_flow_limit_simple_method_(DE_Balance,FR_Balance),2030,10,9_12_: 1 flow_(DE_Balance,FR_Balance),2030,10,9_12_ >= -1000
@@ -17381,60 +16541,60 @@ balance_storage_rep_period_UK_Battery,2030,10,9_12_: -4 flow_(UK_Balance,UK_Batt
 balance_storage_rep_period_UK_Battery,2030,10,13_16_: -4 flow_(UK_Balance,UK_Battery),2030,10,13_16_ + 4 flow_(UK_Battery,UK_Balance),2030,10,13_16_ - 1 storage_level_rep_period_UK_Battery,2030,10,9_12_ + 1 storage_level_rep_period_UK_Battery,2030,10,13_16_ = 0
 balance_storage_rep_period_UK_Battery,2030,10,17_20_: -4 flow_(UK_Balance,UK_Battery),2030,10,17_20_ + 4 flow_(UK_Battery,UK_Balance),2030,10,17_20_ - 1 storage_level_rep_period_UK_Battery,2030,10,13_16_ + 1 storage_level_rep_period_UK_Battery,2030,10,17_20_ = 0
 balance_storage_rep_period_UK_Battery,2030,10,21_24_: -4 flow_(UK_Balance,UK_Battery),2030,10,21_24_ + 4 flow_(UK_Battery,UK_Balance),2030,10,21_24_ - 1 storage_level_rep_period_UK_Battery,2030,10,17_20_ + 1 storage_level_rep_period_UK_Battery,2030,10,21_24_ = 0
-balance_hub_BE_Balance,2030,1,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,1,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,1,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,1,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,1,1_4_ = 0
-balance_hub_BE_Balance,2030,1,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,1,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,1,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,1,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,1,5_8_ = 0
-balance_hub_BE_Balance,2030,1,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,1,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,1,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,1,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,1,9_12_ = 0
-balance_hub_BE_Balance,2030,1,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,1,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,1,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,1,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,1,13_16_ = 0
-balance_hub_BE_Balance,2030,1,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,1,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,1,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,1,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,1,17_20_ = 0
-balance_hub_BE_Balance,2030,1,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,1,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,1,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,1,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,1,21_24_ = 0
-balance_hub_BE_Balance,2030,2,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,2,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,2,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,2,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,2,1_4_ = 0
-balance_hub_BE_Balance,2030,2,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,2,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,2,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,2,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,2,5_8_ = 0
-balance_hub_BE_Balance,2030,2,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,2,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,2,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,2,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,2,9_12_ = 0
-balance_hub_BE_Balance,2030,2,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,2,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,2,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,2,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,2,13_16_ = 0
-balance_hub_BE_Balance,2030,2,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,2,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,2,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,2,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,2,17_20_ = 0
-balance_hub_BE_Balance,2030,2,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,2,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,2,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,2,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,2,21_24_ = 0
+balance_hub_BE_Balance,2030,1,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,1,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,1,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,1,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,1,1_4_ = 0
+balance_hub_BE_Balance,2030,1,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,1,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,1,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,1,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,1,5_8_ = 0
+balance_hub_BE_Balance,2030,1,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,1,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,1,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,1,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,1,9_12_ = 0
+balance_hub_BE_Balance,2030,1,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,1,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,1,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,1,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,1,13_16_ = 0
+balance_hub_BE_Balance,2030,1,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,1,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,1,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,1,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,1,17_20_ = 0
+balance_hub_BE_Balance,2030,1,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,1,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,1,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,1,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,1,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,1,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,1,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,1,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,1,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,1,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,1,21_24_ = 0
+balance_hub_BE_Balance,2030,2,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,2,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,2,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,2,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,2,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,2,1_4_ = 0
+balance_hub_BE_Balance,2030,2,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,2,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,2,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,2,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,2,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,2,5_8_ = 0
+balance_hub_BE_Balance,2030,2,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,2,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,2,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,2,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,2,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,2,9_12_ = 0
+balance_hub_BE_Balance,2030,2,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,2,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,2,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,2,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,2,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,2,13_16_ = 0
+balance_hub_BE_Balance,2030,2,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,2,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,2,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,2,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,2,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,2,17_20_ = 0
+balance_hub_BE_Balance,2030,2,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,2,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,2,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,2,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,2,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,2,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,2,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,2,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,2,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,2,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,2,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,2,21_24_ = 0
 balance_hub_BE_Balance,2030,3,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,3,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,3,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,3,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,3,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,3,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,3,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,3,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,3,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,3,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,3,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,3,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,3,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,3,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,3,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,3,1_4_ = 0
 balance_hub_BE_Balance,2030,3,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,3,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,3,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,3,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,3,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,3,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,3,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,3,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,3,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,3,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,3,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,3,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,3,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,3,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,3,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,3,5_8_ = 0
 balance_hub_BE_Balance,2030,3,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,3,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,3,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,3,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,3,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,3,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,3,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,3,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,3,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,3,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,3,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,3,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,3,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,3,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,3,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,3,9_12_ = 0
 balance_hub_BE_Balance,2030,3,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,3,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,3,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,3,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,3,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,3,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,3,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,3,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,3,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,3,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,3,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,3,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,3,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,3,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,3,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,3,13_16_ = 0
 balance_hub_BE_Balance,2030,3,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,3,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,3,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,3,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,3,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,3,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,3,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,3,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,3,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,3,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,3,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,3,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,3,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,3,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,3,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,3,17_20_ = 0
 balance_hub_BE_Balance,2030,3,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,3,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,3,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,3,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,3,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,3,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,3,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,3,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,3,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,3,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,3,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,3,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,3,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,3,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,3,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,3,21_24_ = 0
-balance_hub_BE_Balance,2030,4,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,4,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,4,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,4,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,4,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,4,1_4_ = 0
-balance_hub_BE_Balance,2030,4,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,4,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,4,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,4,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,4,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,4,5_8_ = 0
-balance_hub_BE_Balance,2030,4,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,4,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,4,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,4,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,4,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,4,9_12_ = 0
-balance_hub_BE_Balance,2030,4,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,4,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,4,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,4,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,4,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,4,13_16_ = 0
-balance_hub_BE_Balance,2030,4,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,4,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,4,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,4,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,4,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,4,17_20_ = 0
-balance_hub_BE_Balance,2030,4,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,4,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,4,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,4,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,4,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,4,21_24_ = 0
-balance_hub_BE_Balance,2030,5,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,5,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,5,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,5,1_4_ = 0
-balance_hub_BE_Balance,2030,5,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,5,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,5,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,5,5_8_ = 0
-balance_hub_BE_Balance,2030,5,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,5,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,5,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,5,9_12_ = 0
-balance_hub_BE_Balance,2030,5,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,5,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,5,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,5,13_16_ = 0
-balance_hub_BE_Balance,2030,5,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,5,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,5,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,5,17_20_ = 0
-balance_hub_BE_Balance,2030,5,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,5,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,5,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,5,21_24_ = 0
-balance_hub_BE_Balance,2030,6,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,6,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,6,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,6,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,6,1_4_ = 0
-balance_hub_BE_Balance,2030,6,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,6,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,6,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,6,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,6,5_8_ = 0
-balance_hub_BE_Balance,2030,6,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,6,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,6,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,6,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,6,9_12_ = 0
-balance_hub_BE_Balance,2030,6,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,6,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,6,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,6,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,6,13_16_ = 0
-balance_hub_BE_Balance,2030,6,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,6,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,6,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,6,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,6,17_20_ = 0
-balance_hub_BE_Balance,2030,6,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,6,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,6,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,6,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,6,21_24_ = 0
+balance_hub_BE_Balance,2030,4,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,4,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,4,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,4,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,4,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,4,1_4_ = 0
+balance_hub_BE_Balance,2030,4,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,4,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,4,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,4,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,4,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,4,5_8_ = 0
+balance_hub_BE_Balance,2030,4,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,4,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,4,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,4,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,4,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,4,9_12_ = 0
+balance_hub_BE_Balance,2030,4,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,4,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,4,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,4,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,4,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,4,13_16_ = 0
+balance_hub_BE_Balance,2030,4,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,4,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,4,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,4,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,4,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,4,17_20_ = 0
+balance_hub_BE_Balance,2030,4,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,4,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,4,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,4,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,4,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,4,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,4,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,4,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,4,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,4,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,4,21_24_ = 0
+balance_hub_BE_Balance,2030,5,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,5,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,5,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,5,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,5,1_4_ = 0
+balance_hub_BE_Balance,2030,5,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,5,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,5,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,5,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,5,5_8_ = 0
+balance_hub_BE_Balance,2030,5,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,5,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,5,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,5,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,5,9_12_ = 0
+balance_hub_BE_Balance,2030,5,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,5,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,5,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,5,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,5,13_16_ = 0
+balance_hub_BE_Balance,2030,5,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,5,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,5,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,5,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,5,17_20_ = 0
+balance_hub_BE_Balance,2030,5,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,5,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,5,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,5,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,5,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,5,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,5,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,5,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,5,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,5,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,5,21_24_ = 0
+balance_hub_BE_Balance,2030,6,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,6,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,6,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,6,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,6,1_4_ = 0
+balance_hub_BE_Balance,2030,6,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,6,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,6,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,6,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,6,5_8_ = 0
+balance_hub_BE_Balance,2030,6,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,6,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,6,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,6,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,6,9_12_ = 0
+balance_hub_BE_Balance,2030,6,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,6,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,6,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,6,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,6,13_16_ = 0
+balance_hub_BE_Balance,2030,6,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,6,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,6,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,6,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,6,17_20_ = 0
+balance_hub_BE_Balance,2030,6,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,6,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,6,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,6,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,6,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,6,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,6,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,6,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,6,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,6,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,6,21_24_ = 0
 balance_hub_BE_Balance,2030,7,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,7,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,7,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,7,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,7,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,7,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,7,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,7,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,7,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,7,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,7,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,7,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,7,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,7,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,7,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,7,1_4_ = 0
 balance_hub_BE_Balance,2030,7,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,7,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,7,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,7,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,7,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,7,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,7,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,7,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,7,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,7,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,7,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,7,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,7,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,7,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,7,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,7,5_8_ = 0
 balance_hub_BE_Balance,2030,7,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,7,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,7,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,7,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,7,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,7,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,7,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,7,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,7,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,7,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,7,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,7,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,7,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,7,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,7,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,7,9_12_ = 0
 balance_hub_BE_Balance,2030,7,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,7,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,7,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,7,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,7,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,7,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,7,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,7,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,7,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,7,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,7,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,7,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,7,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,7,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,7,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,7,13_16_ = 0
 balance_hub_BE_Balance,2030,7,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,7,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,7,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,7,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,7,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,7,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,7,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,7,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,7,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,7,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,7,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,7,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,7,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,7,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,7,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,7,17_20_ = 0
 balance_hub_BE_Balance,2030,7,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,7,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,7,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,7,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,7,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,7,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,7,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,7,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,7,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,7,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,7,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,7,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,7,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,7,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,7,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,7,21_24_ = 0
-balance_hub_BE_Balance,2030,8,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,8,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,8,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,8,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,8,1_4_ = 0
-balance_hub_BE_Balance,2030,8,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,8,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,8,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,8,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,8,5_8_ = 0
-balance_hub_BE_Balance,2030,8,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,8,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,8,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,8,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,8,9_12_ = 0
-balance_hub_BE_Balance,2030,8,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,8,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,8,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,8,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,8,13_16_ = 0
-balance_hub_BE_Balance,2030,8,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,8,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,8,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,8,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,8,17_20_ = 0
-balance_hub_BE_Balance,2030,8,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,8,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,8,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,8,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,8,21_24_ = 0
-balance_hub_BE_Balance,2030,9,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,9,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,9,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,9,1_4_ = 0
-balance_hub_BE_Balance,2030,9,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,9,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,9,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,9,5_8_ = 0
-balance_hub_BE_Balance,2030,9,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,9,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,9,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,9,9_12_ = 0
-balance_hub_BE_Balance,2030,9,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,9,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,9,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,9,13_16_ = 0
-balance_hub_BE_Balance,2030,9,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,9,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,9,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,9,17_20_ = 0
-balance_hub_BE_Balance,2030,9,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,9,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,9,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,9,21_24_ = 0
+balance_hub_BE_Balance,2030,8,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,8,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,8,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,8,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,8,1_4_ = 0
+balance_hub_BE_Balance,2030,8,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,8,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,8,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,8,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,8,5_8_ = 0
+balance_hub_BE_Balance,2030,8,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,8,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,8,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,8,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,8,9_12_ = 0
+balance_hub_BE_Balance,2030,8,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,8,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,8,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,8,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,8,13_16_ = 0
+balance_hub_BE_Balance,2030,8,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,8,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,8,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,8,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,8,17_20_ = 0
+balance_hub_BE_Balance,2030,8,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,8,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,8,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,8,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,8,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,8,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,8,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,8,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,8,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,8,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,8,21_24_ = 0
+balance_hub_BE_Balance,2030,9,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,9,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,9,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,9,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,9,1_4_ = 0
+balance_hub_BE_Balance,2030,9,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,9,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,9,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,9,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,9,5_8_ = 0
+balance_hub_BE_Balance,2030,9,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,9,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,9,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,9,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,9,9_12_ = 0
+balance_hub_BE_Balance,2030,9,13_16_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,13_16_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,13_16_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,13_16_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,13_16_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,13_16_ + 1 flow_(BE_Battery,BE_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,BE_Battery),2030,9,13_16_ + 1 flow_(NL_Balance,BE_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,DE_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,UK_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,FR_Balance),2030,9,13_16_ + 1 flow_(BE_Coal,BE_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,LU_Balance),2030,9,13_16_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,13_16_ + 1 flow_(BE_Solar,BE_Balance),2030,9,13_16_ = 0
+balance_hub_BE_Balance,2030,9,17_20_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,17_20_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,17_20_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,17_20_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,17_20_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,17_20_ + 1 flow_(BE_Battery,BE_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,BE_Battery),2030,9,17_20_ + 1 flow_(NL_Balance,BE_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,DE_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,UK_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,FR_Balance),2030,9,17_20_ + 1 flow_(BE_Coal,BE_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,LU_Balance),2030,9,17_20_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,17_20_ + 1 flow_(BE_Solar,BE_Balance),2030,9,17_20_ = 0
+balance_hub_BE_Balance,2030,9,21_24_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,9,21_24_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,9,21_24_ + 1 flow_(BE_Nuclear,BE_Balance),2030,9,21_24_ + 1 flow_(BE_CCGT,BE_Balance),2030,9,21_24_ + 1 flow_(BE_OCGT,BE_Balance),2030,9,21_24_ + 1 flow_(BE_Battery,BE_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,BE_Battery),2030,9,21_24_ + 1 flow_(NL_Balance,BE_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,DE_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,UK_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,FR_Balance),2030,9,21_24_ + 1 flow_(BE_Coal,BE_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,LU_Balance),2030,9,21_24_ - 1 flow_(BE_Balance,BE_E_Demand),2030,9,21_24_ + 1 flow_(BE_Solar,BE_Balance),2030,9,21_24_ = 0
 balance_hub_BE_Balance,2030,10,1_4_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,10,1_4_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,10,1_4_ + 1 flow_(BE_Nuclear,BE_Balance),2030,10,1_4_ + 1 flow_(BE_CCGT,BE_Balance),2030,10,1_4_ + 1 flow_(BE_OCGT,BE_Balance),2030,10,1_4_ + 1 flow_(BE_Battery,BE_Balance),2030,10,1_4_ + 1 flow_(NL_Balance,BE_Balance),2030,10,1_4_ - 1 flow_(BE_Balance,UK_Balance),2030,10,1_4_ + 1 flow_(BE_Coal,BE_Balance),2030,10,1_4_ - 1 flow_(BE_Balance,DE_Balance),2030,10,1_4_ - 1 flow_(BE_Balance,BE_Battery),2030,10,1_4_ - 1 flow_(BE_Balance,LU_Balance),2030,10,1_4_ - 1 flow_(BE_Balance,FR_Balance),2030,10,1_4_ + 1 flow_(BE_Solar,BE_Balance),2030,10,1_4_ - 1 flow_(BE_Balance,BE_E_Demand),2030,10,1_4_ = 0
 balance_hub_BE_Balance,2030,10,5_8_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,10,5_8_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,10,5_8_ + 1 flow_(BE_Nuclear,BE_Balance),2030,10,5_8_ + 1 flow_(BE_CCGT,BE_Balance),2030,10,5_8_ + 1 flow_(BE_OCGT,BE_Balance),2030,10,5_8_ + 1 flow_(BE_Battery,BE_Balance),2030,10,5_8_ + 1 flow_(NL_Balance,BE_Balance),2030,10,5_8_ - 1 flow_(BE_Balance,UK_Balance),2030,10,5_8_ + 1 flow_(BE_Coal,BE_Balance),2030,10,5_8_ - 1 flow_(BE_Balance,DE_Balance),2030,10,5_8_ - 1 flow_(BE_Balance,BE_Battery),2030,10,5_8_ - 1 flow_(BE_Balance,LU_Balance),2030,10,5_8_ - 1 flow_(BE_Balance,FR_Balance),2030,10,5_8_ + 1 flow_(BE_Solar,BE_Balance),2030,10,5_8_ - 1 flow_(BE_Balance,BE_E_Demand),2030,10,5_8_ = 0
 balance_hub_BE_Balance,2030,10,9_12_: 1 flow_(BE_Wind_Onshore,BE_Balance),2030,10,9_12_ + 1 flow_(BE_Wind_Offshore,BE_Balance),2030,10,9_12_ + 1 flow_(BE_Nuclear,BE_Balance),2030,10,9_12_ + 1 flow_(BE_CCGT,BE_Balance),2030,10,9_12_ + 1 flow_(BE_OCGT,BE_Balance),2030,10,9_12_ + 1 flow_(BE_Battery,BE_Balance),2030,10,9_12_ + 1 flow_(NL_Balance,BE_Balance),2030,10,9_12_ - 1 flow_(BE_Balance,UK_Balance),2030,10,9_12_ + 1 flow_(BE_Coal,BE_Balance),2030,10,9_12_ - 1 flow_(BE_Balance,DE_Balance),2030,10,9_12_ - 1 flow_(BE_Balance,BE_Battery),2030,10,9_12_ - 1 flow_(BE_Balance,LU_Balance),2030,10,9_12_ - 1 flow_(BE_Balance,FR_Balance),2030,10,9_12_ + 1 flow_(BE_Solar,BE_Balance),2030,10,9_12_ - 1 flow_(BE_Balance,BE_E_Demand),2030,10,9_12_ = 0
@@ -17501,18 +16661,18 @@ balance_hub_CH_Balance,2030,10,9_12_: -1 flow_(CH_Balance,CH_E_Demand),2030,10,9
 balance_hub_CH_Balance,2030,10,13_16_: -1 flow_(CH_Balance,CH_E_Demand),2030,10,13_16_ + 1 flow_(CH_Solar,CH_Balance),2030,10,13_16_ + 1 flow_(CH_Wind_Offshore,CH_Balance),2030,10,13_16_ + 1 flow_(CH_Coal,CH_Balance),2030,10,13_16_ + 1 flow_(CH_Nuclear,CH_Balance),2030,10,13_16_ + 1 flow_(DE_Balance,CH_Balance),2030,10,13_16_ + 1 flow_(FR_Balance,CH_Balance),2030,10,13_16_ + 1 flow_(CH_Wind_Onshore,CH_Balance),2030,10,13_16_ + 1 flow_(CH_CCGT,CH_Balance),2030,10,13_16_ - 1 flow_(CH_Balance,CH_Battery),2030,10,13_16_ + 1 flow_(CH_OCGT,CH_Balance),2030,10,13_16_ + 1 flow_(CH_Battery,CH_Balance),2030,10,13_16_ = 0
 balance_hub_CH_Balance,2030,10,17_20_: -1 flow_(CH_Balance,CH_E_Demand),2030,10,17_20_ + 1 flow_(CH_Solar,CH_Balance),2030,10,17_20_ + 1 flow_(CH_Wind_Offshore,CH_Balance),2030,10,17_20_ + 1 flow_(CH_Coal,CH_Balance),2030,10,17_20_ + 1 flow_(CH_Nuclear,CH_Balance),2030,10,17_20_ + 1 flow_(DE_Balance,CH_Balance),2030,10,17_20_ + 1 flow_(FR_Balance,CH_Balance),2030,10,17_20_ + 1 flow_(CH_Wind_Onshore,CH_Balance),2030,10,17_20_ + 1 flow_(CH_CCGT,CH_Balance),2030,10,17_20_ - 1 flow_(CH_Balance,CH_Battery),2030,10,17_20_ + 1 flow_(CH_OCGT,CH_Balance),2030,10,17_20_ + 1 flow_(CH_Battery,CH_Balance),2030,10,17_20_ = 0
 balance_hub_CH_Balance,2030,10,21_24_: -1 flow_(CH_Balance,CH_E_Demand),2030,10,21_24_ + 1 flow_(CH_Solar,CH_Balance),2030,10,21_24_ + 1 flow_(CH_Wind_Offshore,CH_Balance),2030,10,21_24_ + 1 flow_(CH_Coal,CH_Balance),2030,10,21_24_ + 1 flow_(CH_Nuclear,CH_Balance),2030,10,21_24_ + 1 flow_(DE_Balance,CH_Balance),2030,10,21_24_ + 1 flow_(FR_Balance,CH_Balance),2030,10,21_24_ + 1 flow_(CH_Wind_Onshore,CH_Balance),2030,10,21_24_ + 1 flow_(CH_CCGT,CH_Balance),2030,10,21_24_ - 1 flow_(CH_Balance,CH_Battery),2030,10,21_24_ + 1 flow_(CH_OCGT,CH_Balance),2030,10,21_24_ + 1 flow_(CH_Battery,CH_Balance),2030,10,21_24_ = 0
-balance_hub_DE_Balance,2030,1,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,1,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,1,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,1,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,1,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,1,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,1,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,1,1_4_ = 0
-balance_hub_DE_Balance,2030,1,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,1,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,1,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,1,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,1,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,1,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,1,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,1,5_8_ = 0
-balance_hub_DE_Balance,2030,1,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,1,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,1,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,1,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,1,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,1,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,1,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,1,9_12_ = 0
-balance_hub_DE_Balance,2030,1,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,1,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,1,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,1,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,1,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,1,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,1,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,1,13_16_ = 0
-balance_hub_DE_Balance,2030,1,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,1,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,1,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,1,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,1,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,1,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,1,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,1,17_20_ = 0
-balance_hub_DE_Balance,2030,1,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,1,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,1,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,1,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,1,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,1,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,1,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,1,21_24_ = 0
-balance_hub_DE_Balance,2030,2,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,2,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,2,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,2,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,2,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,2,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,2,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,2,1_4_ = 0
-balance_hub_DE_Balance,2030,2,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,2,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,2,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,2,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,2,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,2,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,2,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,2,5_8_ = 0
-balance_hub_DE_Balance,2030,2,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,2,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,2,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,2,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,2,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,2,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,2,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,2,9_12_ = 0
-balance_hub_DE_Balance,2030,2,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,2,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,2,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,2,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,2,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,2,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,2,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,2,13_16_ = 0
-balance_hub_DE_Balance,2030,2,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,2,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,2,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,2,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,2,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,2,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,2,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,2,17_20_ = 0
-balance_hub_DE_Balance,2030,2,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,2,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,2,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,2,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,2,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,2,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,2,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,2,21_24_ = 0
+balance_hub_DE_Balance,2030,1,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,1,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,1,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,1,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,1,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,1,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,1,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,1,1_4_ = 0
+balance_hub_DE_Balance,2030,1,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,1,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,1,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,1,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,1,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,1,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,1,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,1,5_8_ = 0
+balance_hub_DE_Balance,2030,1,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,1,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,1,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,1,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,1,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,1,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,1,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,1,9_12_ = 0
+balance_hub_DE_Balance,2030,1,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,1,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,1,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,1,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,1,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,1,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,1,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,1,13_16_ = 0
+balance_hub_DE_Balance,2030,1,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,1,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,1,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,1,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,1,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,1,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,1,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,1,17_20_ = 0
+balance_hub_DE_Balance,2030,1,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,1,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,1,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,1,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,1,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,1,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,1,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,1,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,1,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,1,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,1,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,1,21_24_ = 0
+balance_hub_DE_Balance,2030,2,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,2,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,2,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,2,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,2,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,2,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,2,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,2,1_4_ = 0
+balance_hub_DE_Balance,2030,2,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,2,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,2,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,2,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,2,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,2,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,2,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,2,5_8_ = 0
+balance_hub_DE_Balance,2030,2,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,2,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,2,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,2,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,2,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,2,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,2,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,2,9_12_ = 0
+balance_hub_DE_Balance,2030,2,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,2,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,2,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,2,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,2,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,2,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,2,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,2,13_16_ = 0
+balance_hub_DE_Balance,2030,2,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,2,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,2,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,2,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,2,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,2,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,2,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,2,17_20_ = 0
+balance_hub_DE_Balance,2030,2,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,2,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,2,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,2,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,2,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,2,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,2,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,2,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,2,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,2,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,2,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,2,21_24_ = 0
 balance_hub_DE_Balance,2030,3,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,3,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,3,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,3,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,3,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,3,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,3,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,3,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,3,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,3,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,3,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,3,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,3,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,3,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,3,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,3,1_4_ = 0
 balance_hub_DE_Balance,2030,3,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,3,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,3,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,3,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,3,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,3,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,3,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,3,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,3,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,3,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,3,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,3,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,3,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,3,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,3,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,3,5_8_ = 0
 balance_hub_DE_Balance,2030,3,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,3,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,3,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,3,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,3,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,3,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,3,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,3,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,3,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,3,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,3,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,3,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,3,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,3,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,3,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,3,9_12_ = 0
@@ -17525,90 +16685,90 @@ balance_hub_DE_Balance,2030,4,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,4,9_1
 balance_hub_DE_Balance,2030,4,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,4,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,4,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,4,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,4,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,4,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,4,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,4,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,4,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,4,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,4,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,4,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,4,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,4,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,4,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,4,13_16_ = 0
 balance_hub_DE_Balance,2030,4,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,4,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,4,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,4,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,4,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,4,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,4,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,4,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,4,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,4,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,4,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,4,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,4,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,4,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,4,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,4,17_20_ = 0
 balance_hub_DE_Balance,2030,4,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,4,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,4,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,4,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,4,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,4,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,4,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,4,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,4,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,4,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,4,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,4,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,4,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,4,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,4,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,4,21_24_ = 0
-balance_hub_DE_Balance,2030,5,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,5,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,5,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,5,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,5,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,5,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,5,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,5,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,5,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,5,1_4_ = 0
-balance_hub_DE_Balance,2030,5,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,5,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,5,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,5,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,5,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,5,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,5,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,5,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,5,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,5,5_8_ = 0
-balance_hub_DE_Balance,2030,5,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,5,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,5,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,5,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,5,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,5,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,5,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,5,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,5,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,5,9_12_ = 0
-balance_hub_DE_Balance,2030,5,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,5,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,5,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,5,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,5,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,5,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,5,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,5,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,5,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,5,13_16_ = 0
-balance_hub_DE_Balance,2030,5,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,5,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,5,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,5,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,5,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,5,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,5,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,5,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,5,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,5,17_20_ = 0
-balance_hub_DE_Balance,2030,5,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,5,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,5,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,5,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,5,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,5,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,5,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,5,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,5,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,5,21_24_ = 0
+balance_hub_DE_Balance,2030,5,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,5,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,5,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,5,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,5,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,5,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,5,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,5,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,5,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,5,1_4_ = 0
+balance_hub_DE_Balance,2030,5,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,5,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,5,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,5,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,5,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,5,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,5,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,5,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,5,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,5,5_8_ = 0
+balance_hub_DE_Balance,2030,5,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,5,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,5,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,5,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,5,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,5,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,5,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,5,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,5,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,5,9_12_ = 0
+balance_hub_DE_Balance,2030,5,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,5,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,5,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,5,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,5,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,5,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,5,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,5,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,5,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,5,13_16_ = 0
+balance_hub_DE_Balance,2030,5,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,5,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,5,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,5,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,5,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,5,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,5,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,5,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,5,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,5,17_20_ = 0
+balance_hub_DE_Balance,2030,5,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,5,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,5,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,5,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,5,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,5,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,5,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,5,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,5,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,5,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,5,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,5,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,5,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,5,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,5,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,5,21_24_ = 0
 balance_hub_DE_Balance,2030,6,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,6,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,6,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,6,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,6,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,6,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,6,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,6,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,6,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,6,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,6,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,6,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,6,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,6,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,6,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,6,1_4_ = 0
 balance_hub_DE_Balance,2030,6,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,6,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,6,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,6,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,6,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,6,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,6,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,6,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,6,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,6,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,6,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,6,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,6,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,6,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,6,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,6,5_8_ = 0
 balance_hub_DE_Balance,2030,6,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,6,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,6,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,6,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,6,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,6,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,6,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,6,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,6,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,6,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,6,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,6,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,6,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,6,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,6,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,6,9_12_ = 0
 balance_hub_DE_Balance,2030,6,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,6,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,6,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,6,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,6,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,6,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,6,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,6,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,6,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,6,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,6,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,6,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,6,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,6,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,6,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,6,13_16_ = 0
 balance_hub_DE_Balance,2030,6,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,6,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,6,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,6,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,6,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,6,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,6,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,6,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,6,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,6,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,6,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,6,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,6,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,6,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,6,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,6,17_20_ = 0
 balance_hub_DE_Balance,2030,6,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,6,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,6,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,6,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,6,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,6,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,6,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,6,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,6,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,6,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,6,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,6,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,6,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,6,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,6,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,6,21_24_ = 0
-balance_hub_DE_Balance,2030,7,1_4_: 1 flow_(DE_Solar,DE_Balance),2030,7,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,7,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,7,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,7,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,7,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,1_4_ = 0
-balance_hub_DE_Balance,2030,7,5_8_: 1 flow_(DE_Solar,DE_Balance),2030,7,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,7,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,7,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,7,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,7,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,5_8_ = 0
-balance_hub_DE_Balance,2030,7,9_12_: 1 flow_(DE_Solar,DE_Balance),2030,7,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,7,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,7,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,7,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,7,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,9_12_ = 0
-balance_hub_DE_Balance,2030,7,13_16_: 1 flow_(DE_Solar,DE_Balance),2030,7,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,7,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,7,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,7,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,7,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,13_16_ = 0
-balance_hub_DE_Balance,2030,7,17_20_: 1 flow_(DE_Solar,DE_Balance),2030,7,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,7,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,7,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,7,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,7,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,17_20_ = 0
-balance_hub_DE_Balance,2030,7,21_24_: 1 flow_(DE_Solar,DE_Balance),2030,7,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,7,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,7,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,7,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,7,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,21_24_ = 0
+balance_hub_DE_Balance,2030,7,1_4_: 1 flow_(DE_Solar,DE_Balance),2030,7,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,7,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,7,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,7,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,7,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,1_4_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,1_4_ = 0
+balance_hub_DE_Balance,2030,7,5_8_: 1 flow_(DE_Solar,DE_Balance),2030,7,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,7,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,7,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,7,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,7,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,5_8_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,5_8_ = 0
+balance_hub_DE_Balance,2030,7,9_12_: 1 flow_(DE_Solar,DE_Balance),2030,7,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,7,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,7,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,7,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,7,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,9_12_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,9_12_ = 0
+balance_hub_DE_Balance,2030,7,13_16_: 1 flow_(DE_Solar,DE_Balance),2030,7,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,7,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,7,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,7,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,7,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,13_16_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,13_16_ = 0
+balance_hub_DE_Balance,2030,7,17_20_: 1 flow_(DE_Solar,DE_Balance),2030,7,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,7,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,7,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,7,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,7,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,17_20_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,17_20_ = 0
+balance_hub_DE_Balance,2030,7,21_24_: 1 flow_(DE_Solar,DE_Balance),2030,7,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,7,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,7,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,7,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,7,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,7,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,7,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,7,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,7,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,7,21_24_ - 1 flow_(DE_Balance,DE_E_Demand),2030,7,21_24_ = 0
 balance_hub_DE_Balance,2030,8,1_4_: 1 flow_(DE_Solar,DE_Balance),2030,8,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,8,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,8,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,8,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,8,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,8,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,8,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,8,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,8,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,8,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,8,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,8,1_4_ - 1 flow_(DE_Balance,DE_E_Demand),2030,8,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,8,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,8,1_4_ = 0
 balance_hub_DE_Balance,2030,8,5_8_: 1 flow_(DE_Solar,DE_Balance),2030,8,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,8,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,8,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,8,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,8,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,8,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,8,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,8,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,8,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,8,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,8,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,8,5_8_ - 1 flow_(DE_Balance,DE_E_Demand),2030,8,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,8,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,8,5_8_ = 0
 balance_hub_DE_Balance,2030,8,9_12_: 1 flow_(DE_Solar,DE_Balance),2030,8,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,8,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,8,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,8,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,8,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,8,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,8,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,8,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,8,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,8,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,8,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,8,9_12_ - 1 flow_(DE_Balance,DE_E_Demand),2030,8,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,8,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,8,9_12_ = 0
 balance_hub_DE_Balance,2030,8,13_16_: 1 flow_(DE_Solar,DE_Balance),2030,8,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,8,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,8,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,8,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,8,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,8,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,8,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,8,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,8,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,8,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,8,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,8,13_16_ - 1 flow_(DE_Balance,DE_E_Demand),2030,8,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,8,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,8,13_16_ = 0
 balance_hub_DE_Balance,2030,8,17_20_: 1 flow_(DE_Solar,DE_Balance),2030,8,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,8,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,8,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,8,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,8,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,8,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,8,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,8,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,8,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,8,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,8,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,8,17_20_ - 1 flow_(DE_Balance,DE_E_Demand),2030,8,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,8,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,8,17_20_ = 0
 balance_hub_DE_Balance,2030,8,21_24_: 1 flow_(DE_Solar,DE_Balance),2030,8,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,8,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,8,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,8,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,8,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,8,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,8,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,8,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,8,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,8,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,8,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,8,21_24_ - 1 flow_(DE_Balance,DE_E_Demand),2030,8,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,8,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,8,21_24_ = 0
-balance_hub_DE_Balance,2030,9,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,9,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,9,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,9,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,9,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,9,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,9,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,9,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,9,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,9,1_4_ = 0
-balance_hub_DE_Balance,2030,9,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,9,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,9,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,9,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,9,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,9,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,9,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,9,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,9,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,9,5_8_ = 0
-balance_hub_DE_Balance,2030,9,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,9,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,9,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,9,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,9,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,9,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,9,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,9,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,9,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,9,9_12_ = 0
-balance_hub_DE_Balance,2030,9,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,9,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,9,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,9,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,9,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,9,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,9,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,9,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,9,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,9,13_16_ = 0
-balance_hub_DE_Balance,2030,9,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,9,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,9,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,9,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,9,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,9,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,9,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,9,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,9,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,9,17_20_ = 0
-balance_hub_DE_Balance,2030,9,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,9,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,9,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,9,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,9,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,9,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,9,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,9,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,9,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,9,21_24_ = 0
-balance_hub_DE_Balance,2030,10,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,10,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,10,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,10,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,10,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,10,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,10,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,10,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,10,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,10,1_4_ = 0
-balance_hub_DE_Balance,2030,10,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,10,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,10,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,10,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,10,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,10,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,10,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,10,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,10,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,10,5_8_ = 0
-balance_hub_DE_Balance,2030,10,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,10,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,10,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,10,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,10,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,10,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,10,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,10,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,10,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,10,9_12_ = 0
-balance_hub_DE_Balance,2030,10,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,10,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,10,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,10,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,10,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,10,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,10,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,10,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,10,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,10,13_16_ = 0
-balance_hub_DE_Balance,2030,10,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,10,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,10,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,10,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,10,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,10,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,10,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,10,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,10,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,10,17_20_ = 0
-balance_hub_DE_Balance,2030,10,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,10,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,10,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,10,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,10,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,10,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,10,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,10,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,10,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,10,21_24_ = 0
-balance_hub_FR_Balance,2030,1,1_4_: 1 flow_(FR_Solar,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,1,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,1,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,1_4_ = 0
-balance_hub_FR_Balance,2030,1,5_8_: 1 flow_(FR_Solar,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,1,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,1,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,5_8_ = 0
-balance_hub_FR_Balance,2030,1,9_12_: 1 flow_(FR_Solar,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,1,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,1,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,9_12_ = 0
-balance_hub_FR_Balance,2030,1,13_16_: 1 flow_(FR_Solar,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,1,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,1,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,13_16_ = 0
-balance_hub_FR_Balance,2030,1,17_20_: 1 flow_(FR_Solar,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,1,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,1,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,17_20_ = 0
-balance_hub_FR_Balance,2030,1,21_24_: 1 flow_(FR_Solar,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,1,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,1,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,21_24_ = 0
+balance_hub_DE_Balance,2030,9,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,9,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,9,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,9,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,9,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,9,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,9,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,9,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,9,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,9,1_4_ = 0
+balance_hub_DE_Balance,2030,9,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,9,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,9,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,9,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,9,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,9,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,9,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,9,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,9,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,9,5_8_ = 0
+balance_hub_DE_Balance,2030,9,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,9,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,9,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,9,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,9,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,9,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,9,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,9,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,9,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,9,9_12_ = 0
+balance_hub_DE_Balance,2030,9,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,9,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,9,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,9,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,9,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,9,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,9,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,9,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,9,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,9,13_16_ = 0
+balance_hub_DE_Balance,2030,9,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,9,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,9,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,9,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,9,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,9,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,9,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,9,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,9,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,9,17_20_ = 0
+balance_hub_DE_Balance,2030,9,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,9,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,9,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,9,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,9,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,9,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,9,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,9,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,9,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,9,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,9,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,9,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,9,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,9,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,9,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,9,21_24_ = 0
+balance_hub_DE_Balance,2030,10,1_4_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,1_4_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,1_4_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,1_4_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,1_4_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,1_4_ + 1 flow_(DE_Battery,DE_Balance),2030,10,1_4_ - 1 flow_(DE_Balance,DE_Battery),2030,10,1_4_ + 1 flow_(NL_Balance,DE_Balance),2030,10,1_4_ - 1 flow_(DE_Balance,LU_Balance),2030,10,1_4_ - 1 flow_(DE_Balance,CH_Balance),2030,10,1_4_ - 1 flow_(DE_Balance,FR_Balance),2030,10,1_4_ + 1 flow_(DE_Solar,DE_Balance),2030,10,1_4_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,1_4_ + 1 flow_(BE_Balance,DE_Balance),2030,10,1_4_ + 1 flow_(DE_Coal,DE_Balance),2030,10,1_4_ = 0
+balance_hub_DE_Balance,2030,10,5_8_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,5_8_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,5_8_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,5_8_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,5_8_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,5_8_ + 1 flow_(DE_Battery,DE_Balance),2030,10,5_8_ - 1 flow_(DE_Balance,DE_Battery),2030,10,5_8_ + 1 flow_(NL_Balance,DE_Balance),2030,10,5_8_ - 1 flow_(DE_Balance,LU_Balance),2030,10,5_8_ - 1 flow_(DE_Balance,CH_Balance),2030,10,5_8_ - 1 flow_(DE_Balance,FR_Balance),2030,10,5_8_ + 1 flow_(DE_Solar,DE_Balance),2030,10,5_8_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,5_8_ + 1 flow_(BE_Balance,DE_Balance),2030,10,5_8_ + 1 flow_(DE_Coal,DE_Balance),2030,10,5_8_ = 0
+balance_hub_DE_Balance,2030,10,9_12_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,9_12_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,9_12_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,9_12_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,9_12_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,9_12_ + 1 flow_(DE_Battery,DE_Balance),2030,10,9_12_ - 1 flow_(DE_Balance,DE_Battery),2030,10,9_12_ + 1 flow_(NL_Balance,DE_Balance),2030,10,9_12_ - 1 flow_(DE_Balance,LU_Balance),2030,10,9_12_ - 1 flow_(DE_Balance,CH_Balance),2030,10,9_12_ - 1 flow_(DE_Balance,FR_Balance),2030,10,9_12_ + 1 flow_(DE_Solar,DE_Balance),2030,10,9_12_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,9_12_ + 1 flow_(BE_Balance,DE_Balance),2030,10,9_12_ + 1 flow_(DE_Coal,DE_Balance),2030,10,9_12_ = 0
+balance_hub_DE_Balance,2030,10,13_16_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,13_16_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,13_16_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,13_16_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,13_16_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,13_16_ + 1 flow_(DE_Battery,DE_Balance),2030,10,13_16_ - 1 flow_(DE_Balance,DE_Battery),2030,10,13_16_ + 1 flow_(NL_Balance,DE_Balance),2030,10,13_16_ - 1 flow_(DE_Balance,LU_Balance),2030,10,13_16_ - 1 flow_(DE_Balance,CH_Balance),2030,10,13_16_ - 1 flow_(DE_Balance,FR_Balance),2030,10,13_16_ + 1 flow_(DE_Solar,DE_Balance),2030,10,13_16_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,13_16_ + 1 flow_(BE_Balance,DE_Balance),2030,10,13_16_ + 1 flow_(DE_Coal,DE_Balance),2030,10,13_16_ = 0
+balance_hub_DE_Balance,2030,10,17_20_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,17_20_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,17_20_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,17_20_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,17_20_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,17_20_ + 1 flow_(DE_Battery,DE_Balance),2030,10,17_20_ - 1 flow_(DE_Balance,DE_Battery),2030,10,17_20_ + 1 flow_(NL_Balance,DE_Balance),2030,10,17_20_ - 1 flow_(DE_Balance,LU_Balance),2030,10,17_20_ - 1 flow_(DE_Balance,CH_Balance),2030,10,17_20_ - 1 flow_(DE_Balance,FR_Balance),2030,10,17_20_ + 1 flow_(DE_Solar,DE_Balance),2030,10,17_20_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,17_20_ + 1 flow_(BE_Balance,DE_Balance),2030,10,17_20_ + 1 flow_(DE_Coal,DE_Balance),2030,10,17_20_ = 0
+balance_hub_DE_Balance,2030,10,21_24_: -1 flow_(DE_Balance,DE_E_Demand),2030,10,21_24_ + 1 flow_(DE_Wind_Offshore,DE_Balance),2030,10,21_24_ + 1 flow_(DE_Nuclear,DE_Balance),2030,10,21_24_ + 1 flow_(DE_CCGT,DE_Balance),2030,10,21_24_ + 1 flow_(DE_OCGT,DE_Balance),2030,10,21_24_ + 1 flow_(DE_Battery,DE_Balance),2030,10,21_24_ - 1 flow_(DE_Balance,DE_Battery),2030,10,21_24_ + 1 flow_(NL_Balance,DE_Balance),2030,10,21_24_ - 1 flow_(DE_Balance,LU_Balance),2030,10,21_24_ - 1 flow_(DE_Balance,CH_Balance),2030,10,21_24_ - 1 flow_(DE_Balance,FR_Balance),2030,10,21_24_ + 1 flow_(DE_Solar,DE_Balance),2030,10,21_24_ + 1 flow_(DE_Wind_Onshore,DE_Balance),2030,10,21_24_ + 1 flow_(BE_Balance,DE_Balance),2030,10,21_24_ + 1 flow_(DE_Coal,DE_Balance),2030,10,21_24_ = 0
+balance_hub_FR_Balance,2030,1,1_4_: 1 flow_(FR_Solar,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,1,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,1,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,1,1_4_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,1_4_ = 0
+balance_hub_FR_Balance,2030,1,5_8_: 1 flow_(FR_Solar,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,1,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,1,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,1,5_8_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,5_8_ = 0
+balance_hub_FR_Balance,2030,1,9_12_: 1 flow_(FR_Solar,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,1,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,1,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,1,9_12_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,9_12_ = 0
+balance_hub_FR_Balance,2030,1,13_16_: 1 flow_(FR_Solar,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,1,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,1,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,1,13_16_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,13_16_ = 0
+balance_hub_FR_Balance,2030,1,17_20_: 1 flow_(FR_Solar,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,1,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,1,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,1,17_20_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,17_20_ = 0
+balance_hub_FR_Balance,2030,1,21_24_: 1 flow_(FR_Solar,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,1,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,1,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,1,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,1,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,1,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,1,21_24_ - 1 flow_(FR_Balance,FR_E_Demand),2030,1,21_24_ = 0
 balance_hub_FR_Balance,2030,2,1_4_: 1 flow_(FR_Solar,FR_Balance),2030,2,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,2,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,2,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,2,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,2,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,2,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,2,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,2,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,2,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,2,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,2,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,2,1_4_ - 1 flow_(FR_Balance,FR_E_Demand),2030,2,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,2,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,2,1_4_ = 0
 balance_hub_FR_Balance,2030,2,5_8_: 1 flow_(FR_Solar,FR_Balance),2030,2,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,2,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,2,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,2,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,2,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,2,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,2,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,2,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,2,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,2,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,2,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,2,5_8_ - 1 flow_(FR_Balance,FR_E_Demand),2030,2,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,2,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,2,5_8_ = 0
 balance_hub_FR_Balance,2030,2,9_12_: 1 flow_(FR_Solar,FR_Balance),2030,2,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,2,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,2,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,2,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,2,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,2,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,2,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,2,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,2,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,2,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,2,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,2,9_12_ - 1 flow_(FR_Balance,FR_E_Demand),2030,2,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,2,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,2,9_12_ = 0
 balance_hub_FR_Balance,2030,2,13_16_: 1 flow_(FR_Solar,FR_Balance),2030,2,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,2,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,2,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,2,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,2,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,2,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,2,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,2,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,2,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,2,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,2,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,2,13_16_ - 1 flow_(FR_Balance,FR_E_Demand),2030,2,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,2,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,2,13_16_ = 0
 balance_hub_FR_Balance,2030,2,17_20_: 1 flow_(FR_Solar,FR_Balance),2030,2,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,2,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,2,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,2,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,2,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,2,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,2,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,2,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,2,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,2,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,2,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,2,17_20_ - 1 flow_(FR_Balance,FR_E_Demand),2030,2,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,2,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,2,17_20_ = 0
 balance_hub_FR_Balance,2030,2,21_24_: 1 flow_(FR_Solar,FR_Balance),2030,2,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,2,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,2,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,2,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,2,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,2,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,2,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,2,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,2,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,2,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,2,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,2,21_24_ - 1 flow_(FR_Balance,FR_E_Demand),2030,2,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,2,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,2,21_24_ = 0
-balance_hub_FR_Balance,2030,3,1_4_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,3,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,3,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,3,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,3,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,3,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,3,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,3,1_4_ + 1 flow_(FR_Solar,FR_Balance),2030,3,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,3,1_4_ = 0
-balance_hub_FR_Balance,2030,3,5_8_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,3,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,3,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,3,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,3,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,3,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,3,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,3,5_8_ + 1 flow_(FR_Solar,FR_Balance),2030,3,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,3,5_8_ = 0
-balance_hub_FR_Balance,2030,3,9_12_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,3,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,3,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,3,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,3,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,3,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,3,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,3,9_12_ + 1 flow_(FR_Solar,FR_Balance),2030,3,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,3,9_12_ = 0
-balance_hub_FR_Balance,2030,3,13_16_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,3,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,3,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,3,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,3,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,3,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,3,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,3,13_16_ + 1 flow_(FR_Solar,FR_Balance),2030,3,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,3,13_16_ = 0
-balance_hub_FR_Balance,2030,3,17_20_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,3,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,3,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,3,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,3,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,3,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,3,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,3,17_20_ + 1 flow_(FR_Solar,FR_Balance),2030,3,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,3,17_20_ = 0
-balance_hub_FR_Balance,2030,3,21_24_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,3,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,3,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,3,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,3,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,3,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,3,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,3,21_24_ + 1 flow_(FR_Solar,FR_Balance),2030,3,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,3,21_24_ = 0
-balance_hub_FR_Balance,2030,4,1_4_: 1 flow_(FR_Solar,FR_Balance),2030,4,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,4,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,4,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,4,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,4,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,1_4_ = 0
-balance_hub_FR_Balance,2030,4,5_8_: 1 flow_(FR_Solar,FR_Balance),2030,4,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,4,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,4,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,4,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,4,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,5_8_ = 0
-balance_hub_FR_Balance,2030,4,9_12_: 1 flow_(FR_Solar,FR_Balance),2030,4,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,4,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,4,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,4,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,4,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,9_12_ = 0
-balance_hub_FR_Balance,2030,4,13_16_: 1 flow_(FR_Solar,FR_Balance),2030,4,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,4,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,4,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,4,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,4,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,13_16_ = 0
-balance_hub_FR_Balance,2030,4,17_20_: 1 flow_(FR_Solar,FR_Balance),2030,4,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,4,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,4,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,4,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,4,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,17_20_ = 0
-balance_hub_FR_Balance,2030,4,21_24_: 1 flow_(FR_Solar,FR_Balance),2030,4,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,4,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,4,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,4,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,4,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,21_24_ = 0
+balance_hub_FR_Balance,2030,3,1_4_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,3,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,3,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,3,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,3,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,3,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,3,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,3,1_4_ + 1 flow_(FR_Solar,FR_Balance),2030,3,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,3,1_4_ = 0
+balance_hub_FR_Balance,2030,3,5_8_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,3,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,3,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,3,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,3,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,3,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,3,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,3,5_8_ + 1 flow_(FR_Solar,FR_Balance),2030,3,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,3,5_8_ = 0
+balance_hub_FR_Balance,2030,3,9_12_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,3,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,3,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,3,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,3,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,3,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,3,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,3,9_12_ + 1 flow_(FR_Solar,FR_Balance),2030,3,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,3,9_12_ = 0
+balance_hub_FR_Balance,2030,3,13_16_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,3,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,3,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,3,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,3,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,3,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,3,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,3,13_16_ + 1 flow_(FR_Solar,FR_Balance),2030,3,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,3,13_16_ = 0
+balance_hub_FR_Balance,2030,3,17_20_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,3,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,3,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,3,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,3,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,3,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,3,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,3,17_20_ + 1 flow_(FR_Solar,FR_Balance),2030,3,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,3,17_20_ = 0
+balance_hub_FR_Balance,2030,3,21_24_: -1 flow_(FR_Balance,FR_E_Demand),2030,3,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,3,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,3,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,3,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,3,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,3,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,3,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,3,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,3,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,3,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,3,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,3,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,3,21_24_ + 1 flow_(FR_Solar,FR_Balance),2030,3,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,3,21_24_ = 0
+balance_hub_FR_Balance,2030,4,1_4_: 1 flow_(FR_Solar,FR_Balance),2030,4,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,4,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,4,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,4,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,4,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,4,1_4_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,1_4_ = 0
+balance_hub_FR_Balance,2030,4,5_8_: 1 flow_(FR_Solar,FR_Balance),2030,4,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,4,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,4,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,4,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,4,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,4,5_8_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,5_8_ = 0
+balance_hub_FR_Balance,2030,4,9_12_: 1 flow_(FR_Solar,FR_Balance),2030,4,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,4,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,4,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,4,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,4,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,4,9_12_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,9_12_ = 0
+balance_hub_FR_Balance,2030,4,13_16_: 1 flow_(FR_Solar,FR_Balance),2030,4,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,4,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,4,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,4,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,4,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,4,13_16_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,13_16_ = 0
+balance_hub_FR_Balance,2030,4,17_20_: 1 flow_(FR_Solar,FR_Balance),2030,4,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,4,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,4,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,4,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,4,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,4,17_20_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,17_20_ = 0
+balance_hub_FR_Balance,2030,4,21_24_: 1 flow_(FR_Solar,FR_Balance),2030,4,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,4,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,4,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,4,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,4,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,4,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,4,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,4,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,4,21_24_ - 1 flow_(FR_Balance,FR_E_Demand),2030,4,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,4,21_24_ = 0
 balance_hub_FR_Balance,2030,5,1_4_: -1 flow_(FR_Balance,FR_E_Demand),2030,5,1_4_ + 1 flow_(FR_Solar,FR_Balance),2030,5,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,5,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,5,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,5,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,5,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,5,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,5,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,5,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,5,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,5,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,5,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,5,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,5,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,5,1_4_ = 0
 balance_hub_FR_Balance,2030,5,5_8_: -1 flow_(FR_Balance,FR_E_Demand),2030,5,5_8_ + 1 flow_(FR_Solar,FR_Balance),2030,5,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,5,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,5,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,5,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,5,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,5,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,5,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,5,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,5,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,5,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,5,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,5,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,5,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,5,5_8_ = 0
 balance_hub_FR_Balance,2030,5,9_12_: -1 flow_(FR_Balance,FR_E_Demand),2030,5,9_12_ + 1 flow_(FR_Solar,FR_Balance),2030,5,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,5,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,5,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,5,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,5,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,5,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,5,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,5,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,5,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,5,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,5,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,5,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,5,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,5,9_12_ = 0
 balance_hub_FR_Balance,2030,5,13_16_: -1 flow_(FR_Balance,FR_E_Demand),2030,5,13_16_ + 1 flow_(FR_Solar,FR_Balance),2030,5,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,5,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,5,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,5,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,5,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,5,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,5,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,5,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,5,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,5,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,5,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,5,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,5,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,5,13_16_ = 0
 balance_hub_FR_Balance,2030,5,17_20_: -1 flow_(FR_Balance,FR_E_Demand),2030,5,17_20_ + 1 flow_(FR_Solar,FR_Balance),2030,5,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,5,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,5,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,5,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,5,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,5,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,5,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,5,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,5,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,5,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,5,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,5,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,5,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,5,17_20_ = 0
 balance_hub_FR_Balance,2030,5,21_24_: -1 flow_(FR_Balance,FR_E_Demand),2030,5,21_24_ + 1 flow_(FR_Solar,FR_Balance),2030,5,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,5,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,5,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,5,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,5,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,5,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,5,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,5,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,5,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,5,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,5,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,5,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,5,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,5,21_24_ = 0
-balance_hub_FR_Balance,2030,6,1_4_: 1 flow_(FR_Solar,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,6,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,6,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,1_4_ = 0
-balance_hub_FR_Balance,2030,6,5_8_: 1 flow_(FR_Solar,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,6,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,6,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,5_8_ = 0
-balance_hub_FR_Balance,2030,6,9_12_: 1 flow_(FR_Solar,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,6,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,6,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,9_12_ = 0
-balance_hub_FR_Balance,2030,6,13_16_: 1 flow_(FR_Solar,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,6,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,6,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,13_16_ = 0
-balance_hub_FR_Balance,2030,6,17_20_: 1 flow_(FR_Solar,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,6,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,6,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,17_20_ = 0
-balance_hub_FR_Balance,2030,6,21_24_: 1 flow_(FR_Solar,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,6,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,6,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,21_24_ = 0
-balance_hub_FR_Balance,2030,7,1_4_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,7,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,7,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,7,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,7,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,7,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,7,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,7,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,7,1_4_ + 1 flow_(FR_Solar,FR_Balance),2030,7,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,1_4_ = 0
-balance_hub_FR_Balance,2030,7,5_8_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,7,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,7,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,7,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,7,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,7,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,7,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,7,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,7,5_8_ + 1 flow_(FR_Solar,FR_Balance),2030,7,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,5_8_ = 0
-balance_hub_FR_Balance,2030,7,9_12_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,7,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,7,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,7,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,7,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,7,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,7,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,7,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,7,9_12_ + 1 flow_(FR_Solar,FR_Balance),2030,7,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,9_12_ = 0
-balance_hub_FR_Balance,2030,7,13_16_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,7,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,7,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,7,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,7,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,7,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,7,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,7,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,7,13_16_ + 1 flow_(FR_Solar,FR_Balance),2030,7,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,13_16_ = 0
-balance_hub_FR_Balance,2030,7,17_20_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,7,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,7,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,7,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,7,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,7,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,7,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,7,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,7,17_20_ + 1 flow_(FR_Solar,FR_Balance),2030,7,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,17_20_ = 0
-balance_hub_FR_Balance,2030,7,21_24_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,7,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,7,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,7,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,7,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,7,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,7,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,7,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,7,21_24_ + 1 flow_(FR_Solar,FR_Balance),2030,7,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,21_24_ = 0
-balance_hub_FR_Balance,2030,8,1_4_: 1 flow_(FR_Solar,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,8,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,8,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,8,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,1_4_ = 0
-balance_hub_FR_Balance,2030,8,5_8_: 1 flow_(FR_Solar,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,8,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,8,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,8,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,5_8_ = 0
-balance_hub_FR_Balance,2030,8,9_12_: 1 flow_(FR_Solar,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,8,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,8,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,8,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,9_12_ = 0
-balance_hub_FR_Balance,2030,8,13_16_: 1 flow_(FR_Solar,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,8,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,8,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,8,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,13_16_ = 0
-balance_hub_FR_Balance,2030,8,17_20_: 1 flow_(FR_Solar,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,8,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,8,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,8,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,17_20_ = 0
-balance_hub_FR_Balance,2030,8,21_24_: 1 flow_(FR_Solar,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,8,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,8,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,8,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,21_24_ = 0
+balance_hub_FR_Balance,2030,6,1_4_: 1 flow_(FR_Solar,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,6,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,6,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,6,1_4_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,1_4_ = 0
+balance_hub_FR_Balance,2030,6,5_8_: 1 flow_(FR_Solar,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,6,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,6,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,6,5_8_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,5_8_ = 0
+balance_hub_FR_Balance,2030,6,9_12_: 1 flow_(FR_Solar,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,6,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,6,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,6,9_12_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,9_12_ = 0
+balance_hub_FR_Balance,2030,6,13_16_: 1 flow_(FR_Solar,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,6,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,6,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,6,13_16_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,13_16_ = 0
+balance_hub_FR_Balance,2030,6,17_20_: 1 flow_(FR_Solar,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,6,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,6,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,6,17_20_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,17_20_ = 0
+balance_hub_FR_Balance,2030,6,21_24_: 1 flow_(FR_Solar,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,6,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,6,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,6,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,6,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,6,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,6,21_24_ - 1 flow_(FR_Balance,FR_E_Demand),2030,6,21_24_ = 0
+balance_hub_FR_Balance,2030,7,1_4_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,7,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,7,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,7,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,7,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,7,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,7,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,7,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,7,1_4_ + 1 flow_(FR_Solar,FR_Balance),2030,7,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,1_4_ = 0
+balance_hub_FR_Balance,2030,7,5_8_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,7,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,7,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,7,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,7,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,7,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,7,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,7,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,7,5_8_ + 1 flow_(FR_Solar,FR_Balance),2030,7,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,5_8_ = 0
+balance_hub_FR_Balance,2030,7,9_12_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,7,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,7,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,7,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,7,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,7,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,7,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,7,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,7,9_12_ + 1 flow_(FR_Solar,FR_Balance),2030,7,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,9_12_ = 0
+balance_hub_FR_Balance,2030,7,13_16_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,7,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,7,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,7,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,7,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,7,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,7,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,7,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,7,13_16_ + 1 flow_(FR_Solar,FR_Balance),2030,7,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,13_16_ = 0
+balance_hub_FR_Balance,2030,7,17_20_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,7,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,7,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,7,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,7,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,7,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,7,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,7,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,7,17_20_ + 1 flow_(FR_Solar,FR_Balance),2030,7,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,17_20_ = 0
+balance_hub_FR_Balance,2030,7,21_24_: -1 flow_(FR_Balance,FR_E_Demand),2030,7,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,7,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,7,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,7,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,7,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,7,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,7,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,7,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,7,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,7,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,7,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,7,21_24_ + 1 flow_(FR_Solar,FR_Balance),2030,7,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,7,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,7,21_24_ = 0
+balance_hub_FR_Balance,2030,8,1_4_: 1 flow_(FR_Solar,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,8,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,8,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,8,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,1_4_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,1_4_ = 0
+balance_hub_FR_Balance,2030,8,5_8_: 1 flow_(FR_Solar,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,8,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,8,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,8,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,5_8_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,5_8_ = 0
+balance_hub_FR_Balance,2030,8,9_12_: 1 flow_(FR_Solar,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,8,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,8,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,8,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,9_12_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,9_12_ = 0
+balance_hub_FR_Balance,2030,8,13_16_: 1 flow_(FR_Solar,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Coal,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,13_16_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,13_16_ + 1 flow_(FR_Battery,FR_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,FR_Battery),2030,8,13_16_ + 1 flow_(BE_Balance,FR_Balance),2030,8,13_16_ + 1 flow_(DE_Balance,FR_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,UK_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,CH_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,LU_Balance),2030,8,13_16_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,13_16_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,13_16_ = 0
+balance_hub_FR_Balance,2030,8,17_20_: 1 flow_(FR_Solar,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Coal,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,17_20_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,17_20_ + 1 flow_(FR_Battery,FR_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,FR_Battery),2030,8,17_20_ + 1 flow_(BE_Balance,FR_Balance),2030,8,17_20_ + 1 flow_(DE_Balance,FR_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,UK_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,CH_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,LU_Balance),2030,8,17_20_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,17_20_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,17_20_ = 0
+balance_hub_FR_Balance,2030,8,21_24_: 1 flow_(FR_Solar,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Coal,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Nuclear,FR_Balance),2030,8,21_24_ + 1 flow_(FR_CCGT,FR_Balance),2030,8,21_24_ + 1 flow_(FR_Battery,FR_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,FR_Battery),2030,8,21_24_ + 1 flow_(BE_Balance,FR_Balance),2030,8,21_24_ + 1 flow_(DE_Balance,FR_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,UK_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,CH_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,LU_Balance),2030,8,21_24_ + 1 flow_(FR_OCGT,FR_Balance),2030,8,21_24_ - 1 flow_(FR_Balance,FR_E_Demand),2030,8,21_24_ = 0
 balance_hub_FR_Balance,2030,9,1_4_: -1 flow_(FR_Balance,FR_E_Demand),2030,9,1_4_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,9,1_4_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,9,1_4_ + 1 flow_(FR_Coal,FR_Balance),2030,9,1_4_ + 1 flow_(FR_Nuclear,FR_Balance),2030,9,1_4_ + 1 flow_(FR_CCGT,FR_Balance),2030,9,1_4_ + 1 flow_(FR_Battery,FR_Balance),2030,9,1_4_ - 1 flow_(FR_Balance,FR_Battery),2030,9,1_4_ + 1 flow_(BE_Balance,FR_Balance),2030,9,1_4_ - 1 flow_(FR_Balance,CH_Balance),2030,9,1_4_ - 1 flow_(FR_Balance,LU_Balance),2030,9,1_4_ + 1 flow_(FR_OCGT,FR_Balance),2030,9,1_4_ + 1 flow_(DE_Balance,FR_Balance),2030,9,1_4_ + 1 flow_(FR_Solar,FR_Balance),2030,9,1_4_ - 1 flow_(FR_Balance,UK_Balance),2030,9,1_4_ = 0
 balance_hub_FR_Balance,2030,9,5_8_: -1 flow_(FR_Balance,FR_E_Demand),2030,9,5_8_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,9,5_8_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,9,5_8_ + 1 flow_(FR_Coal,FR_Balance),2030,9,5_8_ + 1 flow_(FR_Nuclear,FR_Balance),2030,9,5_8_ + 1 flow_(FR_CCGT,FR_Balance),2030,9,5_8_ + 1 flow_(FR_Battery,FR_Balance),2030,9,5_8_ - 1 flow_(FR_Balance,FR_Battery),2030,9,5_8_ + 1 flow_(BE_Balance,FR_Balance),2030,9,5_8_ - 1 flow_(FR_Balance,CH_Balance),2030,9,5_8_ - 1 flow_(FR_Balance,LU_Balance),2030,9,5_8_ + 1 flow_(FR_OCGT,FR_Balance),2030,9,5_8_ + 1 flow_(DE_Balance,FR_Balance),2030,9,5_8_ + 1 flow_(FR_Solar,FR_Balance),2030,9,5_8_ - 1 flow_(FR_Balance,UK_Balance),2030,9,5_8_ = 0
 balance_hub_FR_Balance,2030,9,9_12_: -1 flow_(FR_Balance,FR_E_Demand),2030,9,9_12_ + 1 flow_(FR_Wind_Onshore,FR_Balance),2030,9,9_12_ + 1 flow_(FR_Wind_Offshore,FR_Balance),2030,9,9_12_ + 1 flow_(FR_Coal,FR_Balance),2030,9,9_12_ + 1 flow_(FR_Nuclear,FR_Balance),2030,9,9_12_ + 1 flow_(FR_CCGT,FR_Balance),2030,9,9_12_ + 1 flow_(FR_Battery,FR_Balance),2030,9,9_12_ - 1 flow_(FR_Balance,FR_Battery),2030,9,9_12_ + 1 flow_(BE_Balance,FR_Balance),2030,9,9_12_ - 1 flow_(FR_Balance,CH_Balance),2030,9,9_12_ - 1 flow_(FR_Balance,LU_Balance),2030,9,9_12_ + 1 flow_(FR_OCGT,FR_Balance),2030,9,9_12_ + 1 flow_(DE_Balance,FR_Balance),2030,9,9_12_ + 1 flow_(FR_Solar,FR_Balance),2030,9,9_12_ - 1 flow_(FR_Balance,UK_Balance),2030,9,9_12_ = 0
@@ -17681,12 +16841,12 @@ balance_hub_LU_Balance,2030,10,9_12_: -1 flow_(LU_Balance,LU_E_Demand),2030,10,9
 balance_hub_LU_Balance,2030,10,13_16_: -1 flow_(LU_Balance,LU_E_Demand),2030,10,13_16_ + 1 flow_(LU_Solar,LU_Balance),2030,10,13_16_ + 1 flow_(LU_Wind_Onshore,LU_Balance),2030,10,13_16_ + 1 flow_(LU_CCGT,LU_Balance),2030,10,13_16_ + 1 flow_(LU_OCGT,LU_Balance),2030,10,13_16_ + 1 flow_(LU_Battery,LU_Balance),2030,10,13_16_ - 1 flow_(LU_Balance,LU_Battery),2030,10,13_16_ + 1 flow_(DE_Balance,LU_Balance),2030,10,13_16_ + 1 flow_(FR_Balance,LU_Balance),2030,10,13_16_ + 1 flow_(LU_Wind_Offshore,LU_Balance),2030,10,13_16_ + 1 flow_(BE_Balance,LU_Balance),2030,10,13_16_ + 1 flow_(LU_Nuclear,LU_Balance),2030,10,13_16_ + 1 flow_(LU_Coal,LU_Balance),2030,10,13_16_ = 0
 balance_hub_LU_Balance,2030,10,17_20_: -1 flow_(LU_Balance,LU_E_Demand),2030,10,17_20_ + 1 flow_(LU_Solar,LU_Balance),2030,10,17_20_ + 1 flow_(LU_Wind_Onshore,LU_Balance),2030,10,17_20_ + 1 flow_(LU_CCGT,LU_Balance),2030,10,17_20_ + 1 flow_(LU_OCGT,LU_Balance),2030,10,17_20_ + 1 flow_(LU_Battery,LU_Balance),2030,10,17_20_ - 1 flow_(LU_Balance,LU_Battery),2030,10,17_20_ + 1 flow_(DE_Balance,LU_Balance),2030,10,17_20_ + 1 flow_(FR_Balance,LU_Balance),2030,10,17_20_ + 1 flow_(LU_Wind_Offshore,LU_Balance),2030,10,17_20_ + 1 flow_(BE_Balance,LU_Balance),2030,10,17_20_ + 1 flow_(LU_Nuclear,LU_Balance),2030,10,17_20_ + 1 flow_(LU_Coal,LU_Balance),2030,10,17_20_ = 0
 balance_hub_LU_Balance,2030,10,21_24_: -1 flow_(LU_Balance,LU_E_Demand),2030,10,21_24_ + 1 flow_(LU_Solar,LU_Balance),2030,10,21_24_ + 1 flow_(LU_Wind_Onshore,LU_Balance),2030,10,21_24_ + 1 flow_(LU_CCGT,LU_Balance),2030,10,21_24_ + 1 flow_(LU_OCGT,LU_Balance),2030,10,21_24_ + 1 flow_(LU_Battery,LU_Balance),2030,10,21_24_ - 1 flow_(LU_Balance,LU_Battery),2030,10,21_24_ + 1 flow_(DE_Balance,LU_Balance),2030,10,21_24_ + 1 flow_(FR_Balance,LU_Balance),2030,10,21_24_ + 1 flow_(LU_Wind_Offshore,LU_Balance),2030,10,21_24_ + 1 flow_(BE_Balance,LU_Balance),2030,10,21_24_ + 1 flow_(LU_Nuclear,LU_Balance),2030,10,21_24_ + 1 flow_(LU_Coal,LU_Balance),2030,10,21_24_ = 0
-balance_hub_NL_Balance,2030,1,1_4_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,1,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,1,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,1,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,1,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,1,1_4_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,1,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,1,1_4_ = 0
-balance_hub_NL_Balance,2030,1,5_8_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,1,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,1,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,1,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,1,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,1,5_8_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,1,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,1,5_8_ = 0
-balance_hub_NL_Balance,2030,1,9_12_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,1,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,1,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,1,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,1,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,1,9_12_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,1,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,1,9_12_ = 0
-balance_hub_NL_Balance,2030,1,13_16_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,1,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,1,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,1,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,1,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,1,13_16_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,1,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,1,13_16_ = 0
-balance_hub_NL_Balance,2030,1,17_20_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,1,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,1,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,1,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,1,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,1,17_20_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,1,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,1,17_20_ = 0
-balance_hub_NL_Balance,2030,1,21_24_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,1,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,1,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,1,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,1,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,1,21_24_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,1,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,1,21_24_ = 0
+balance_hub_NL_Balance,2030,1,1_4_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,1,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,1,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,1,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,1,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,1,1_4_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,1,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,1,1_4_ = 0
+balance_hub_NL_Balance,2030,1,5_8_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,1,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,1,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,1,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,1,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,1,5_8_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,1,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,1,5_8_ = 0
+balance_hub_NL_Balance,2030,1,9_12_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,1,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,1,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,1,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,1,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,1,9_12_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,1,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,1,9_12_ = 0
+balance_hub_NL_Balance,2030,1,13_16_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,1,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,1,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,1,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,1,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,1,13_16_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,1,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,1,13_16_ = 0
+balance_hub_NL_Balance,2030,1,17_20_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,1,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,1,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,1,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,1,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,1,17_20_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,1,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,1,17_20_ = 0
+balance_hub_NL_Balance,2030,1,21_24_: 1 flow_(NL_Wind_Offshore,NL_Balance),2030,1,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,1,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,1,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,1,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,1,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,1,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,1,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,1,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,1,21_24_ - 1 flow_(NL_Balance,NL_E_Demand),2030,1,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,1,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,1,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,1,21_24_ = 0
 balance_hub_NL_Balance,2030,2,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,2,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,2,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,2,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,2,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,2,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,2,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,2,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,2,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,2,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,2,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,2,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,2,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,2,1_4_ = 0
 balance_hub_NL_Balance,2030,2,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,2,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,2,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,2,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,2,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,2,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,2,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,2,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,2,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,2,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,2,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,2,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,2,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,2,5_8_ = 0
 balance_hub_NL_Balance,2030,2,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,2,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,2,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,2,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,2,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,2,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,2,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,2,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,2,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,2,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,2,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,2,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,2,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,2,9_12_ = 0
@@ -17699,48 +16859,48 @@ balance_hub_NL_Balance,2030,3,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,3,9_1
 balance_hub_NL_Balance,2030,3,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,3,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,3,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,3,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,3,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,3,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,3,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,3,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,3,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,3,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,3,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,3,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,3,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,3,13_16_ = 0
 balance_hub_NL_Balance,2030,3,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,3,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,3,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,3,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,3,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,3,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,3,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,3,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,3,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,3,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,3,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,3,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,3,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,3,17_20_ = 0
 balance_hub_NL_Balance,2030,3,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,3,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,3,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,3,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,3,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,3,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,3,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,3,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,3,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,3,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,3,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,3,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,3,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,3,21_24_ = 0
-balance_hub_NL_Balance,2030,4,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,4,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,4,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,4,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,4,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,4,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,4,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,4,1_4_ = 0
-balance_hub_NL_Balance,2030,4,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,4,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,4,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,4,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,4,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,4,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,4,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,4,5_8_ = 0
-balance_hub_NL_Balance,2030,4,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,4,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,4,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,4,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,4,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,4,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,4,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,4,9_12_ = 0
-balance_hub_NL_Balance,2030,4,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,4,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,4,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,4,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,4,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,4,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,4,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,4,13_16_ = 0
-balance_hub_NL_Balance,2030,4,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,4,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,4,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,4,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,4,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,4,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,4,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,4,17_20_ = 0
-balance_hub_NL_Balance,2030,4,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,4,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,4,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,4,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,4,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,4,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,4,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,4,21_24_ = 0
-balance_hub_NL_Balance,2030,5,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,5,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,5,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,5,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,5,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,5,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,5,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,5,1_4_ = 0
-balance_hub_NL_Balance,2030,5,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,5,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,5,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,5,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,5,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,5,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,5,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,5,5_8_ = 0
-balance_hub_NL_Balance,2030,5,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,5,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,5,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,5,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,5,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,5,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,5,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,5,9_12_ = 0
-balance_hub_NL_Balance,2030,5,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,5,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,5,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,5,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,5,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,5,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,5,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,5,13_16_ = 0
-balance_hub_NL_Balance,2030,5,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,5,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,5,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,5,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,5,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,5,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,5,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,5,17_20_ = 0
-balance_hub_NL_Balance,2030,5,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,5,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,5,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,5,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,5,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,5,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,5,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,5,21_24_ = 0
+balance_hub_NL_Balance,2030,4,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,4,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,4,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,4,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,4,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,4,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,4,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,4,1_4_ = 0
+balance_hub_NL_Balance,2030,4,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,4,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,4,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,4,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,4,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,4,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,4,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,4,5_8_ = 0
+balance_hub_NL_Balance,2030,4,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,4,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,4,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,4,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,4,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,4,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,4,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,4,9_12_ = 0
+balance_hub_NL_Balance,2030,4,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,4,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,4,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,4,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,4,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,4,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,4,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,4,13_16_ = 0
+balance_hub_NL_Balance,2030,4,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,4,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,4,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,4,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,4,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,4,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,4,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,4,17_20_ = 0
+balance_hub_NL_Balance,2030,4,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,4,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,4,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,4,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,4,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,4,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,4,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,4,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,4,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,4,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,4,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,4,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,4,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,4,21_24_ = 0
+balance_hub_NL_Balance,2030,5,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,5,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,5,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,5,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,5,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,5,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,5,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,5,1_4_ = 0
+balance_hub_NL_Balance,2030,5,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,5,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,5,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,5,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,5,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,5,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,5,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,5,5_8_ = 0
+balance_hub_NL_Balance,2030,5,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,5,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,5,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,5,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,5,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,5,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,5,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,5,9_12_ = 0
+balance_hub_NL_Balance,2030,5,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,5,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,5,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,5,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,5,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,5,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,5,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,5,13_16_ = 0
+balance_hub_NL_Balance,2030,5,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,5,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,5,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,5,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,5,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,5,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,5,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,5,17_20_ = 0
+balance_hub_NL_Balance,2030,5,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,5,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,5,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,5,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,5,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,5,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,5,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,5,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,5,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,5,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,5,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,5,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,5,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,5,21_24_ = 0
 balance_hub_NL_Balance,2030,6,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,6,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,6,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,6,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,6,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,6,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,6,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,6,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,6,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,6,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,6,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,6,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,6,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,6,1_4_ = 0
 balance_hub_NL_Balance,2030,6,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,6,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,6,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,6,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,6,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,6,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,6,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,6,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,6,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,6,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,6,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,6,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,6,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,6,5_8_ = 0
 balance_hub_NL_Balance,2030,6,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,6,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,6,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,6,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,6,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,6,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,6,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,6,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,6,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,6,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,6,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,6,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,6,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,6,9_12_ = 0
 balance_hub_NL_Balance,2030,6,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,6,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,6,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,6,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,6,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,6,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,6,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,6,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,6,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,6,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,6,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,6,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,6,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,6,13_16_ = 0
 balance_hub_NL_Balance,2030,6,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,6,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,6,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,6,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,6,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,6,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,6,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,6,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,6,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,6,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,6,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,6,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,6,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,6,17_20_ = 0
 balance_hub_NL_Balance,2030,6,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,6,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,6,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,6,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,6,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,6,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,6,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,6,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,6,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,6,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,6,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,6,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,6,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,6,21_24_ = 0
-balance_hub_NL_Balance,2030,7,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,7,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,7,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,7,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,7,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,7,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,7,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,7,1_4_ = 0
-balance_hub_NL_Balance,2030,7,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,7,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,7,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,7,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,7,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,7,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,7,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,7,5_8_ = 0
-balance_hub_NL_Balance,2030,7,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,7,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,7,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,7,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,7,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,7,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,7,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,7,9_12_ = 0
-balance_hub_NL_Balance,2030,7,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,7,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,7,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,7,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,7,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,7,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,7,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,7,13_16_ = 0
-balance_hub_NL_Balance,2030,7,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,7,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,7,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,7,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,7,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,7,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,7,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,7,17_20_ = 0
-balance_hub_NL_Balance,2030,7,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,7,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,7,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,7,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,7,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,7,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,7,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,7,21_24_ = 0
+balance_hub_NL_Balance,2030,7,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,7,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,7,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,7,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,7,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,7,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,7,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,7,1_4_ = 0
+balance_hub_NL_Balance,2030,7,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,7,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,7,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,7,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,7,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,7,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,7,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,7,5_8_ = 0
+balance_hub_NL_Balance,2030,7,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,7,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,7,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,7,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,7,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,7,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,7,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,7,9_12_ = 0
+balance_hub_NL_Balance,2030,7,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,7,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,7,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,7,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,7,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,7,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,7,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,7,13_16_ = 0
+balance_hub_NL_Balance,2030,7,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,7,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,7,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,7,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,7,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,7,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,7,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,7,17_20_ = 0
+balance_hub_NL_Balance,2030,7,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,7,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,7,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,7,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,7,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,7,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,7,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,7,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,7,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,7,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,7,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,7,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,7,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,7,21_24_ = 0
 balance_hub_NL_Balance,2030,8,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,8,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,8,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,8,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,8,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,8,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,8,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,8,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,8,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,8,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,8,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,8,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,8,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,8,1_4_ = 0
 balance_hub_NL_Balance,2030,8,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,8,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,8,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,8,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,8,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,8,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,8,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,8,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,8,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,8,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,8,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,8,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,8,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,8,5_8_ = 0
 balance_hub_NL_Balance,2030,8,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,8,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,8,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,8,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,8,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,8,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,8,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,8,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,8,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,8,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,8,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,8,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,8,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,8,9_12_ = 0
 balance_hub_NL_Balance,2030,8,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,8,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,8,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,8,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,8,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,8,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,8,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,8,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,8,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,8,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,8,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,8,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,8,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,8,13_16_ = 0
 balance_hub_NL_Balance,2030,8,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,8,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,8,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,8,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,8,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,8,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,8,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,8,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,8,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,8,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,8,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,8,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,8,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,8,17_20_ = 0
 balance_hub_NL_Balance,2030,8,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,8,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,8,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,8,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,8,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,8,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,8,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,8,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,8,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,8,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,8,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,8,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,8,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,8,21_24_ = 0
-balance_hub_NL_Balance,2030,9,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,9,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,9,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,9,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,9,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,9,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,9,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,9,1_4_ = 0
-balance_hub_NL_Balance,2030,9,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,9,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,9,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,9,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,9,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,9,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,9,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,9,5_8_ = 0
-balance_hub_NL_Balance,2030,9,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,9,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,9,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,9,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,9,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,9,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,9,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,9,9_12_ = 0
-balance_hub_NL_Balance,2030,9,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,9,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,9,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,9,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,9,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,9,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,9,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,9,13_16_ = 0
-balance_hub_NL_Balance,2030,9,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,9,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,9,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,9,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,9,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,9,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,9,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,9,17_20_ = 0
-balance_hub_NL_Balance,2030,9,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,9,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,9,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,9,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,9,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,9,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,9,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,9,21_24_ = 0
-balance_hub_NL_Balance,2030,10,1_4_: 1 flow_(NL_Solar,NL_Balance),2030,10,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,10,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,10,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,10,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,10,1_4_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,10,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,10,1_4_ = 0
-balance_hub_NL_Balance,2030,10,5_8_: 1 flow_(NL_Solar,NL_Balance),2030,10,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,10,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,10,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,10,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,10,5_8_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,10,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,10,5_8_ = 0
-balance_hub_NL_Balance,2030,10,9_12_: 1 flow_(NL_Solar,NL_Balance),2030,10,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,10,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,10,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,10,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,10,9_12_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,10,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,10,9_12_ = 0
-balance_hub_NL_Balance,2030,10,13_16_: 1 flow_(NL_Solar,NL_Balance),2030,10,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,10,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,10,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,10,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,10,13_16_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,10,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,10,13_16_ = 0
-balance_hub_NL_Balance,2030,10,17_20_: 1 flow_(NL_Solar,NL_Balance),2030,10,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,10,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,10,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,10,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,10,17_20_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,10,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,10,17_20_ = 0
-balance_hub_NL_Balance,2030,10,21_24_: 1 flow_(NL_Solar,NL_Balance),2030,10,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,10,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,10,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,10,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,10,21_24_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,10,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,10,21_24_ = 0
+balance_hub_NL_Balance,2030,9,1_4_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,1_4_ + 1 flow_(NL_Solar,NL_Balance),2030,9,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,9,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,9,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,9,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,9,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,9,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,9,1_4_ = 0
+balance_hub_NL_Balance,2030,9,5_8_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,5_8_ + 1 flow_(NL_Solar,NL_Balance),2030,9,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,9,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,9,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,9,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,9,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,9,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,9,5_8_ = 0
+balance_hub_NL_Balance,2030,9,9_12_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,9_12_ + 1 flow_(NL_Solar,NL_Balance),2030,9,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,9,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,9,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,9,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,9,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,9,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,9,9_12_ = 0
+balance_hub_NL_Balance,2030,9,13_16_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,13_16_ + 1 flow_(NL_Solar,NL_Balance),2030,9,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,9,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,9,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,9,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,9,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,9,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,9,13_16_ = 0
+balance_hub_NL_Balance,2030,9,17_20_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,17_20_ + 1 flow_(NL_Solar,NL_Balance),2030,9,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,9,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,9,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,9,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,9,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,9,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,9,17_20_ = 0
+balance_hub_NL_Balance,2030,9,21_24_: -1 flow_(NL_Balance,NL_E_Demand),2030,9,21_24_ + 1 flow_(NL_Solar,NL_Balance),2030,9,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,9,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,9,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,9,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,9,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,9,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,9,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,9,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,9,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,9,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,9,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,9,21_24_ = 0
+balance_hub_NL_Balance,2030,10,1_4_: 1 flow_(NL_Solar,NL_Balance),2030,10,1_4_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,1_4_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,1_4_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,1_4_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,1_4_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,1_4_ - 1 flow_(NL_Balance,NL_Battery),2030,10,1_4_ - 1 flow_(NL_Balance,DE_Balance),2030,10,1_4_ - 1 flow_(NL_Balance,UK_Balance),2030,10,1_4_ - 1 flow_(NL_Balance,BE_Balance),2030,10,1_4_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,1_4_ + 1 flow_(NL_Battery,NL_Balance),2030,10,1_4_ + 1 flow_(NL_Coal,NL_Balance),2030,10,1_4_ = 0
+balance_hub_NL_Balance,2030,10,5_8_: 1 flow_(NL_Solar,NL_Balance),2030,10,5_8_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,5_8_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,5_8_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,5_8_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,5_8_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,5_8_ - 1 flow_(NL_Balance,NL_Battery),2030,10,5_8_ - 1 flow_(NL_Balance,DE_Balance),2030,10,5_8_ - 1 flow_(NL_Balance,UK_Balance),2030,10,5_8_ - 1 flow_(NL_Balance,BE_Balance),2030,10,5_8_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,5_8_ + 1 flow_(NL_Battery,NL_Balance),2030,10,5_8_ + 1 flow_(NL_Coal,NL_Balance),2030,10,5_8_ = 0
+balance_hub_NL_Balance,2030,10,9_12_: 1 flow_(NL_Solar,NL_Balance),2030,10,9_12_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,9_12_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,9_12_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,9_12_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,9_12_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,9_12_ - 1 flow_(NL_Balance,NL_Battery),2030,10,9_12_ - 1 flow_(NL_Balance,DE_Balance),2030,10,9_12_ - 1 flow_(NL_Balance,UK_Balance),2030,10,9_12_ - 1 flow_(NL_Balance,BE_Balance),2030,10,9_12_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,9_12_ + 1 flow_(NL_Battery,NL_Balance),2030,10,9_12_ + 1 flow_(NL_Coal,NL_Balance),2030,10,9_12_ = 0
+balance_hub_NL_Balance,2030,10,13_16_: 1 flow_(NL_Solar,NL_Balance),2030,10,13_16_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,13_16_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,13_16_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,13_16_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,13_16_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,13_16_ - 1 flow_(NL_Balance,NL_Battery),2030,10,13_16_ - 1 flow_(NL_Balance,DE_Balance),2030,10,13_16_ - 1 flow_(NL_Balance,UK_Balance),2030,10,13_16_ - 1 flow_(NL_Balance,BE_Balance),2030,10,13_16_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,13_16_ + 1 flow_(NL_Battery,NL_Balance),2030,10,13_16_ + 1 flow_(NL_Coal,NL_Balance),2030,10,13_16_ = 0
+balance_hub_NL_Balance,2030,10,17_20_: 1 flow_(NL_Solar,NL_Balance),2030,10,17_20_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,17_20_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,17_20_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,17_20_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,17_20_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,17_20_ - 1 flow_(NL_Balance,NL_Battery),2030,10,17_20_ - 1 flow_(NL_Balance,DE_Balance),2030,10,17_20_ - 1 flow_(NL_Balance,UK_Balance),2030,10,17_20_ - 1 flow_(NL_Balance,BE_Balance),2030,10,17_20_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,17_20_ + 1 flow_(NL_Battery,NL_Balance),2030,10,17_20_ + 1 flow_(NL_Coal,NL_Balance),2030,10,17_20_ = 0
+balance_hub_NL_Balance,2030,10,21_24_: 1 flow_(NL_Solar,NL_Balance),2030,10,21_24_ + 1 flow_(NL_Wind_Onshore,NL_Balance),2030,10,21_24_ + 1 flow_(NL_Wind_Offshore,NL_Balance),2030,10,21_24_ + 1 flow_(NL_Nuclear,NL_Balance),2030,10,21_24_ + 1 flow_(NL_CCGT,NL_Balance),2030,10,21_24_ + 1 flow_(NL_OCGT,NL_Balance),2030,10,21_24_ - 1 flow_(NL_Balance,NL_Battery),2030,10,21_24_ - 1 flow_(NL_Balance,DE_Balance),2030,10,21_24_ - 1 flow_(NL_Balance,UK_Balance),2030,10,21_24_ - 1 flow_(NL_Balance,BE_Balance),2030,10,21_24_ - 1 flow_(NL_Balance,NL_E_Demand),2030,10,21_24_ + 1 flow_(NL_Battery,NL_Balance),2030,10,21_24_ + 1 flow_(NL_Coal,NL_Balance),2030,10,21_24_ = 0
 balance_hub_UK_Balance,2030,1,1_4_: -1 flow_(UK_Balance,UK_E_Demand),2030,1,1_4_ + 1 flow_(UK_Solar,UK_Balance),2030,1,1_4_ + 1 flow_(UK_Wind_Onshore,UK_Balance),2030,1,1_4_ + 1 flow_(UK_Wind_Offshore,UK_Balance),2030,1,1_4_ + 1 flow_(UK_Coal,UK_Balance),2030,1,1_4_ + 1 flow_(UK_Nuclear,UK_Balance),2030,1,1_4_ + 1 flow_(UK_CCGT,UK_Balance),2030,1,1_4_ + 1 flow_(UK_OCGT,UK_Balance),2030,1,1_4_ + 1 flow_(UK_Battery,UK_Balance),2030,1,1_4_ - 1 flow_(UK_Balance,UK_Battery),2030,1,1_4_ + 1 flow_(NL_Balance,UK_Balance),2030,1,1_4_ + 1 flow_(BE_Balance,UK_Balance),2030,1,1_4_ + 1 flow_(FR_Balance,UK_Balance),2030,1,1_4_ = 0
 balance_hub_UK_Balance,2030,1,5_8_: -1 flow_(UK_Balance,UK_E_Demand),2030,1,5_8_ + 1 flow_(UK_Solar,UK_Balance),2030,1,5_8_ + 1 flow_(UK_Wind_Onshore,UK_Balance),2030,1,5_8_ + 1 flow_(UK_Wind_Offshore,UK_Balance),2030,1,5_8_ + 1 flow_(UK_Coal,UK_Balance),2030,1,5_8_ + 1 flow_(UK_Nuclear,UK_Balance),2030,1,5_8_ + 1 flow_(UK_CCGT,UK_Balance),2030,1,5_8_ + 1 flow_(UK_OCGT,UK_Balance),2030,1,5_8_ + 1 flow_(UK_Battery,UK_Balance),2030,1,5_8_ - 1 flow_(UK_Balance,UK_Battery),2030,1,5_8_ + 1 flow_(NL_Balance,UK_Balance),2030,1,5_8_ + 1 flow_(BE_Balance,UK_Balance),2030,1,5_8_ + 1 flow_(FR_Balance,UK_Balance),2030,1,5_8_ = 0
 balance_hub_UK_Balance,2030,1,9_12_: -1 flow_(UK_Balance,UK_E_Demand),2030,1,9_12_ + 1 flow_(UK_Solar,UK_Balance),2030,1,9_12_ + 1 flow_(UK_Wind_Onshore,UK_Balance),2030,1,9_12_ + 1 flow_(UK_Wind_Offshore,UK_Balance),2030,1,9_12_ + 1 flow_(UK_Coal,UK_Balance),2030,1,9_12_ + 1 flow_(UK_Nuclear,UK_Balance),2030,1,9_12_ + 1 flow_(UK_CCGT,UK_Balance),2030,1,9_12_ + 1 flow_(UK_OCGT,UK_Balance),2030,1,9_12_ + 1 flow_(UK_Battery,UK_Balance),2030,1,9_12_ - 1 flow_(UK_Balance,UK_Battery),2030,1,9_12_ + 1 flow_(NL_Balance,UK_Balance),2030,1,9_12_ + 1 flow_(BE_Balance,UK_Balance),2030,1,9_12_ + 1 flow_(FR_Balance,UK_Balance),2030,1,9_12_ = 0
@@ -19556,60 +18716,66 @@ flow_(NL_Balance,DE_Balance),2030,1,9_12_ free
 flow_(NL_Balance,DE_Balance),2030,1,13_16_ free
 flow_(NL_Balance,DE_Balance),2030,1,17_20_ free
 flow_(NL_Balance,DE_Balance),2030,1,21_24_ free
-flow_(NL_Balance,BE_Balance),2030,1,1_4_ free
-flow_(NL_Balance,BE_Balance),2030,1,5_8_ free
-flow_(NL_Balance,BE_Balance),2030,1,9_12_ free
-flow_(NL_Balance,BE_Balance),2030,1,13_16_ free
-flow_(NL_Balance,BE_Balance),2030,1,17_20_ free
-flow_(NL_Balance,BE_Balance),2030,1,21_24_ free
 flow_(NL_Balance,UK_Balance),2030,1,1_4_ free
 flow_(NL_Balance,UK_Balance),2030,1,5_8_ free
 flow_(NL_Balance,UK_Balance),2030,1,9_12_ free
 flow_(NL_Balance,UK_Balance),2030,1,13_16_ free
 flow_(NL_Balance,UK_Balance),2030,1,17_20_ free
 flow_(NL_Balance,UK_Balance),2030,1,21_24_ free
-flow_(BE_Balance,DE_Balance),2030,1,1_4_ free
-flow_(BE_Balance,DE_Balance),2030,1,5_8_ free
-flow_(BE_Balance,DE_Balance),2030,1,9_12_ free
-flow_(BE_Balance,DE_Balance),2030,1,13_16_ free
-flow_(BE_Balance,DE_Balance),2030,1,17_20_ free
-flow_(BE_Balance,DE_Balance),2030,1,21_24_ free
+flow_(NL_Balance,BE_Balance),2030,1,1_4_ free
+flow_(NL_Balance,BE_Balance),2030,1,5_8_ free
+flow_(NL_Balance,BE_Balance),2030,1,9_12_ free
+flow_(NL_Balance,BE_Balance),2030,1,13_16_ free
+flow_(NL_Balance,BE_Balance),2030,1,17_20_ free
+flow_(NL_Balance,BE_Balance),2030,1,21_24_ free
 flow_(BE_Balance,LU_Balance),2030,1,1_4_ free
 flow_(BE_Balance,LU_Balance),2030,1,5_8_ free
 flow_(BE_Balance,LU_Balance),2030,1,9_12_ free
 flow_(BE_Balance,LU_Balance),2030,1,13_16_ free
 flow_(BE_Balance,LU_Balance),2030,1,17_20_ free
 flow_(BE_Balance,LU_Balance),2030,1,21_24_ free
-flow_(BE_Balance,FR_Balance),2030,1,1_4_ free
-flow_(BE_Balance,FR_Balance),2030,1,5_8_ free
-flow_(BE_Balance,FR_Balance),2030,1,9_12_ free
-flow_(BE_Balance,FR_Balance),2030,1,13_16_ free
-flow_(BE_Balance,FR_Balance),2030,1,17_20_ free
-flow_(BE_Balance,FR_Balance),2030,1,21_24_ free
+flow_(BE_Balance,DE_Balance),2030,1,1_4_ free
+flow_(BE_Balance,DE_Balance),2030,1,5_8_ free
+flow_(BE_Balance,DE_Balance),2030,1,9_12_ free
+flow_(BE_Balance,DE_Balance),2030,1,13_16_ free
+flow_(BE_Balance,DE_Balance),2030,1,17_20_ free
+flow_(BE_Balance,DE_Balance),2030,1,21_24_ free
 flow_(BE_Balance,UK_Balance),2030,1,1_4_ free
 flow_(BE_Balance,UK_Balance),2030,1,5_8_ free
 flow_(BE_Balance,UK_Balance),2030,1,9_12_ free
 flow_(BE_Balance,UK_Balance),2030,1,13_16_ free
 flow_(BE_Balance,UK_Balance),2030,1,17_20_ free
 flow_(BE_Balance,UK_Balance),2030,1,21_24_ free
-flow_(DE_Balance,CH_Balance),2030,1,1_4_ free
-flow_(DE_Balance,CH_Balance),2030,1,5_8_ free
-flow_(DE_Balance,CH_Balance),2030,1,9_12_ free
-flow_(DE_Balance,CH_Balance),2030,1,13_16_ free
-flow_(DE_Balance,CH_Balance),2030,1,17_20_ free
-flow_(DE_Balance,CH_Balance),2030,1,21_24_ free
+flow_(BE_Balance,FR_Balance),2030,1,1_4_ free
+flow_(BE_Balance,FR_Balance),2030,1,5_8_ free
+flow_(BE_Balance,FR_Balance),2030,1,9_12_ free
+flow_(BE_Balance,FR_Balance),2030,1,13_16_ free
+flow_(BE_Balance,FR_Balance),2030,1,17_20_ free
+flow_(BE_Balance,FR_Balance),2030,1,21_24_ free
 flow_(DE_Balance,LU_Balance),2030,1,1_4_ free
 flow_(DE_Balance,LU_Balance),2030,1,5_8_ free
 flow_(DE_Balance,LU_Balance),2030,1,9_12_ free
 flow_(DE_Balance,LU_Balance),2030,1,13_16_ free
 flow_(DE_Balance,LU_Balance),2030,1,17_20_ free
 flow_(DE_Balance,LU_Balance),2030,1,21_24_ free
+flow_(DE_Balance,CH_Balance),2030,1,1_4_ free
+flow_(DE_Balance,CH_Balance),2030,1,5_8_ free
+flow_(DE_Balance,CH_Balance),2030,1,9_12_ free
+flow_(DE_Balance,CH_Balance),2030,1,13_16_ free
+flow_(DE_Balance,CH_Balance),2030,1,17_20_ free
+flow_(DE_Balance,CH_Balance),2030,1,21_24_ free
 flow_(DE_Balance,FR_Balance),2030,1,1_4_ free
 flow_(DE_Balance,FR_Balance),2030,1,5_8_ free
 flow_(DE_Balance,FR_Balance),2030,1,9_12_ free
 flow_(DE_Balance,FR_Balance),2030,1,13_16_ free
 flow_(DE_Balance,FR_Balance),2030,1,17_20_ free
 flow_(DE_Balance,FR_Balance),2030,1,21_24_ free
+flow_(FR_Balance,UK_Balance),2030,1,1_4_ free
+flow_(FR_Balance,UK_Balance),2030,1,5_8_ free
+flow_(FR_Balance,UK_Balance),2030,1,9_12_ free
+flow_(FR_Balance,UK_Balance),2030,1,13_16_ free
+flow_(FR_Balance,UK_Balance),2030,1,17_20_ free
+flow_(FR_Balance,UK_Balance),2030,1,21_24_ free
 flow_(FR_Balance,CH_Balance),2030,1,1_4_ free
 flow_(FR_Balance,CH_Balance),2030,1,5_8_ free
 flow_(FR_Balance,CH_Balance),2030,1,9_12_ free
@@ -19622,12 +18788,6 @@ flow_(FR_Balance,LU_Balance),2030,1,9_12_ free
 flow_(FR_Balance,LU_Balance),2030,1,13_16_ free
 flow_(FR_Balance,LU_Balance),2030,1,17_20_ free
 flow_(FR_Balance,LU_Balance),2030,1,21_24_ free
-flow_(FR_Balance,UK_Balance),2030,1,1_4_ free
-flow_(FR_Balance,UK_Balance),2030,1,5_8_ free
-flow_(FR_Balance,UK_Balance),2030,1,9_12_ free
-flow_(FR_Balance,UK_Balance),2030,1,13_16_ free
-flow_(FR_Balance,UK_Balance),2030,1,17_20_ free
-flow_(FR_Balance,UK_Balance),2030,1,21_24_ free
 flow_(NL_Balance,NL_E_Demand),2030,1,1_4_ free
 flow_(NL_Balance,NL_E_Demand),2030,1,5_8_ free
 flow_(NL_Balance,NL_E_Demand),2030,1,9_12_ free
@@ -20018,42 +19178,42 @@ flow_(NL_Balance,UK_Balance),2030,2,9_12_ free
 flow_(NL_Balance,UK_Balance),2030,2,13_16_ free
 flow_(NL_Balance,UK_Balance),2030,2,17_20_ free
 flow_(NL_Balance,UK_Balance),2030,2,21_24_ free
-flow_(BE_Balance,DE_Balance),2030,2,1_4_ free
-flow_(BE_Balance,DE_Balance),2030,2,5_8_ free
-flow_(BE_Balance,DE_Balance),2030,2,9_12_ free
-flow_(BE_Balance,DE_Balance),2030,2,13_16_ free
-flow_(BE_Balance,DE_Balance),2030,2,17_20_ free
-flow_(BE_Balance,DE_Balance),2030,2,21_24_ free
 flow_(BE_Balance,LU_Balance),2030,2,1_4_ free
 flow_(BE_Balance,LU_Balance),2030,2,5_8_ free
 flow_(BE_Balance,LU_Balance),2030,2,9_12_ free
 flow_(BE_Balance,LU_Balance),2030,2,13_16_ free
 flow_(BE_Balance,LU_Balance),2030,2,17_20_ free
 flow_(BE_Balance,LU_Balance),2030,2,21_24_ free
-flow_(BE_Balance,FR_Balance),2030,2,1_4_ free
-flow_(BE_Balance,FR_Balance),2030,2,5_8_ free
-flow_(BE_Balance,FR_Balance),2030,2,9_12_ free
-flow_(BE_Balance,FR_Balance),2030,2,13_16_ free
-flow_(BE_Balance,FR_Balance),2030,2,17_20_ free
-flow_(BE_Balance,FR_Balance),2030,2,21_24_ free
+flow_(BE_Balance,DE_Balance),2030,2,1_4_ free
+flow_(BE_Balance,DE_Balance),2030,2,5_8_ free
+flow_(BE_Balance,DE_Balance),2030,2,9_12_ free
+flow_(BE_Balance,DE_Balance),2030,2,13_16_ free
+flow_(BE_Balance,DE_Balance),2030,2,17_20_ free
+flow_(BE_Balance,DE_Balance),2030,2,21_24_ free
 flow_(BE_Balance,UK_Balance),2030,2,1_4_ free
 flow_(BE_Balance,UK_Balance),2030,2,5_8_ free
 flow_(BE_Balance,UK_Balance),2030,2,9_12_ free
 flow_(BE_Balance,UK_Balance),2030,2,13_16_ free
 flow_(BE_Balance,UK_Balance),2030,2,17_20_ free
 flow_(BE_Balance,UK_Balance),2030,2,21_24_ free
-flow_(DE_Balance,CH_Balance),2030,2,1_4_ free
-flow_(DE_Balance,CH_Balance),2030,2,5_8_ free
-flow_(DE_Balance,CH_Balance),2030,2,9_12_ free
-flow_(DE_Balance,CH_Balance),2030,2,13_16_ free
-flow_(DE_Balance,CH_Balance),2030,2,17_20_ free
-flow_(DE_Balance,CH_Balance),2030,2,21_24_ free
+flow_(BE_Balance,FR_Balance),2030,2,1_4_ free
+flow_(BE_Balance,FR_Balance),2030,2,5_8_ free
+flow_(BE_Balance,FR_Balance),2030,2,9_12_ free
+flow_(BE_Balance,FR_Balance),2030,2,13_16_ free
+flow_(BE_Balance,FR_Balance),2030,2,17_20_ free
+flow_(BE_Balance,FR_Balance),2030,2,21_24_ free
 flow_(DE_Balance,LU_Balance),2030,2,1_4_ free
 flow_(DE_Balance,LU_Balance),2030,2,5_8_ free
 flow_(DE_Balance,LU_Balance),2030,2,9_12_ free
 flow_(DE_Balance,LU_Balance),2030,2,13_16_ free
 flow_(DE_Balance,LU_Balance),2030,2,17_20_ free
 flow_(DE_Balance,LU_Balance),2030,2,21_24_ free
+flow_(DE_Balance,CH_Balance),2030,2,1_4_ free
+flow_(DE_Balance,CH_Balance),2030,2,5_8_ free
+flow_(DE_Balance,CH_Balance),2030,2,9_12_ free
+flow_(DE_Balance,CH_Balance),2030,2,13_16_ free
+flow_(DE_Balance,CH_Balance),2030,2,17_20_ free
+flow_(DE_Balance,CH_Balance),2030,2,21_24_ free
 flow_(FR_Balance,CH_Balance),2030,2,1_4_ free
 flow_(FR_Balance,CH_Balance),2030,2,5_8_ free
 flow_(FR_Balance,CH_Balance),2030,2,9_12_ free
@@ -20564,6 +19724,12 @@ flow_(DE_Balance,FR_Balance),2030,3,9_12_ free
 flow_(DE_Balance,FR_Balance),2030,3,13_16_ free
 flow_(DE_Balance,FR_Balance),2030,3,17_20_ free
 flow_(DE_Balance,FR_Balance),2030,3,21_24_ free
+flow_(FR_Balance,UK_Balance),2030,3,1_4_ free
+flow_(FR_Balance,UK_Balance),2030,3,5_8_ free
+flow_(FR_Balance,UK_Balance),2030,3,9_12_ free
+flow_(FR_Balance,UK_Balance),2030,3,13_16_ free
+flow_(FR_Balance,UK_Balance),2030,3,17_20_ free
+flow_(FR_Balance,UK_Balance),2030,3,21_24_ free
 flow_(FR_Balance,CH_Balance),2030,3,1_4_ free
 flow_(FR_Balance,CH_Balance),2030,3,5_8_ free
 flow_(FR_Balance,CH_Balance),2030,3,9_12_ free
@@ -20576,12 +19742,6 @@ flow_(FR_Balance,LU_Balance),2030,3,9_12_ free
 flow_(FR_Balance,LU_Balance),2030,3,13_16_ free
 flow_(FR_Balance,LU_Balance),2030,3,17_20_ free
 flow_(FR_Balance,LU_Balance),2030,3,21_24_ free
-flow_(FR_Balance,UK_Balance),2030,3,1_4_ free
-flow_(FR_Balance,UK_Balance),2030,3,5_8_ free
-flow_(FR_Balance,UK_Balance),2030,3,9_12_ free
-flow_(FR_Balance,UK_Balance),2030,3,13_16_ free
-flow_(FR_Balance,UK_Balance),2030,3,17_20_ free
-flow_(FR_Balance,UK_Balance),2030,3,21_24_ free
 flow_(BE_OCGT,BE_Balance),2030,3,1_4_ >= 0
 flow_(BE_OCGT,BE_Balance),2030,3,5_8_ >= 0
 flow_(BE_OCGT,BE_Balance),2030,3,9_12_ >= 0
@@ -21008,30 +20168,30 @@ flow_(NL_Balance,DE_Balance),2030,4,9_12_ free
 flow_(NL_Balance,DE_Balance),2030,4,13_16_ free
 flow_(NL_Balance,DE_Balance),2030,4,17_20_ free
 flow_(NL_Balance,DE_Balance),2030,4,21_24_ free
-flow_(NL_Balance,BE_Balance),2030,4,1_4_ free
-flow_(NL_Balance,BE_Balance),2030,4,5_8_ free
-flow_(NL_Balance,BE_Balance),2030,4,9_12_ free
-flow_(NL_Balance,BE_Balance),2030,4,13_16_ free
-flow_(NL_Balance,BE_Balance),2030,4,17_20_ free
-flow_(NL_Balance,BE_Balance),2030,4,21_24_ free
 flow_(NL_Balance,UK_Balance),2030,4,1_4_ free
 flow_(NL_Balance,UK_Balance),2030,4,5_8_ free
 flow_(NL_Balance,UK_Balance),2030,4,9_12_ free
 flow_(NL_Balance,UK_Balance),2030,4,13_16_ free
 flow_(NL_Balance,UK_Balance),2030,4,17_20_ free
 flow_(NL_Balance,UK_Balance),2030,4,21_24_ free
-flow_(BE_Balance,DE_Balance),2030,4,1_4_ free
-flow_(BE_Balance,DE_Balance),2030,4,5_8_ free
-flow_(BE_Balance,DE_Balance),2030,4,9_12_ free
-flow_(BE_Balance,DE_Balance),2030,4,13_16_ free
-flow_(BE_Balance,DE_Balance),2030,4,17_20_ free
-flow_(BE_Balance,DE_Balance),2030,4,21_24_ free
+flow_(NL_Balance,BE_Balance),2030,4,1_4_ free
+flow_(NL_Balance,BE_Balance),2030,4,5_8_ free
+flow_(NL_Balance,BE_Balance),2030,4,9_12_ free
+flow_(NL_Balance,BE_Balance),2030,4,13_16_ free
+flow_(NL_Balance,BE_Balance),2030,4,17_20_ free
+flow_(NL_Balance,BE_Balance),2030,4,21_24_ free
 flow_(BE_Balance,LU_Balance),2030,4,1_4_ free
 flow_(BE_Balance,LU_Balance),2030,4,5_8_ free
 flow_(BE_Balance,LU_Balance),2030,4,9_12_ free
 flow_(BE_Balance,LU_Balance),2030,4,13_16_ free
 flow_(BE_Balance,LU_Balance),2030,4,17_20_ free
 flow_(BE_Balance,LU_Balance),2030,4,21_24_ free
+flow_(BE_Balance,DE_Balance),2030,4,1_4_ free
+flow_(BE_Balance,DE_Balance),2030,4,5_8_ free
+flow_(BE_Balance,DE_Balance),2030,4,9_12_ free
+flow_(BE_Balance,DE_Balance),2030,4,13_16_ free
+flow_(BE_Balance,DE_Balance),2030,4,17_20_ free
+flow_(BE_Balance,DE_Balance),2030,4,21_24_ free
 flow_(BE_Balance,FR_Balance),2030,4,1_4_ free
 flow_(BE_Balance,FR_Balance),2030,4,5_8_ free
 flow_(BE_Balance,FR_Balance),2030,4,9_12_ free
@@ -21044,18 +20204,18 @@ flow_(DE_Balance,FR_Balance),2030,4,9_12_ free
 flow_(DE_Balance,FR_Balance),2030,4,13_16_ free
 flow_(DE_Balance,FR_Balance),2030,4,17_20_ free
 flow_(DE_Balance,FR_Balance),2030,4,21_24_ free
-flow_(FR_Balance,CH_Balance),2030,4,1_4_ free
-flow_(FR_Balance,CH_Balance),2030,4,5_8_ free
-flow_(FR_Balance,CH_Balance),2030,4,9_12_ free
-flow_(FR_Balance,CH_Balance),2030,4,13_16_ free
-flow_(FR_Balance,CH_Balance),2030,4,17_20_ free
-flow_(FR_Balance,CH_Balance),2030,4,21_24_ free
 flow_(FR_Balance,UK_Balance),2030,4,1_4_ free
 flow_(FR_Balance,UK_Balance),2030,4,5_8_ free
 flow_(FR_Balance,UK_Balance),2030,4,9_12_ free
 flow_(FR_Balance,UK_Balance),2030,4,13_16_ free
 flow_(FR_Balance,UK_Balance),2030,4,17_20_ free
 flow_(FR_Balance,UK_Balance),2030,4,21_24_ free
+flow_(FR_Balance,CH_Balance),2030,4,1_4_ free
+flow_(FR_Balance,CH_Balance),2030,4,5_8_ free
+flow_(FR_Balance,CH_Balance),2030,4,9_12_ free
+flow_(FR_Balance,CH_Balance),2030,4,13_16_ free
+flow_(FR_Balance,CH_Balance),2030,4,17_20_ free
+flow_(FR_Balance,CH_Balance),2030,4,21_24_ free
 flow_(NL_Wind_Onshore,NL_Balance),2030,4,1_4_ >= 0
 flow_(NL_Wind_Onshore,NL_Balance),2030,4,5_8_ >= 0
 flow_(NL_Wind_Onshore,NL_Balance),2030,4,9_12_ >= 0
@@ -21530,54 +20690,54 @@ flow_(UK_Balance,UK_Battery),2030,5,9_12_ >= 0
 flow_(UK_Balance,UK_Battery),2030,5,13_16_ >= 0
 flow_(UK_Balance,UK_Battery),2030,5,17_20_ >= 0
 flow_(UK_Balance,UK_Battery),2030,5,21_24_ >= 0
-flow_(NL_Balance,BE_Balance),2030,5,1_4_ free
-flow_(NL_Balance,BE_Balance),2030,5,5_8_ free
-flow_(NL_Balance,BE_Balance),2030,5,9_12_ free
-flow_(NL_Balance,BE_Balance),2030,5,13_16_ free
-flow_(NL_Balance,BE_Balance),2030,5,17_20_ free
-flow_(NL_Balance,BE_Balance),2030,5,21_24_ free
 flow_(NL_Balance,UK_Balance),2030,5,1_4_ free
 flow_(NL_Balance,UK_Balance),2030,5,5_8_ free
 flow_(NL_Balance,UK_Balance),2030,5,9_12_ free
 flow_(NL_Balance,UK_Balance),2030,5,13_16_ free
 flow_(NL_Balance,UK_Balance),2030,5,17_20_ free
 flow_(NL_Balance,UK_Balance),2030,5,21_24_ free
-flow_(BE_Balance,DE_Balance),2030,5,1_4_ free
-flow_(BE_Balance,DE_Balance),2030,5,5_8_ free
-flow_(BE_Balance,DE_Balance),2030,5,9_12_ free
-flow_(BE_Balance,DE_Balance),2030,5,13_16_ free
-flow_(BE_Balance,DE_Balance),2030,5,17_20_ free
-flow_(BE_Balance,DE_Balance),2030,5,21_24_ free
+flow_(NL_Balance,BE_Balance),2030,5,1_4_ free
+flow_(NL_Balance,BE_Balance),2030,5,5_8_ free
+flow_(NL_Balance,BE_Balance),2030,5,9_12_ free
+flow_(NL_Balance,BE_Balance),2030,5,13_16_ free
+flow_(NL_Balance,BE_Balance),2030,5,17_20_ free
+flow_(NL_Balance,BE_Balance),2030,5,21_24_ free
 flow_(BE_Balance,LU_Balance),2030,5,1_4_ free
 flow_(BE_Balance,LU_Balance),2030,5,5_8_ free
 flow_(BE_Balance,LU_Balance),2030,5,9_12_ free
 flow_(BE_Balance,LU_Balance),2030,5,13_16_ free
 flow_(BE_Balance,LU_Balance),2030,5,17_20_ free
 flow_(BE_Balance,LU_Balance),2030,5,21_24_ free
-flow_(BE_Balance,FR_Balance),2030,5,1_4_ free
-flow_(BE_Balance,FR_Balance),2030,5,5_8_ free
-flow_(BE_Balance,FR_Balance),2030,5,9_12_ free
-flow_(BE_Balance,FR_Balance),2030,5,13_16_ free
-flow_(BE_Balance,FR_Balance),2030,5,17_20_ free
-flow_(BE_Balance,FR_Balance),2030,5,21_24_ free
+flow_(BE_Balance,DE_Balance),2030,5,1_4_ free
+flow_(BE_Balance,DE_Balance),2030,5,5_8_ free
+flow_(BE_Balance,DE_Balance),2030,5,9_12_ free
+flow_(BE_Balance,DE_Balance),2030,5,13_16_ free
+flow_(BE_Balance,DE_Balance),2030,5,17_20_ free
+flow_(BE_Balance,DE_Balance),2030,5,21_24_ free
 flow_(BE_Balance,UK_Balance),2030,5,1_4_ free
 flow_(BE_Balance,UK_Balance),2030,5,5_8_ free
 flow_(BE_Balance,UK_Balance),2030,5,9_12_ free
 flow_(BE_Balance,UK_Balance),2030,5,13_16_ free
 flow_(BE_Balance,UK_Balance),2030,5,17_20_ free
 flow_(BE_Balance,UK_Balance),2030,5,21_24_ free
-flow_(DE_Balance,CH_Balance),2030,5,1_4_ free
-flow_(DE_Balance,CH_Balance),2030,5,5_8_ free
-flow_(DE_Balance,CH_Balance),2030,5,9_12_ free
-flow_(DE_Balance,CH_Balance),2030,5,13_16_ free
-flow_(DE_Balance,CH_Balance),2030,5,17_20_ free
-flow_(DE_Balance,CH_Balance),2030,5,21_24_ free
+flow_(BE_Balance,FR_Balance),2030,5,1_4_ free
+flow_(BE_Balance,FR_Balance),2030,5,5_8_ free
+flow_(BE_Balance,FR_Balance),2030,5,9_12_ free
+flow_(BE_Balance,FR_Balance),2030,5,13_16_ free
+flow_(BE_Balance,FR_Balance),2030,5,17_20_ free
+flow_(BE_Balance,FR_Balance),2030,5,21_24_ free
 flow_(DE_Balance,LU_Balance),2030,5,1_4_ free
 flow_(DE_Balance,LU_Balance),2030,5,5_8_ free
 flow_(DE_Balance,LU_Balance),2030,5,9_12_ free
 flow_(DE_Balance,LU_Balance),2030,5,13_16_ free
 flow_(DE_Balance,LU_Balance),2030,5,17_20_ free
 flow_(DE_Balance,LU_Balance),2030,5,21_24_ free
+flow_(DE_Balance,CH_Balance),2030,5,1_4_ free
+flow_(DE_Balance,CH_Balance),2030,5,5_8_ free
+flow_(DE_Balance,CH_Balance),2030,5,9_12_ free
+flow_(DE_Balance,CH_Balance),2030,5,13_16_ free
+flow_(DE_Balance,CH_Balance),2030,5,17_20_ free
+flow_(DE_Balance,CH_Balance),2030,5,21_24_ free
 flow_(DE_Balance,FR_Balance),2030,5,1_4_ free
 flow_(DE_Balance,FR_Balance),2030,5,5_8_ free
 flow_(DE_Balance,FR_Balance),2030,5,9_12_ free
@@ -22046,30 +21206,30 @@ flow_(NL_Balance,BE_Balance),2030,6,9_12_ free
 flow_(NL_Balance,BE_Balance),2030,6,13_16_ free
 flow_(NL_Balance,BE_Balance),2030,6,17_20_ free
 flow_(NL_Balance,BE_Balance),2030,6,21_24_ free
-flow_(BE_Balance,DE_Balance),2030,6,1_4_ free
-flow_(BE_Balance,DE_Balance),2030,6,5_8_ free
-flow_(BE_Balance,DE_Balance),2030,6,9_12_ free
-flow_(BE_Balance,DE_Balance),2030,6,13_16_ free
-flow_(BE_Balance,DE_Balance),2030,6,17_20_ free
-flow_(BE_Balance,DE_Balance),2030,6,21_24_ free
 flow_(BE_Balance,LU_Balance),2030,6,1_4_ free
 flow_(BE_Balance,LU_Balance),2030,6,5_8_ free
 flow_(BE_Balance,LU_Balance),2030,6,9_12_ free
 flow_(BE_Balance,LU_Balance),2030,6,13_16_ free
 flow_(BE_Balance,LU_Balance),2030,6,17_20_ free
 flow_(BE_Balance,LU_Balance),2030,6,21_24_ free
-flow_(BE_Balance,FR_Balance),2030,6,1_4_ free
-flow_(BE_Balance,FR_Balance),2030,6,5_8_ free
-flow_(BE_Balance,FR_Balance),2030,6,9_12_ free
-flow_(BE_Balance,FR_Balance),2030,6,13_16_ free
-flow_(BE_Balance,FR_Balance),2030,6,17_20_ free
-flow_(BE_Balance,FR_Balance),2030,6,21_24_ free
+flow_(BE_Balance,DE_Balance),2030,6,1_4_ free
+flow_(BE_Balance,DE_Balance),2030,6,5_8_ free
+flow_(BE_Balance,DE_Balance),2030,6,9_12_ free
+flow_(BE_Balance,DE_Balance),2030,6,13_16_ free
+flow_(BE_Balance,DE_Balance),2030,6,17_20_ free
+flow_(BE_Balance,DE_Balance),2030,6,21_24_ free
 flow_(BE_Balance,UK_Balance),2030,6,1_4_ free
 flow_(BE_Balance,UK_Balance),2030,6,5_8_ free
 flow_(BE_Balance,UK_Balance),2030,6,9_12_ free
 flow_(BE_Balance,UK_Balance),2030,6,13_16_ free
 flow_(BE_Balance,UK_Balance),2030,6,17_20_ free
 flow_(BE_Balance,UK_Balance),2030,6,21_24_ free
+flow_(BE_Balance,FR_Balance),2030,6,1_4_ free
+flow_(BE_Balance,FR_Balance),2030,6,5_8_ free
+flow_(BE_Balance,FR_Balance),2030,6,9_12_ free
+flow_(BE_Balance,FR_Balance),2030,6,13_16_ free
+flow_(BE_Balance,FR_Balance),2030,6,17_20_ free
+flow_(BE_Balance,FR_Balance),2030,6,21_24_ free
 flow_(DE_Balance,LU_Balance),2030,6,1_4_ free
 flow_(DE_Balance,LU_Balance),2030,6,5_8_ free
 flow_(DE_Balance,LU_Balance),2030,6,9_12_ free
@@ -22082,6 +21242,12 @@ flow_(DE_Balance,FR_Balance),2030,6,9_12_ free
 flow_(DE_Balance,FR_Balance),2030,6,13_16_ free
 flow_(DE_Balance,FR_Balance),2030,6,17_20_ free
 flow_(DE_Balance,FR_Balance),2030,6,21_24_ free
+flow_(FR_Balance,UK_Balance),2030,6,1_4_ free
+flow_(FR_Balance,UK_Balance),2030,6,5_8_ free
+flow_(FR_Balance,UK_Balance),2030,6,9_12_ free
+flow_(FR_Balance,UK_Balance),2030,6,13_16_ free
+flow_(FR_Balance,UK_Balance),2030,6,17_20_ free
+flow_(FR_Balance,UK_Balance),2030,6,21_24_ free
 flow_(FR_Balance,CH_Balance),2030,6,1_4_ free
 flow_(FR_Balance,CH_Balance),2030,6,5_8_ free
 flow_(FR_Balance,CH_Balance),2030,6,9_12_ free
@@ -22094,12 +21260,6 @@ flow_(FR_Balance,LU_Balance),2030,6,9_12_ free
 flow_(FR_Balance,LU_Balance),2030,6,13_16_ free
 flow_(FR_Balance,LU_Balance),2030,6,17_20_ free
 flow_(FR_Balance,LU_Balance),2030,6,21_24_ free
-flow_(FR_Balance,UK_Balance),2030,6,1_4_ free
-flow_(FR_Balance,UK_Balance),2030,6,5_8_ free
-flow_(FR_Balance,UK_Balance),2030,6,9_12_ free
-flow_(FR_Balance,UK_Balance),2030,6,13_16_ free
-flow_(FR_Balance,UK_Balance),2030,6,17_20_ free
-flow_(FR_Balance,UK_Balance),2030,6,21_24_ free
 flow_(CH_Battery,CH_Balance),2030,6,1_4_ >= 0
 flow_(CH_Battery,CH_Balance),2030,6,5_8_ >= 0
 flow_(CH_Battery,CH_Balance),2030,6,9_12_ >= 0
@@ -22514,18 +21674,18 @@ flow_(NL_Balance,DE_Balance),2030,7,9_12_ free
 flow_(NL_Balance,DE_Balance),2030,7,13_16_ free
 flow_(NL_Balance,DE_Balance),2030,7,17_20_ free
 flow_(NL_Balance,DE_Balance),2030,7,21_24_ free
-flow_(NL_Balance,BE_Balance),2030,7,1_4_ free
-flow_(NL_Balance,BE_Balance),2030,7,5_8_ free
-flow_(NL_Balance,BE_Balance),2030,7,9_12_ free
-flow_(NL_Balance,BE_Balance),2030,7,13_16_ free
-flow_(NL_Balance,BE_Balance),2030,7,17_20_ free
-flow_(NL_Balance,BE_Balance),2030,7,21_24_ free
 flow_(NL_Balance,UK_Balance),2030,7,1_4_ free
 flow_(NL_Balance,UK_Balance),2030,7,5_8_ free
 flow_(NL_Balance,UK_Balance),2030,7,9_12_ free
 flow_(NL_Balance,UK_Balance),2030,7,13_16_ free
 flow_(NL_Balance,UK_Balance),2030,7,17_20_ free
 flow_(NL_Balance,UK_Balance),2030,7,21_24_ free
+flow_(NL_Balance,BE_Balance),2030,7,1_4_ free
+flow_(NL_Balance,BE_Balance),2030,7,5_8_ free
+flow_(NL_Balance,BE_Balance),2030,7,9_12_ free
+flow_(NL_Balance,BE_Balance),2030,7,13_16_ free
+flow_(NL_Balance,BE_Balance),2030,7,17_20_ free
+flow_(NL_Balance,BE_Balance),2030,7,21_24_ free
 flow_(BE_Balance,DE_Balance),2030,7,1_4_ free
 flow_(BE_Balance,DE_Balance),2030,7,5_8_ free
 flow_(BE_Balance,DE_Balance),2030,7,9_12_ free
@@ -22538,24 +21698,30 @@ flow_(BE_Balance,FR_Balance),2030,7,9_12_ free
 flow_(BE_Balance,FR_Balance),2030,7,13_16_ free
 flow_(BE_Balance,FR_Balance),2030,7,17_20_ free
 flow_(BE_Balance,FR_Balance),2030,7,21_24_ free
-flow_(DE_Balance,CH_Balance),2030,7,1_4_ free
-flow_(DE_Balance,CH_Balance),2030,7,5_8_ free
-flow_(DE_Balance,CH_Balance),2030,7,9_12_ free
-flow_(DE_Balance,CH_Balance),2030,7,13_16_ free
-flow_(DE_Balance,CH_Balance),2030,7,17_20_ free
-flow_(DE_Balance,CH_Balance),2030,7,21_24_ free
 flow_(DE_Balance,LU_Balance),2030,7,1_4_ free
 flow_(DE_Balance,LU_Balance),2030,7,5_8_ free
 flow_(DE_Balance,LU_Balance),2030,7,9_12_ free
 flow_(DE_Balance,LU_Balance),2030,7,13_16_ free
 flow_(DE_Balance,LU_Balance),2030,7,17_20_ free
 flow_(DE_Balance,LU_Balance),2030,7,21_24_ free
+flow_(DE_Balance,CH_Balance),2030,7,1_4_ free
+flow_(DE_Balance,CH_Balance),2030,7,5_8_ free
+flow_(DE_Balance,CH_Balance),2030,7,9_12_ free
+flow_(DE_Balance,CH_Balance),2030,7,13_16_ free
+flow_(DE_Balance,CH_Balance),2030,7,17_20_ free
+flow_(DE_Balance,CH_Balance),2030,7,21_24_ free
 flow_(DE_Balance,FR_Balance),2030,7,1_4_ free
 flow_(DE_Balance,FR_Balance),2030,7,5_8_ free
 flow_(DE_Balance,FR_Balance),2030,7,9_12_ free
 flow_(DE_Balance,FR_Balance),2030,7,13_16_ free
 flow_(DE_Balance,FR_Balance),2030,7,17_20_ free
 flow_(DE_Balance,FR_Balance),2030,7,21_24_ free
+flow_(FR_Balance,UK_Balance),2030,7,1_4_ free
+flow_(FR_Balance,UK_Balance),2030,7,5_8_ free
+flow_(FR_Balance,UK_Balance),2030,7,9_12_ free
+flow_(FR_Balance,UK_Balance),2030,7,13_16_ free
+flow_(FR_Balance,UK_Balance),2030,7,17_20_ free
+flow_(FR_Balance,UK_Balance),2030,7,21_24_ free
 flow_(FR_Balance,CH_Balance),2030,7,1_4_ free
 flow_(FR_Balance,CH_Balance),2030,7,5_8_ free
 flow_(FR_Balance,CH_Balance),2030,7,9_12_ free
@@ -22568,12 +21734,6 @@ flow_(FR_Balance,LU_Balance),2030,7,9_12_ free
 flow_(FR_Balance,LU_Balance),2030,7,13_16_ free
 flow_(FR_Balance,LU_Balance),2030,7,17_20_ free
 flow_(FR_Balance,LU_Balance),2030,7,21_24_ free
-flow_(FR_Balance,UK_Balance),2030,7,1_4_ free
-flow_(FR_Balance,UK_Balance),2030,7,5_8_ free
-flow_(FR_Balance,UK_Balance),2030,7,9_12_ free
-flow_(FR_Balance,UK_Balance),2030,7,13_16_ free
-flow_(FR_Balance,UK_Balance),2030,7,17_20_ free
-flow_(FR_Balance,UK_Balance),2030,7,21_24_ free
 flow_(NL_Solar,NL_Balance),2030,7,1_4_ >= 0
 flow_(NL_Solar,NL_Balance),2030,7,5_8_ >= 0
 flow_(NL_Solar,NL_Balance),2030,7,9_12_ >= 0
@@ -23036,30 +22196,30 @@ flow_(NL_Balance,BE_Balance),2030,8,9_12_ free
 flow_(NL_Balance,BE_Balance),2030,8,13_16_ free
 flow_(NL_Balance,BE_Balance),2030,8,17_20_ free
 flow_(NL_Balance,BE_Balance),2030,8,21_24_ free
-flow_(BE_Balance,DE_Balance),2030,8,1_4_ free
-flow_(BE_Balance,DE_Balance),2030,8,5_8_ free
-flow_(BE_Balance,DE_Balance),2030,8,9_12_ free
-flow_(BE_Balance,DE_Balance),2030,8,13_16_ free
-flow_(BE_Balance,DE_Balance),2030,8,17_20_ free
-flow_(BE_Balance,DE_Balance),2030,8,21_24_ free
 flow_(BE_Balance,LU_Balance),2030,8,1_4_ free
 flow_(BE_Balance,LU_Balance),2030,8,5_8_ free
 flow_(BE_Balance,LU_Balance),2030,8,9_12_ free
 flow_(BE_Balance,LU_Balance),2030,8,13_16_ free
 flow_(BE_Balance,LU_Balance),2030,8,17_20_ free
 flow_(BE_Balance,LU_Balance),2030,8,21_24_ free
-flow_(BE_Balance,FR_Balance),2030,8,1_4_ free
-flow_(BE_Balance,FR_Balance),2030,8,5_8_ free
-flow_(BE_Balance,FR_Balance),2030,8,9_12_ free
-flow_(BE_Balance,FR_Balance),2030,8,13_16_ free
-flow_(BE_Balance,FR_Balance),2030,8,17_20_ free
-flow_(BE_Balance,FR_Balance),2030,8,21_24_ free
+flow_(BE_Balance,DE_Balance),2030,8,1_4_ free
+flow_(BE_Balance,DE_Balance),2030,8,5_8_ free
+flow_(BE_Balance,DE_Balance),2030,8,9_12_ free
+flow_(BE_Balance,DE_Balance),2030,8,13_16_ free
+flow_(BE_Balance,DE_Balance),2030,8,17_20_ free
+flow_(BE_Balance,DE_Balance),2030,8,21_24_ free
 flow_(BE_Balance,UK_Balance),2030,8,1_4_ free
 flow_(BE_Balance,UK_Balance),2030,8,5_8_ free
 flow_(BE_Balance,UK_Balance),2030,8,9_12_ free
 flow_(BE_Balance,UK_Balance),2030,8,13_16_ free
 flow_(BE_Balance,UK_Balance),2030,8,17_20_ free
 flow_(BE_Balance,UK_Balance),2030,8,21_24_ free
+flow_(BE_Balance,FR_Balance),2030,8,1_4_ free
+flow_(BE_Balance,FR_Balance),2030,8,5_8_ free
+flow_(BE_Balance,FR_Balance),2030,8,9_12_ free
+flow_(BE_Balance,FR_Balance),2030,8,13_16_ free
+flow_(BE_Balance,FR_Balance),2030,8,17_20_ free
+flow_(BE_Balance,FR_Balance),2030,8,21_24_ free
 flow_(DE_Balance,LU_Balance),2030,8,1_4_ free
 flow_(DE_Balance,LU_Balance),2030,8,5_8_ free
 flow_(DE_Balance,LU_Balance),2030,8,9_12_ free
@@ -23072,6 +22232,12 @@ flow_(DE_Balance,FR_Balance),2030,8,9_12_ free
 flow_(DE_Balance,FR_Balance),2030,8,13_16_ free
 flow_(DE_Balance,FR_Balance),2030,8,17_20_ free
 flow_(DE_Balance,FR_Balance),2030,8,21_24_ free
+flow_(FR_Balance,UK_Balance),2030,8,1_4_ free
+flow_(FR_Balance,UK_Balance),2030,8,5_8_ free
+flow_(FR_Balance,UK_Balance),2030,8,9_12_ free
+flow_(FR_Balance,UK_Balance),2030,8,13_16_ free
+flow_(FR_Balance,UK_Balance),2030,8,17_20_ free
+flow_(FR_Balance,UK_Balance),2030,8,21_24_ free
 flow_(FR_Balance,CH_Balance),2030,8,1_4_ free
 flow_(FR_Balance,CH_Balance),2030,8,5_8_ free
 flow_(FR_Balance,CH_Balance),2030,8,9_12_ free
@@ -23084,12 +22250,6 @@ flow_(FR_Balance,LU_Balance),2030,8,9_12_ free
 flow_(FR_Balance,LU_Balance),2030,8,13_16_ free
 flow_(FR_Balance,LU_Balance),2030,8,17_20_ free
 flow_(FR_Balance,LU_Balance),2030,8,21_24_ free
-flow_(FR_Balance,UK_Balance),2030,8,1_4_ free
-flow_(FR_Balance,UK_Balance),2030,8,5_8_ free
-flow_(FR_Balance,UK_Balance),2030,8,9_12_ free
-flow_(FR_Balance,UK_Balance),2030,8,13_16_ free
-flow_(FR_Balance,UK_Balance),2030,8,17_20_ free
-flow_(FR_Balance,UK_Balance),2030,8,21_24_ free
 flow_(BE_Nuclear,BE_Balance),2030,8,1_4_ >= 0
 flow_(BE_Nuclear,BE_Balance),2030,8,5_8_ >= 0
 flow_(BE_Nuclear,BE_Balance),2030,8,9_12_ >= 0
@@ -23486,48 +22646,48 @@ flow_(NL_Balance,DE_Balance),2030,9,9_12_ free
 flow_(NL_Balance,DE_Balance),2030,9,13_16_ free
 flow_(NL_Balance,DE_Balance),2030,9,17_20_ free
 flow_(NL_Balance,DE_Balance),2030,9,21_24_ free
-flow_(NL_Balance,BE_Balance),2030,9,1_4_ free
-flow_(NL_Balance,BE_Balance),2030,9,5_8_ free
-flow_(NL_Balance,BE_Balance),2030,9,9_12_ free
-flow_(NL_Balance,BE_Balance),2030,9,13_16_ free
-flow_(NL_Balance,BE_Balance),2030,9,17_20_ free
-flow_(NL_Balance,BE_Balance),2030,9,21_24_ free
 flow_(NL_Balance,UK_Balance),2030,9,1_4_ free
 flow_(NL_Balance,UK_Balance),2030,9,5_8_ free
 flow_(NL_Balance,UK_Balance),2030,9,9_12_ free
 flow_(NL_Balance,UK_Balance),2030,9,13_16_ free
 flow_(NL_Balance,UK_Balance),2030,9,17_20_ free
 flow_(NL_Balance,UK_Balance),2030,9,21_24_ free
+flow_(NL_Balance,BE_Balance),2030,9,1_4_ free
+flow_(NL_Balance,BE_Balance),2030,9,5_8_ free
+flow_(NL_Balance,BE_Balance),2030,9,9_12_ free
+flow_(NL_Balance,BE_Balance),2030,9,13_16_ free
+flow_(NL_Balance,BE_Balance),2030,9,17_20_ free
+flow_(NL_Balance,BE_Balance),2030,9,21_24_ free
 flow_(BE_Balance,DE_Balance),2030,9,1_4_ free
 flow_(BE_Balance,DE_Balance),2030,9,5_8_ free
 flow_(BE_Balance,DE_Balance),2030,9,9_12_ free
 flow_(BE_Balance,DE_Balance),2030,9,13_16_ free
 flow_(BE_Balance,DE_Balance),2030,9,17_20_ free
 flow_(BE_Balance,DE_Balance),2030,9,21_24_ free
-flow_(BE_Balance,FR_Balance),2030,9,1_4_ free
-flow_(BE_Balance,FR_Balance),2030,9,5_8_ free
-flow_(BE_Balance,FR_Balance),2030,9,9_12_ free
-flow_(BE_Balance,FR_Balance),2030,9,13_16_ free
-flow_(BE_Balance,FR_Balance),2030,9,17_20_ free
-flow_(BE_Balance,FR_Balance),2030,9,21_24_ free
 flow_(BE_Balance,UK_Balance),2030,9,1_4_ free
 flow_(BE_Balance,UK_Balance),2030,9,5_8_ free
 flow_(BE_Balance,UK_Balance),2030,9,9_12_ free
 flow_(BE_Balance,UK_Balance),2030,9,13_16_ free
 flow_(BE_Balance,UK_Balance),2030,9,17_20_ free
 flow_(BE_Balance,UK_Balance),2030,9,21_24_ free
-flow_(DE_Balance,CH_Balance),2030,9,1_4_ free
-flow_(DE_Balance,CH_Balance),2030,9,5_8_ free
-flow_(DE_Balance,CH_Balance),2030,9,9_12_ free
-flow_(DE_Balance,CH_Balance),2030,9,13_16_ free
-flow_(DE_Balance,CH_Balance),2030,9,17_20_ free
-flow_(DE_Balance,CH_Balance),2030,9,21_24_ free
+flow_(BE_Balance,FR_Balance),2030,9,1_4_ free
+flow_(BE_Balance,FR_Balance),2030,9,5_8_ free
+flow_(BE_Balance,FR_Balance),2030,9,9_12_ free
+flow_(BE_Balance,FR_Balance),2030,9,13_16_ free
+flow_(BE_Balance,FR_Balance),2030,9,17_20_ free
+flow_(BE_Balance,FR_Balance),2030,9,21_24_ free
 flow_(DE_Balance,LU_Balance),2030,9,1_4_ free
 flow_(DE_Balance,LU_Balance),2030,9,5_8_ free
 flow_(DE_Balance,LU_Balance),2030,9,9_12_ free
 flow_(DE_Balance,LU_Balance),2030,9,13_16_ free
 flow_(DE_Balance,LU_Balance),2030,9,17_20_ free
 flow_(DE_Balance,LU_Balance),2030,9,21_24_ free
+flow_(DE_Balance,CH_Balance),2030,9,1_4_ free
+flow_(DE_Balance,CH_Balance),2030,9,5_8_ free
+flow_(DE_Balance,CH_Balance),2030,9,9_12_ free
+flow_(DE_Balance,CH_Balance),2030,9,13_16_ free
+flow_(DE_Balance,CH_Balance),2030,9,17_20_ free
+flow_(DE_Balance,CH_Balance),2030,9,21_24_ free
 flow_(FR_Balance,CH_Balance),2030,9,1_4_ free
 flow_(FR_Balance,CH_Balance),2030,9,5_8_ free
 flow_(FR_Balance,CH_Balance),2030,9,9_12_ free
@@ -23960,36 +23120,36 @@ flow_(NL_Balance,DE_Balance),2030,10,9_12_ free
 flow_(NL_Balance,DE_Balance),2030,10,13_16_ free
 flow_(NL_Balance,DE_Balance),2030,10,17_20_ free
 flow_(NL_Balance,DE_Balance),2030,10,21_24_ free
-flow_(NL_Balance,BE_Balance),2030,10,1_4_ free
-flow_(NL_Balance,BE_Balance),2030,10,5_8_ free
-flow_(NL_Balance,BE_Balance),2030,10,9_12_ free
-flow_(NL_Balance,BE_Balance),2030,10,13_16_ free
-flow_(NL_Balance,BE_Balance),2030,10,17_20_ free
-flow_(NL_Balance,BE_Balance),2030,10,21_24_ free
 flow_(NL_Balance,UK_Balance),2030,10,1_4_ free
 flow_(NL_Balance,UK_Balance),2030,10,5_8_ free
 flow_(NL_Balance,UK_Balance),2030,10,9_12_ free
 flow_(NL_Balance,UK_Balance),2030,10,13_16_ free
 flow_(NL_Balance,UK_Balance),2030,10,17_20_ free
 flow_(NL_Balance,UK_Balance),2030,10,21_24_ free
+flow_(NL_Balance,BE_Balance),2030,10,1_4_ free
+flow_(NL_Balance,BE_Balance),2030,10,5_8_ free
+flow_(NL_Balance,BE_Balance),2030,10,9_12_ free
+flow_(NL_Balance,BE_Balance),2030,10,13_16_ free
+flow_(NL_Balance,BE_Balance),2030,10,17_20_ free
+flow_(NL_Balance,BE_Balance),2030,10,21_24_ free
 flow_(BE_Balance,UK_Balance),2030,10,1_4_ free
 flow_(BE_Balance,UK_Balance),2030,10,5_8_ free
 flow_(BE_Balance,UK_Balance),2030,10,9_12_ free
 flow_(BE_Balance,UK_Balance),2030,10,13_16_ free
 flow_(BE_Balance,UK_Balance),2030,10,17_20_ free
 flow_(BE_Balance,UK_Balance),2030,10,21_24_ free
-flow_(DE_Balance,CH_Balance),2030,10,1_4_ free
-flow_(DE_Balance,CH_Balance),2030,10,5_8_ free
-flow_(DE_Balance,CH_Balance),2030,10,9_12_ free
-flow_(DE_Balance,CH_Balance),2030,10,13_16_ free
-flow_(DE_Balance,CH_Balance),2030,10,17_20_ free
-flow_(DE_Balance,CH_Balance),2030,10,21_24_ free
 flow_(DE_Balance,LU_Balance),2030,10,1_4_ free
 flow_(DE_Balance,LU_Balance),2030,10,5_8_ free
 flow_(DE_Balance,LU_Balance),2030,10,9_12_ free
 flow_(DE_Balance,LU_Balance),2030,10,13_16_ free
 flow_(DE_Balance,LU_Balance),2030,10,17_20_ free
 flow_(DE_Balance,LU_Balance),2030,10,21_24_ free
+flow_(DE_Balance,CH_Balance),2030,10,1_4_ free
+flow_(DE_Balance,CH_Balance),2030,10,5_8_ free
+flow_(DE_Balance,CH_Balance),2030,10,9_12_ free
+flow_(DE_Balance,CH_Balance),2030,10,13_16_ free
+flow_(DE_Balance,CH_Balance),2030,10,17_20_ free
+flow_(DE_Balance,CH_Balance),2030,10,21_24_ free
 flow_(DE_Balance,FR_Balance),2030,10,1_4_ free
 flow_(DE_Balance,FR_Balance),2030,10,5_8_ free
 flow_(DE_Balance,FR_Balance),2030,10,9_12_ free
@@ -24182,30 +23342,30 @@ flow_(BE_Balance,BE_E_Demand),2030,10,9_12_ free
 flow_(BE_Balance,BE_E_Demand),2030,10,13_16_ free
 flow_(BE_Balance,BE_E_Demand),2030,10,17_20_ free
 flow_(BE_Balance,BE_E_Demand),2030,10,21_24_ free
-assets_investment_2030,NL_Solar_ = 389
-assets_investment_2030,NL_Wind_Onshore_ = 383
+assets_investment_2030,NL_Solar_ = 399
+assets_investment_2030,NL_Wind_Onshore_ = 390
 assets_investment_2030,NL_Wind_Offshore_ = 0
-assets_investment_2030,NL_Coal_ = 6
+assets_investment_2030,NL_Coal_ = 5
 assets_investment_2030,NL_Nuclear_ = 0
-assets_investment_2030,NL_CCGT_ = 13
+assets_investment_2030,NL_CCGT_ = 15
 assets_investment_2030,NL_OCGT_ = 3
 assets_investment_2030,NL_Battery_ >= 0
-assets_investment_2030,BE_Solar_ = 432
-assets_investment_2030,BE_Wind_Onshore_ = 413
+assets_investment_2030,BE_Solar_ = 427
+assets_investment_2030,BE_Wind_Onshore_ = 416
 assets_investment_2030,BE_Coal_ = 0
 assets_investment_2030,BE_Nuclear_ = 0
 assets_investment_2030,BE_CCGT_ = 0
 assets_investment_2030,BE_OCGT_ = 0
 assets_investment_2030,BE_Battery_ >= 0
-assets_investment_2030,DE_Solar_ = 4286
-assets_investment_2030,DE_Wind_Onshore_ = 4060
+assets_investment_2030,DE_Solar_ = 4284
+assets_investment_2030,DE_Wind_Onshore_ = 4061
 assets_investment_2030,DE_Wind_Offshore_ = 0
 assets_investment_2030,DE_Coal_ = 8
 assets_investment_2030,DE_Nuclear_ = 0
 assets_investment_2030,DE_CCGT_ = 4
 assets_investment_2030,DE_OCGT_ = 0
 assets_investment_2030,DE_Battery_ >= 0
-assets_investment_2030,FR_Solar_ = 2239
+assets_investment_2030,FR_Solar_ = 2249
 assets_investment_2030,FR_Wind_Onshore_ = 2435
 assets_investment_2030,FR_Wind_Offshore_ = 0
 assets_investment_2030,FR_Coal_ = 0
@@ -24221,14 +23381,14 @@ assets_investment_2030,LU_Nuclear_ = 0
 assets_investment_2030,LU_CCGT_ = 0
 assets_investment_2030,LU_OCGT_ = 0
 assets_investment_2030,LU_Battery_ >= 0
-assets_investment_2030,CH_Solar_ = 620
+assets_investment_2030,CH_Solar_ = 612
 assets_investment_2030,CH_Wind_Onshore_ = 331
 assets_investment_2030,CH_Wind_Offshore_ = 0
 assets_investment_2030,CH_Coal_ = 0
 assets_investment_2030,CH_Nuclear_ = 0
 assets_investment_2030,CH_OCGT_ = 0
 assets_investment_2030,UK_Solar_ = 0
-assets_investment_2030,UK_Wind_Onshore_ = 1522
+assets_investment_2030,UK_Wind_Onshore_ = 1521
 assets_investment_2030,UK_Coal_ = 3
 assets_investment_2030,UK_Nuclear_ = 0
 assets_investment_2030,UK_CCGT_ = 22
@@ -24486,11 +23646,11 @@ units_on_BE_OCGT,2030,10,13_16_ = 0
 units_on_BE_OCGT,2030,10,17_20_ = 0
 units_on_BE_OCGT,2030,10,21_24_ = 0
 units_on_CH_CCGT,2030,1,1_4_ = 8
-units_on_CH_CCGT,2030,1,5_8_ = 8
+units_on_CH_CCGT,2030,1,5_8_ = 7
 units_on_CH_CCGT,2030,1,9_12_ = 0
 units_on_CH_CCGT,2030,1,13_16_ = 0
 units_on_CH_CCGT,2030,1,17_20_ = 0
-units_on_CH_CCGT,2030,1,21_24_ = 8
+units_on_CH_CCGT,2030,1,21_24_ = 7
 units_on_CH_CCGT,2030,2,1_4_ = 0
 units_on_CH_CCGT,2030,2,5_8_ = 0
 units_on_CH_CCGT,2030,2,9_12_ = 0
@@ -24499,12 +23659,12 @@ units_on_CH_CCGT,2030,2,17_20_ = 0
 units_on_CH_CCGT,2030,2,21_24_ = 0
 units_on_CH_CCGT,2030,3,1_4_ = 8
 units_on_CH_CCGT,2030,3,5_8_ = 8
-units_on_CH_CCGT,2030,3,9_12_ = 8
-units_on_CH_CCGT,2030,3,13_16_ = 8
+units_on_CH_CCGT,2030,3,9_12_ = 6
+units_on_CH_CCGT,2030,3,13_16_ = 7
 units_on_CH_CCGT,2030,3,17_20_ = 8
 units_on_CH_CCGT,2030,3,21_24_ = 8
-units_on_CH_CCGT,2030,4,1_4_ = 0
-units_on_CH_CCGT,2030,4,5_8_ = 2
+units_on_CH_CCGT,2030,4,1_4_ = 1
+units_on_CH_CCGT,2030,4,5_8_ = 1
 units_on_CH_CCGT,2030,4,9_12_ = 0
 units_on_CH_CCGT,2030,4,13_16_ = 0
 units_on_CH_CCGT,2030,4,17_20_ = 0
@@ -24542,9 +23702,9 @@ units_on_CH_CCGT,2030,9,21_24_ = 0
 units_on_CH_CCGT,2030,10,1_4_ = 8
 units_on_CH_CCGT,2030,10,5_8_ = 7
 units_on_CH_CCGT,2030,10,9_12_ = 7
-units_on_CH_CCGT,2030,10,13_16_ = 7
+units_on_CH_CCGT,2030,10,13_16_ = 6
 units_on_CH_CCGT,2030,10,17_20_ = 7
-units_on_CH_CCGT,2030,10,21_24_ = 7
+units_on_CH_CCGT,2030,10,21_24_ = 6
 units_on_CH_Coal,2030,1,1_4_ = 0
 units_on_CH_Coal,2030,1,5_8_ = 0
 units_on_CH_Coal,2030,1,9_12_ = 0
@@ -24765,7 +23925,7 @@ units_on_DE_CCGT,2030,7,1_4_ = 0
 units_on_DE_CCGT,2030,7,5_8_ = 0
 units_on_DE_CCGT,2030,7,9_12_ = 0
 units_on_DE_CCGT,2030,7,13_16_ = 0
-units_on_DE_CCGT,2030,7,17_20_ = 0
+units_on_DE_CCGT,2030,7,17_20_ = 1
 units_on_DE_CCGT,2030,7,21_24_ = 0
 units_on_DE_CCGT,2030,8,1_4_ = 0
 units_on_DE_CCGT,2030,8,5_8_ = 0
@@ -24969,11 +24129,11 @@ units_on_FR_CCGT,2030,1,1_4_ = 0
 units_on_FR_CCGT,2030,1,5_8_ = 3
 units_on_FR_CCGT,2030,1,9_12_ = 3
 units_on_FR_CCGT,2030,1,13_16_ = 0
-units_on_FR_CCGT,2030,1,17_20_ = 2
+units_on_FR_CCGT,2030,1,17_20_ = 3
 units_on_FR_CCGT,2030,1,21_24_ = 3
 units_on_FR_CCGT,2030,2,1_4_ = 0
 units_on_FR_CCGT,2030,2,5_8_ = 0
-units_on_FR_CCGT,2030,2,9_12_ = 2
+units_on_FR_CCGT,2030,2,9_12_ = 3
 units_on_FR_CCGT,2030,2,13_16_ = 0
 units_on_FR_CCGT,2030,2,17_20_ = 0
 units_on_FR_CCGT,2030,2,21_24_ = 0
@@ -24997,7 +24157,7 @@ units_on_FR_CCGT,2030,5,17_20_ = 0
 units_on_FR_CCGT,2030,5,21_24_ = 0
 units_on_FR_CCGT,2030,6,1_4_ = 0
 units_on_FR_CCGT,2030,6,5_8_ = 0
-units_on_FR_CCGT,2030,6,9_12_ = 0
+units_on_FR_CCGT,2030,6,9_12_ = 2
 units_on_FR_CCGT,2030,6,13_16_ = 0
 units_on_FR_CCGT,2030,6,17_20_ = 0
 units_on_FR_CCGT,2030,6,21_24_ = 0
@@ -25149,7 +24309,7 @@ units_on_FR_OCGT,2030,1,1_4_ = 0
 units_on_FR_OCGT,2030,1,5_8_ = 4
 units_on_FR_OCGT,2030,1,9_12_ = 25
 units_on_FR_OCGT,2030,1,13_16_ = 0
-units_on_FR_OCGT,2030,1,17_20_ = 1
+units_on_FR_OCGT,2030,1,17_20_ = 0
 units_on_FR_OCGT,2030,1,21_24_ = 25
 units_on_FR_OCGT,2030,2,1_4_ = 0
 units_on_FR_OCGT,2030,2,5_8_ = 0
@@ -25181,7 +24341,7 @@ units_on_FR_OCGT,2030,6,9_12_ = 0
 units_on_FR_OCGT,2030,6,13_16_ = 0
 units_on_FR_OCGT,2030,6,17_20_ = 0
 units_on_FR_OCGT,2030,6,21_24_ = 0
-units_on_FR_OCGT,2030,7,1_4_ = 2
+units_on_FR_OCGT,2030,7,1_4_ = 3
 units_on_FR_OCGT,2030,7,5_8_ = 25
 units_on_FR_OCGT,2030,7,9_12_ = 25
 units_on_FR_OCGT,2030,7,13_16_ = 0
@@ -25201,7 +24361,7 @@ units_on_FR_OCGT,2030,9,17_20_ = 0
 units_on_FR_OCGT,2030,9,21_24_ = 0
 units_on_FR_OCGT,2030,10,1_4_ = 0
 units_on_FR_OCGT,2030,10,5_8_ = 0
-units_on_FR_OCGT,2030,10,9_12_ = 3
+units_on_FR_OCGT,2030,10,9_12_ = 1
 units_on_FR_OCGT,2030,10,13_16_ = 0
 units_on_FR_OCGT,2030,10,17_20_ = 25
 units_on_FR_OCGT,2030,10,21_24_ = 0
@@ -25306,7 +24466,7 @@ units_on_LU_Coal,2030,7,5_8_ = 4
 units_on_LU_Coal,2030,7,9_12_ = 4
 units_on_LU_Coal,2030,7,13_16_ = 4
 units_on_LU_Coal,2030,7,17_20_ = 4
-units_on_LU_Coal,2030,7,21_24_ = 2
+units_on_LU_Coal,2030,7,21_24_ = 4
 units_on_LU_Coal,2030,8,1_4_ = 0
 units_on_LU_Coal,2030,8,5_8_ = 0
 units_on_LU_Coal,2030,8,9_12_ = 0
@@ -25319,7 +24479,7 @@ units_on_LU_Coal,2030,9,9_12_ = 0
 units_on_LU_Coal,2030,9,13_16_ = 0
 units_on_LU_Coal,2030,9,17_20_ = 0
 units_on_LU_Coal,2030,9,21_24_ = 0
-units_on_LU_Coal,2030,10,1_4_ = 4
+units_on_LU_Coal,2030,10,1_4_ = 3
 units_on_LU_Coal,2030,10,5_8_ = 4
 units_on_LU_Coal,2030,10,9_12_ = 4
 units_on_LU_Coal,2030,10,13_16_ = 4
@@ -25447,15 +24607,15 @@ units_on_LU_OCGT,2030,10,17_20_ = 0
 units_on_LU_OCGT,2030,10,21_24_ = 0
 units_on_NL_CCGT,2030,1,1_4_ = 0
 units_on_NL_CCGT,2030,1,5_8_ = 0
-units_on_NL_CCGT,2030,1,9_12_ = 13
+units_on_NL_CCGT,2030,1,9_12_ = 15
 units_on_NL_CCGT,2030,1,13_16_ = 0
 units_on_NL_CCGT,2030,1,17_20_ = 0
 units_on_NL_CCGT,2030,1,21_24_ = 0
 units_on_NL_CCGT,2030,2,1_4_ = 0
 units_on_NL_CCGT,2030,2,5_8_ = 0
 units_on_NL_CCGT,2030,2,9_12_ = 0
-units_on_NL_CCGT,2030,2,13_16_ = 1
-units_on_NL_CCGT,2030,2,17_20_ = 0
+units_on_NL_CCGT,2030,2,13_16_ = 0
+units_on_NL_CCGT,2030,2,17_20_ = 3
 units_on_NL_CCGT,2030,2,21_24_ = 0
 units_on_NL_CCGT,2030,3,1_4_ = 0
 units_on_NL_CCGT,2030,3,5_8_ = 0
@@ -25481,12 +24641,12 @@ units_on_NL_CCGT,2030,6,9_12_ = 0
 units_on_NL_CCGT,2030,6,13_16_ = 0
 units_on_NL_CCGT,2030,6,17_20_ = 0
 units_on_NL_CCGT,2030,6,21_24_ = 0
-units_on_NL_CCGT,2030,7,1_4_ = 0
-units_on_NL_CCGT,2030,7,5_8_ = 12
-units_on_NL_CCGT,2030,7,9_12_ = 13
-units_on_NL_CCGT,2030,7,13_16_ = 13
-units_on_NL_CCGT,2030,7,17_20_ = 13
-units_on_NL_CCGT,2030,7,21_24_ = 5
+units_on_NL_CCGT,2030,7,1_4_ = 1
+units_on_NL_CCGT,2030,7,5_8_ = 15
+units_on_NL_CCGT,2030,7,9_12_ = 15
+units_on_NL_CCGT,2030,7,13_16_ = 15
+units_on_NL_CCGT,2030,7,17_20_ = 15
+units_on_NL_CCGT,2030,7,21_24_ = 7
 units_on_NL_CCGT,2030,8,1_4_ = 0
 units_on_NL_CCGT,2030,8,5_8_ = 0
 units_on_NL_CCGT,2030,8,9_12_ = 0
@@ -25497,25 +24657,25 @@ units_on_NL_CCGT,2030,9,1_4_ = 0
 units_on_NL_CCGT,2030,9,5_8_ = 0
 units_on_NL_CCGT,2030,9,9_12_ = 0
 units_on_NL_CCGT,2030,9,13_16_ = 0
-units_on_NL_CCGT,2030,9,17_20_ = 1
+units_on_NL_CCGT,2030,9,17_20_ = 0
 units_on_NL_CCGT,2030,9,21_24_ = 0
-units_on_NL_CCGT,2030,10,1_4_ = 5
-units_on_NL_CCGT,2030,10,5_8_ = 13
-units_on_NL_CCGT,2030,10,9_12_ = 13
-units_on_NL_CCGT,2030,10,13_16_ = 13
-units_on_NL_CCGT,2030,10,17_20_ = 13
+units_on_NL_CCGT,2030,10,1_4_ = 7
+units_on_NL_CCGT,2030,10,5_8_ = 15
+units_on_NL_CCGT,2030,10,9_12_ = 15
+units_on_NL_CCGT,2030,10,13_16_ = 15
+units_on_NL_CCGT,2030,10,17_20_ = 15
 units_on_NL_CCGT,2030,10,21_24_ = 0
-units_on_NL_Coal,2030,1,1_4_ = 6
-units_on_NL_Coal,2030,1,5_8_ = 6
-units_on_NL_Coal,2030,1,9_12_ = 6
-units_on_NL_Coal,2030,1,13_16_ = 6
-units_on_NL_Coal,2030,1,17_20_ = 6
-units_on_NL_Coal,2030,1,21_24_ = 6
-units_on_NL_Coal,2030,2,1_4_ = 6
-units_on_NL_Coal,2030,2,5_8_ = 6
-units_on_NL_Coal,2030,2,9_12_ = 6
-units_on_NL_Coal,2030,2,13_16_ = 6
-units_on_NL_Coal,2030,2,17_20_ = 6
+units_on_NL_Coal,2030,1,1_4_ = 5
+units_on_NL_Coal,2030,1,5_8_ = 5
+units_on_NL_Coal,2030,1,9_12_ = 5
+units_on_NL_Coal,2030,1,13_16_ = 5
+units_on_NL_Coal,2030,1,17_20_ = 5
+units_on_NL_Coal,2030,1,21_24_ = 3
+units_on_NL_Coal,2030,2,1_4_ = 5
+units_on_NL_Coal,2030,2,5_8_ = 5
+units_on_NL_Coal,2030,2,9_12_ = 5
+units_on_NL_Coal,2030,2,13_16_ = 5
+units_on_NL_Coal,2030,2,17_20_ = 5
 units_on_NL_Coal,2030,2,21_24_ = 0
 units_on_NL_Coal,2030,3,1_4_ = 0
 units_on_NL_Coal,2030,3,5_8_ = 0
@@ -25535,18 +24695,18 @@ units_on_NL_Coal,2030,5,9_12_ = 0
 units_on_NL_Coal,2030,5,13_16_ = 0
 units_on_NL_Coal,2030,5,17_20_ = 0
 units_on_NL_Coal,2030,5,21_24_ = 0
-units_on_NL_Coal,2030,6,1_4_ = 6
-units_on_NL_Coal,2030,6,5_8_ = 6
-units_on_NL_Coal,2030,6,9_12_ = 6
-units_on_NL_Coal,2030,6,13_16_ = 4
-units_on_NL_Coal,2030,6,17_20_ = 4
-units_on_NL_Coal,2030,6,21_24_ = 4
-units_on_NL_Coal,2030,7,1_4_ = 6
-units_on_NL_Coal,2030,7,5_8_ = 6
-units_on_NL_Coal,2030,7,9_12_ = 6
-units_on_NL_Coal,2030,7,13_16_ = 6
-units_on_NL_Coal,2030,7,17_20_ = 6
-units_on_NL_Coal,2030,7,21_24_ = 6
+units_on_NL_Coal,2030,6,1_4_ = 5
+units_on_NL_Coal,2030,6,5_8_ = 5
+units_on_NL_Coal,2030,6,9_12_ = 5
+units_on_NL_Coal,2030,6,13_16_ = 3
+units_on_NL_Coal,2030,6,17_20_ = 3
+units_on_NL_Coal,2030,6,21_24_ = 3
+units_on_NL_Coal,2030,7,1_4_ = 5
+units_on_NL_Coal,2030,7,5_8_ = 5
+units_on_NL_Coal,2030,7,9_12_ = 5
+units_on_NL_Coal,2030,7,13_16_ = 5
+units_on_NL_Coal,2030,7,17_20_ = 5
+units_on_NL_Coal,2030,7,21_24_ = 5
 units_on_NL_Coal,2030,8,1_4_ = 0
 units_on_NL_Coal,2030,8,5_8_ = 0
 units_on_NL_Coal,2030,8,9_12_ = 0
@@ -25559,12 +24719,12 @@ units_on_NL_Coal,2030,9,9_12_ = 0
 units_on_NL_Coal,2030,9,13_16_ = 0
 units_on_NL_Coal,2030,9,17_20_ = 0
 units_on_NL_Coal,2030,9,21_24_ = 0
-units_on_NL_Coal,2030,10,1_4_ = 6
-units_on_NL_Coal,2030,10,5_8_ = 6
-units_on_NL_Coal,2030,10,9_12_ = 6
-units_on_NL_Coal,2030,10,13_16_ = 6
-units_on_NL_Coal,2030,10,17_20_ = 6
-units_on_NL_Coal,2030,10,21_24_ = 6
+units_on_NL_Coal,2030,10,1_4_ = 5
+units_on_NL_Coal,2030,10,5_8_ = 5
+units_on_NL_Coal,2030,10,9_12_ = 5
+units_on_NL_Coal,2030,10,13_16_ = 5
+units_on_NL_Coal,2030,10,17_20_ = 5
+units_on_NL_Coal,2030,10,21_24_ = 5
 units_on_NL_Nuclear,2030,1,1_4_ = 0
 units_on_NL_Nuclear,2030,1,5_8_ = 0
 units_on_NL_Nuclear,2030,1,9_12_ = 0
@@ -25681,7 +24841,7 @@ units_on_NL_OCGT,2030,9,17_20_ = 0
 units_on_NL_OCGT,2030,9,21_24_ = 0
 units_on_NL_OCGT,2030,10,1_4_ = 0
 units_on_NL_OCGT,2030,10,5_8_ = 0
-units_on_NL_OCGT,2030,10,9_12_ = 0
+units_on_NL_OCGT,2030,10,9_12_ = 3
 units_on_NL_OCGT,2030,10,13_16_ = 3
 units_on_NL_OCGT,2030,10,17_20_ = 3
 units_on_NL_OCGT,2030,10,21_24_ = 0
@@ -25693,8 +24853,8 @@ units_on_UK_CCGT,2030,1,17_20_ = 0
 units_on_UK_CCGT,2030,1,21_24_ = 0
 units_on_UK_CCGT,2030,2,1_4_ = 0
 units_on_UK_CCGT,2030,2,5_8_ = 0
-units_on_UK_CCGT,2030,2,9_12_ = 3
-units_on_UK_CCGT,2030,2,13_16_ = 16
+units_on_UK_CCGT,2030,2,9_12_ = 2
+units_on_UK_CCGT,2030,2,13_16_ = 22
 units_on_UK_CCGT,2030,2,17_20_ = 22
 units_on_UK_CCGT,2030,2,21_24_ = 0
 units_on_UK_CCGT,2030,3,1_4_ = 0
@@ -25717,7 +24877,7 @@ units_on_UK_CCGT,2030,5,17_20_ = 0
 units_on_UK_CCGT,2030,5,21_24_ = 0
 units_on_UK_CCGT,2030,6,1_4_ = 0
 units_on_UK_CCGT,2030,6,5_8_ = 0
-units_on_UK_CCGT,2030,6,9_12_ = 2
+units_on_UK_CCGT,2030,6,9_12_ = 0
 units_on_UK_CCGT,2030,6,13_16_ = 0
 units_on_UK_CCGT,2030,6,17_20_ = 0
 units_on_UK_CCGT,2030,6,21_24_ = 0
@@ -25748,11 +24908,11 @@ units_on_UK_CCGT,2030,10,21_24_ = 0
 units_on_UK_Coal,2030,1,1_4_ = 0
 units_on_UK_Coal,2030,1,5_8_ = 1
 units_on_UK_Coal,2030,1,9_12_ = 3
-units_on_UK_Coal,2030,1,13_16_ = 2
-units_on_UK_Coal,2030,1,17_20_ = 2
-units_on_UK_Coal,2030,1,21_24_ = 2
-units_on_UK_Coal,2030,2,1_4_ = 1
-units_on_UK_Coal,2030,2,5_8_ = 1
+units_on_UK_Coal,2030,1,13_16_ = 3
+units_on_UK_Coal,2030,1,17_20_ = 3
+units_on_UK_Coal,2030,1,21_24_ = 3
+units_on_UK_Coal,2030,2,1_4_ = 0
+units_on_UK_Coal,2030,2,5_8_ = 0
 units_on_UK_Coal,2030,2,9_12_ = 3
 units_on_UK_Coal,2030,2,13_16_ = 3
 units_on_UK_Coal,2030,2,17_20_ = 3
@@ -25777,9 +24937,9 @@ units_on_UK_Coal,2030,5,17_20_ = 0
 units_on_UK_Coal,2030,5,21_24_ = 0
 units_on_UK_Coal,2030,6,1_4_ = 0
 units_on_UK_Coal,2030,6,5_8_ = 0
-units_on_UK_Coal,2030,6,9_12_ = 0
-units_on_UK_Coal,2030,6,13_16_ = 0
-units_on_UK_Coal,2030,6,17_20_ = 0
+units_on_UK_Coal,2030,6,9_12_ = 2
+units_on_UK_Coal,2030,6,13_16_ = 1
+units_on_UK_Coal,2030,6,17_20_ = 1
 units_on_UK_Coal,2030,6,21_24_ = 0
 units_on_UK_Coal,2030,7,1_4_ = 0
 units_on_UK_Coal,2030,7,5_8_ = 3
@@ -25903,8 +25063,8 @@ units_on_UK_OCGT,2030,6,17_20_ = 0
 units_on_UK_OCGT,2030,6,21_24_ = 0
 units_on_UK_OCGT,2030,7,1_4_ = 0
 units_on_UK_OCGT,2030,7,5_8_ = 0
-units_on_UK_OCGT,2030,7,9_12_ = 4
-units_on_UK_OCGT,2030,7,13_16_ = 0
+units_on_UK_OCGT,2030,7,9_12_ = 0
+units_on_UK_OCGT,2030,7,13_16_ = 1
 units_on_UK_OCGT,2030,7,17_20_ = 4
 units_on_UK_OCGT,2030,7,21_24_ = 0
 units_on_UK_OCGT,2030,8,1_4_ = 0
@@ -26445,7 +25605,7 @@ start_up_LU_Coal,2030,7,1_4_ = 0
 start_up_LU_Coal,2030,7,5_8_ = 0
 start_up_LU_Coal,2030,7,9_12_ = 0
 start_up_LU_Coal,2030,7,13_16_ = 0
-start_up_LU_Coal,2030,7,17_20_ = 0
+start_up_LU_Coal,2030,7,17_20_ = 1
 start_up_LU_Coal,2030,7,21_24_ = 0
 start_up_LU_Coal,2030,8,1_4_ = 0
 start_up_LU_Coal,2030,8,5_8_ = 0
@@ -26460,7 +25620,7 @@ start_up_LU_Coal,2030,9,13_16_ = 0
 start_up_LU_Coal,2030,9,17_20_ = 0
 start_up_LU_Coal,2030,9,21_24_ = 0
 start_up_LU_Coal,2030,10,1_4_ = 0
-start_up_LU_Coal,2030,10,5_8_ = 0
+start_up_LU_Coal,2030,10,5_8_ = 1
 start_up_LU_Coal,2030,10,9_12_ = 0
 start_up_LU_Coal,2030,10,13_16_ = 0
 start_up_LU_Coal,2030,10,17_20_ = 0
@@ -26653,7 +25813,7 @@ start_up_UK_Coal,2030,1,17_20_ = 0
 start_up_UK_Coal,2030,1,21_24_ = 0
 start_up_UK_Coal,2030,2,1_4_ = 0
 start_up_UK_Coal,2030,2,5_8_ = 0
-start_up_UK_Coal,2030,2,9_12_ = 2
+start_up_UK_Coal,2030,2,9_12_ = 3
 start_up_UK_Coal,2030,2,13_16_ = 0
 start_up_UK_Coal,2030,2,17_20_ = 0
 start_up_UK_Coal,2030,2,21_24_ = 0
@@ -26677,7 +25837,7 @@ start_up_UK_Coal,2030,5,17_20_ = 0
 start_up_UK_Coal,2030,5,21_24_ = 0
 start_up_UK_Coal,2030,6,1_4_ = 0
 start_up_UK_Coal,2030,6,5_8_ = 0
-start_up_UK_Coal,2030,6,9_12_ = 0
+start_up_UK_Coal,2030,6,9_12_ = 2
 start_up_UK_Coal,2030,6,13_16_ = 0
 start_up_UK_Coal,2030,6,17_20_ = 0
 start_up_UK_Coal,2030,6,21_24_ = 0
@@ -27285,8 +26445,8 @@ shut_down_LU_Coal,2030,7,1_4_ = 0
 shut_down_LU_Coal,2030,7,5_8_ = 0
 shut_down_LU_Coal,2030,7,9_12_ = 0
 shut_down_LU_Coal,2030,7,13_16_ = 0
-shut_down_LU_Coal,2030,7,17_20_ = 0
-shut_down_LU_Coal,2030,7,21_24_ = 2
+shut_down_LU_Coal,2030,7,17_20_ = 1
+shut_down_LU_Coal,2030,7,21_24_ = 0
 shut_down_LU_Coal,2030,8,1_4_ = 0
 shut_down_LU_Coal,2030,8,5_8_ = 0
 shut_down_LU_Coal,2030,8,9_12_ = 0
@@ -27370,13 +26530,13 @@ shut_down_NL_Coal,2030,1,5_8_ = 0
 shut_down_NL_Coal,2030,1,9_12_ = 0
 shut_down_NL_Coal,2030,1,13_16_ = 0
 shut_down_NL_Coal,2030,1,17_20_ = 0
-shut_down_NL_Coal,2030,1,21_24_ = 0
+shut_down_NL_Coal,2030,1,21_24_ = 2
 shut_down_NL_Coal,2030,2,1_4_ = 0
 shut_down_NL_Coal,2030,2,5_8_ = 0
 shut_down_NL_Coal,2030,2,9_12_ = 0
 shut_down_NL_Coal,2030,2,13_16_ = 0
 shut_down_NL_Coal,2030,2,17_20_ = 0
-shut_down_NL_Coal,2030,2,21_24_ = 6
+shut_down_NL_Coal,2030,2,21_24_ = 5
 shut_down_NL_Coal,2030,3,1_4_ = 0
 shut_down_NL_Coal,2030,3,5_8_ = 0
 shut_down_NL_Coal,2030,3,9_12_ = 0
@@ -27488,10 +26648,10 @@ shut_down_NL_Nuclear,2030,10,21_24_ = 0
 shut_down_UK_Coal,2030,1,1_4_ = 0
 shut_down_UK_Coal,2030,1,5_8_ = 0
 shut_down_UK_Coal,2030,1,9_12_ = 0
-shut_down_UK_Coal,2030,1,13_16_ = 1
+shut_down_UK_Coal,2030,1,13_16_ = 0
 shut_down_UK_Coal,2030,1,17_20_ = 0
 shut_down_UK_Coal,2030,1,21_24_ = 0
-shut_down_UK_Coal,2030,2,1_4_ = 0
+shut_down_UK_Coal,2030,2,1_4_ = 3
 shut_down_UK_Coal,2030,2,5_8_ = 0
 shut_down_UK_Coal,2030,2,9_12_ = 0
 shut_down_UK_Coal,2030,2,13_16_ = 0
@@ -27515,12 +26675,12 @@ shut_down_UK_Coal,2030,5,9_12_ = 0
 shut_down_UK_Coal,2030,5,13_16_ = 0
 shut_down_UK_Coal,2030,5,17_20_ = 0
 shut_down_UK_Coal,2030,5,21_24_ = 0
-shut_down_UK_Coal,2030,6,1_4_ = 0
+shut_down_UK_Coal,2030,6,1_4_ = 2
 shut_down_UK_Coal,2030,6,5_8_ = 0
 shut_down_UK_Coal,2030,6,9_12_ = 0
-shut_down_UK_Coal,2030,6,13_16_ = 0
+shut_down_UK_Coal,2030,6,13_16_ = 1
 shut_down_UK_Coal,2030,6,17_20_ = 0
-shut_down_UK_Coal,2030,6,21_24_ = 0
+shut_down_UK_Coal,2030,6,21_24_ = 1
 shut_down_UK_Coal,2030,7,1_4_ = 0
 shut_down_UK_Coal,2030,7,5_8_ = 0
 shut_down_UK_Coal,2030,7,9_12_ = 0

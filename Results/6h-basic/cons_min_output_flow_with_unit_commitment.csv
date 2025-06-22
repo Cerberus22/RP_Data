@@ -39,7 +39,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 38,BE_CCGT,2030,10,7,12,0.0
 39,BE_CCGT,2030,10,13,18,0.0
 40,BE_CCGT,2030,10,19,24,0.0
-41,BE_Coal,2030,1,1,6,0.0
+41,BE_Coal,2030,1,1,6,-0.0
 42,BE_Coal,2030,1,7,12,0.0
 43,BE_Coal,2030,1,13,18,0.0
 44,BE_Coal,2030,1,19,24,0.0
@@ -172,7 +172,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 171,CH_CCGT,2030,3,13,18,0.0
 172,CH_CCGT,2030,3,19,24,0.0
 173,CH_CCGT,2030,4,1,6,0.0
-174,CH_CCGT,2030,4,7,12,2.1114
+174,CH_CCGT,2030,4,7,12,0.0
 175,CH_CCGT,2030,4,13,18,0.0
 176,CH_CCGT,2030,4,19,24,0.0
 177,CH_CCGT,2030,5,1,6,0.0
@@ -197,7 +197,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 196,CH_CCGT,2030,9,19,24,0.0
 197,CH_CCGT,2030,10,1,6,0.0
 198,CH_CCGT,2030,10,7,12,0.0
-199,CH_CCGT,2030,10,13,18,0.0
+199,CH_CCGT,2030,10,13,18,4.2228
 200,CH_CCGT,2030,10,19,24,0.0
 201,CH_Coal,2030,1,1,6,0.0
 202,CH_Coal,2030,1,7,12,0.0
@@ -205,7 +205,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 204,CH_Coal,2030,1,19,24,0.0
 205,CH_Coal,2030,2,1,6,0.0
 206,CH_Coal,2030,2,7,12,0.0
-207,CH_Coal,2030,2,13,18,-0.0
+207,CH_Coal,2030,2,13,18,0.0
 208,CH_Coal,2030,2,19,24,0.0
 209,CH_Coal,2030,3,1,6,0.0
 210,CH_Coal,2030,3,7,12,0.0
@@ -345,7 +345,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 344,DE_CCGT,2030,6,19,24,0.0
 345,DE_CCGT,2030,7,1,6,0.0
 346,DE_CCGT,2030,7,7,12,0.0
-347,DE_CCGT,2030,7,13,18,3.3966000000000003
+347,DE_CCGT,2030,7,13,18,0.0
 348,DE_CCGT,2030,7,19,24,0.0
 349,DE_CCGT,2030,8,1,6,0.0
 350,DE_CCGT,2030,8,7,12,0.0
@@ -364,13 +364,13 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 363,DE_Coal,2030,1,13,18,0.0
 364,DE_Coal,2030,1,19,24,0.0
 365,DE_Coal,2030,2,1,6,0.0
-366,DE_Coal,2030,2,7,12,0.0
+366,DE_Coal,2030,2,7,12,-0.0
 367,DE_Coal,2030,2,13,18,0.0
 368,DE_Coal,2030,2,19,24,0.0
 369,DE_Coal,2030,3,1,6,0.0
 370,DE_Coal,2030,3,7,12,0.0
 371,DE_Coal,2030,3,13,18,0.0
-372,DE_Coal,2030,3,19,24,0.0
+372,DE_Coal,2030,3,19,24,2.7318000000000002
 373,DE_Coal,2030,4,1,6,0.0
 374,DE_Coal,2030,4,7,12,0.0
 375,DE_Coal,2030,4,13,18,0.0
@@ -861,7 +861,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 860,NL_Coal,2030,5,19,24,0.0
 861,NL_Coal,2030,6,1,6,0.0
 862,NL_Coal,2030,6,7,12,0.0
-863,NL_Coal,2030,6,13,18,1.6956
+863,NL_Coal,2030,6,13,18,0.0
 864,NL_Coal,2030,6,19,24,0.0
 865,NL_Coal,2030,7,1,6,0.0
 866,NL_Coal,2030,7,7,12,0.0

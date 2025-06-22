@@ -391,7 +391,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 390,FR_CCGT,2030,5,21,24,0.0
 391,FR_CCGT,2030,6,1,4,0.0
 392,FR_CCGT,2030,6,5,8,0.0
-393,FR_CCGT,2030,6,9,12,0.0
+393,FR_CCGT,2030,6,9,12,2.232
 394,FR_CCGT,2030,6,13,16,0.0
 395,FR_CCGT,2030,6,17,20,0.0
 396,FR_CCGT,2030,6,21,24,0.0
@@ -609,7 +609,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 608,NL_CCGT,2030,2,5,8,0.0
 609,NL_CCGT,2030,2,9,12,0.0
 610,NL_CCGT,2030,2,13,16,0.0
-611,NL_CCGT,2030,2,17,20,0.0
+611,NL_CCGT,2030,2,17,20,-0.0
 612,NL_CCGT,2030,2,21,24,0.0
 613,NL_CCGT,2030,3,1,4,0.0
 614,NL_CCGT,2030,3,5,8,0.0
@@ -635,7 +635,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 634,NL_CCGT,2030,6,13,16,0.0
 635,NL_CCGT,2030,6,17,20,0.0
 636,NL_CCGT,2030,6,21,24,0.0
-637,NL_CCGT,2030,7,1,4,0.0
+637,NL_CCGT,2030,7,1,4,2.2644
 638,NL_CCGT,2030,7,5,8,0.0
 639,NL_CCGT,2030,7,9,12,0.0
 640,NL_CCGT,2030,7,13,16,0.0
@@ -817,7 +817,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 816,UK_OCGT,2030,6,21,24,0.0
 817,UK_OCGT,2030,7,1,4,0.0
 818,UK_OCGT,2030,7,5,8,0.0
-819,UK_OCGT,2030,7,9,12,-0.0
+819,UK_OCGT,2030,7,9,12,0.0
 820,UK_OCGT,2030,7,13,16,0.0
 821,UK_OCGT,2030,7,17,20,0.0
 822,UK_OCGT,2030,7,21,24,0.0

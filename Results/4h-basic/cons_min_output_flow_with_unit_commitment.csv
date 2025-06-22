@@ -320,7 +320,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 319,CH_Coal,2030,4,1,4,0.0
 320,CH_Coal,2030,4,5,8,0.0
 321,CH_Coal,2030,4,9,12,0.0
-322,CH_Coal,2030,4,13,16,-0.0
+322,CH_Coal,2030,4,13,16,0.0
 323,CH_Coal,2030,4,17,20,0.0
 324,CH_Coal,2030,4,21,24,0.0
 325,CH_Coal,2030,5,1,4,0.0
@@ -333,7 +333,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 332,CH_Coal,2030,6,5,8,0.0
 333,CH_Coal,2030,6,9,12,0.0
 334,CH_Coal,2030,6,13,16,0.0
-335,CH_Coal,2030,6,17,20,-0.0
+335,CH_Coal,2030,6,17,20,0.0
 336,CH_Coal,2030,6,21,24,0.0
 337,CH_Coal,2030,7,1,4,0.0
 338,CH_Coal,2030,7,5,8,0.0
@@ -432,7 +432,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 431,CH_OCGT,2030,2,17,20,0.0
 432,CH_OCGT,2030,2,21,24,0.0
 433,CH_OCGT,2030,3,1,4,0.0
-434,CH_OCGT,2030,3,5,8,0.0
+434,CH_OCGT,2030,3,5,8,2.087999999999999
 435,CH_OCGT,2030,3,9,12,0.0
 436,CH_OCGT,2030,3,13,16,0.0
 437,CH_OCGT,2030,3,17,20,0.0
@@ -562,7 +562,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 561,DE_Coal,2030,4,9,12,0.0
 562,DE_Coal,2030,4,13,16,0.0
 563,DE_Coal,2030,4,17,20,0.0
-564,DE_Coal,2030,4,21,24,0.0
+564,DE_Coal,2030,4,21,24,-0.0
 565,DE_Coal,2030,5,1,4,0.0
 566,DE_Coal,2030,5,5,8,0.0
 567,DE_Coal,2030,5,9,12,0.0
@@ -1295,7 +1295,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_min_output_flow_wi
 1294,NL_Coal,2030,6,13,16,0.0
 1295,NL_Coal,2030,6,17,20,0.0
 1296,NL_Coal,2030,6,21,24,0.0
-1297,NL_Coal,2030,7,1,4,-0.0
+1297,NL_Coal,2030,7,1,4,0.0
 1298,NL_Coal,2030,7,5,8,0.0
 1299,NL_Coal,2030,7,9,12,0.0
 1300,NL_Coal,2030,7,13,16,0.0

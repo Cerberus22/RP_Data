@@ -71,7 +71,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 70,CH_Battery,2030,2,13,16,0.0
 71,CH_Battery,2030,2,17,20,0.0
 72,CH_Battery,2030,2,21,24,0.0
-73,CH_Battery,2030,3,1,4,-0.25256570566630554
+73,CH_Battery,2030,3,1,4,0.0
 74,CH_Battery,2030,3,5,8,0.0
 75,CH_Battery,2030,3,9,12,0.0
 76,CH_Battery,2030,3,13,16,0.0
@@ -95,7 +95,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 94,CH_Battery,2030,6,13,16,0.0
 95,CH_Battery,2030,6,17,20,0.0
 96,CH_Battery,2030,6,21,24,0.0
-97,CH_Battery,2030,7,1,4,-4.928399999999999
+97,CH_Battery,2030,7,1,4,0.0
 98,CH_Battery,2030,7,5,8,0.0
 99,CH_Battery,2030,7,9,12,0.0
 100,CH_Battery,2030,7,13,16,0.0
@@ -113,7 +113,7 @@ id,asset,year,rep_period,time_block_start,time_block_end,dual_max_input_flows_li
 112,CH_Battery,2030,9,13,16,0.0
 113,CH_Battery,2030,9,17,20,0.0
 114,CH_Battery,2030,9,21,24,0.0
-115,CH_Battery,2030,10,1,4,-6.127199999999998
+115,CH_Battery,2030,10,1,4,0.0
 116,CH_Battery,2030,10,5,8,0.0
 117,CH_Battery,2030,10,9,12,0.0
 118,CH_Battery,2030,10,13,16,0.0
